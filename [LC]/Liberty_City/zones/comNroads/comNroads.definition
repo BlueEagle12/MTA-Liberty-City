@@ -1,0 +1,4 @@
+<zoneDefinitions>
+    <definition id="com_custm_rd01" zone="comNroads" dff="com_custm_rd01" col="com_custm_rd01" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_custm_rd01" lodDistance="200"></definition>
+    <definition id="com_cust_roads18" zone="comNroads" dff="com_cust_roads18" col="com_cust_roads18" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_cust_roads18" lodDistance="200"></definition>
+</zoneDefinitions>

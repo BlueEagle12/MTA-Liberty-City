@@ -1,0 +1,9 @@
+<zoneDefinitions>
+    <definition id="ind_customroad116" zone="indroads" dff="ind_customroad116" col="ind_customroad116" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="ind_roadcustom334" zone="indroads" dff="ind_roadcustom334" col="ind_roadcustom334" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="ind_customroad093" zone="indroads" dff="ind_customroad093" col="ind_customroad093" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="ind_customroad114" zone="indroads" dff="ind_customroad114" col="ind_customroad114" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="ind_customroad102" zone="indroads" dff="ind_customroad102" col="ind_customroad102" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="bridge_endbit01" zone="indroads" dff="bridge_endbit01" col="bridge_endbit01" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="ind_customroad115" zone="indroads" dff="ind_customroad115" col="ind_customroad115" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_customroad115" lodDistance="300"></definition>
+</zoneDefinitions>

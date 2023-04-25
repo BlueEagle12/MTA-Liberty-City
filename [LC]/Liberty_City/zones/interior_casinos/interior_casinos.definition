@@ -1,0 +1,17 @@
+<zoneDefinitions>
+    <definition id="gen_doorext19" zone="interior_casinos" dff="gen_doorext19" col="gen_doorext19" txd="dave_door_2b" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="triad_lights2" default="true" zone="interior_casinos" dff="triad_lights2" col="triad_lights2" txd="casino" alphaTransparency="true" lod="true" lodID="triad_lights2" lodDistance="100"></definition>
+    <definition id="mafcasmain2" zone="interior_casinos" dff="mafcasmain2" col="mafcasmain2" txd="MafCasMain" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="blck_jack" default="true" zone="interior_casinos" dff="blck_jack" col="blck_jack" txd="kbblackjack" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="cj_slotcover1" zone="interior_casinos" dff="cj_slotcover1" col="cj_slotcover1" txd="cj_int" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="roulette_tbl" default="true" zone="interior_casinos" dff="roulette_tbl" col="roulette_tbl" txd="kbroul1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="mafcasmain4" zone="interior_casinos" dff="mafcasmain4" col="mafcasmain4" txd="MafCasMain" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="mafiacasinobar1" zone="interior_casinos" dff="mafiacasinobar1" col="mafiacasinobar1" txd="casmafbar" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="triad_main" default="true" zone="interior_casinos" dff="triad_main" col="triad_main" txd="triad_main" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="triad_main3" default="true" zone="interior_casinos" dff="triad_main3" col="triad_main3" txd="triad_main" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="triad_lights" default="true" zone="interior_casinos" dff="triad_lights" col="triad_lights" txd="triad_ext" alphaTransparency="nil" lod="true" lodID="triad_lights" lodDistance="299"></definition>
+    <definition id="triad_main2" default="true" zone="interior_casinos" dff="triad_main2" col="triad_main2" txd="triad_main" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="mafcasmain1" zone="interior_casinos" dff="mafcasmain1" col="mafcasmain1" txd="MafCasMain" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="cj_slot_bank" zone="interior_casinos" dff="cj_slot_bank" col="cj_slot_bank" txd="slot_bank" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="mafcasmain3" zone="interior_casinos" dff="mafcasmain3" col="mafcasmain3" txd="MafCasMain" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+</zoneDefinitions>

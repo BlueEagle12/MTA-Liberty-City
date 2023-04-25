@@ -1,0 +1,15 @@
+<map>
+    <object id="int3int_carupg_int" model="14776" posX="619.78900146484" posY="-9.3125" posZ="1006.4299926758" rotX="0" rotY="0" rotZ="270" interior="1" dimension="-1"></object>
+    <object id="int3int_kbsgarage" model="14783" posX="616.17199707031" posY="-76.429702758789" posZ="998.96099853516" rotX="0" rotY="0" rotZ="0" interior="2" dimension="-1"></object>
+    <object id="int_kbsgarage05b" model="14796" posX="611.27301025391" posY="-76.523399353027" posZ="1000.6900024414" rotX="0" rotY="0" rotZ="0" interior="2" dimension="-1"></object>
+    <object id="int_kbsgarage2" model="14826" posX="618.60198974609" posY="-79.093803405762" posZ="997.69500732422" rotX="0" rotY="0" rotZ="0" interior="2" dimension="-1"></object>
+    <object id="int_kbsgarage3" model="14798" posX="616.14801025391" posY="-125.39099884033" posZ="998.19500732422" rotX="0" rotY="0" rotZ="0" interior="3" dimension="-1"></object>
+    <object id="int_kbsgarage3b" model="14797" posX="617.75" posY="-125.39099884033" posZ="998.32000732422" rotX="0" rotY="0" rotZ="0" interior="3" dimension="-1"></object>
+    <object id="portint" model="8585" posX="-1089.6500244141" posY="-543.75299072266" posZ="1001" rotX="0" rotY="359" rotZ="180" interior="14" dimension="-1"></object>
+    <object id="portint2" model="8585" posX="-1089.6500244141" posY="-543.75299072266" posZ="1001" rotX="0" rotY="0" rotZ="180" interior="14" dimension="-1"></object>
+    <object id="shoplight1" model="1893" posX="-87.442993164063" posY="-1435.1185302734" posZ="468.03500366211" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+    <object id="shoplight1" model="1893" posX="-87.442993164063" posY="-1415.1185302734" posZ="468.03500366211" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+    <object id="shoplight1" model="1893" posX="-87.442993164063" posY="-1425.1185302734" posZ="468.03500366211" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+    <object id="shoplight1" model="1893" posX="-87.442993164063" posY="-1445.1185302734" posZ="468.03500366211" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+    <object id="shoplight1" model="1893" posX="-87.442993164063" posY="-1455.1185302734" posZ="468.03500366211" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+</map>

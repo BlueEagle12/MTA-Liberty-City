@@ -1,0 +1,81 @@
+<zoneDefinitions>
+    <definition id="dinerind" zone="industSW" dff="dinerind" col="dinerind" txd="newbuildind" alphaTransparency="nil" lod="true" lodID="dinerind" lodDistance="140"></definition>
+    <definition id="ind_land143" zone="industSW" dff="ind_land143" col="ind_land143" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land143" lodDistance="120"></definition>
+    <definition id="mak_bulbsmall" zone="industSW" dff="mak_bulbsmall" col="mak_bulbsmall" txd="chlight" alphaTransparency="nil" lod="nil" lodDistance="61"></definition>
+    <definition id="ind_land103" zone="industSW" dff="ind_land103" col="ind_land103" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land103" lodDistance="130"></definition>
+    <definition id="pathnodepoly" zone="industSW" dff="pathnodepoly" col="pathnodepoly" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="2"></definition>
+    <definition id="CALBDGE_16" zone="industSW" dff="CALBDGE_16" col="CALBDGE_16" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="CALBDGE_16" lodDistance="299"></definition>
+    <definition id="rail_platformw" zone="industSW" dff="rail_platformw" col="rail_platformw" txd="trainstairst" alphaTransparency="true" lod="true" lodID="rail_platformw" lodDistance="100"></definition>
+    <definition id="ind_land047" zone="industSW" dff="ind_land047" col="ind_land047" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land047" lodDistance="120"></definition>
+    <definition id="newbuildind" zone="industSW" dff="newbuildind" col="newbuildind" txd="newbuildind" alphaTransparency="nil" lod="true" lodID="newbuildind" lodDistance="210"></definition>
+    <definition id="inswdirt02" zone="industSW" dff="inswdirt02" col="inswdirt02" txd="dirtpass" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land108" zone="industSW" dff="ind_land108" col="ind_land108" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land108" lodDistance="120"></definition>
+    <definition id="ind_land112" zone="industSW" dff="ind_land112" col="ind_land112" txd="brgwall" alphaTransparency="nil" lod="true" lodID="ind_land112" lodDistance="125"></definition>
+    <definition id="ind_land144" zone="industSW" dff="ind_land144" col="ind_land144" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land144" lodDistance="200"></definition>
+    <definition id="dinerind02" zone="industSW" dff="dinerind02" col="dinerind02" txd="greasyjoes" alphaTransparency="nil" lod="true" lodID="dinerind02" lodDistance="120"></definition>
+    <definition id="fishwall" zone="industSW" dff="fishwall" col="fishwall" txd="fishwall" alphaTransparency="nil" lod="true" lodID="fishwall" lodDistance="100"></definition>
+    <definition id="ind_land128" zone="industSW" dff="ind_land128" col="ind_land128" txd="jetty" alphaTransparency="nil" lod="true" lodID="ind_land128" lodDistance="100"></definition>
+    <definition id="ind_land078" zone="industSW" dff="ind_land078" col="ind_land078" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="CALBDGE_06" zone="industSW" dff="CALBDGE_06" col="CALBDGE_06" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="CALBDGE_09" zone="industSW" dff="CALBDGE_09" col="CALBDGE_09" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="Chinabuilds08" zone="industSW" dff="Chinabuilds08" col="Chinabuilds08" txd="chinatowns" alphaTransparency="nil" lod="true" lodID="Chinabuilds08" lodDistance="120"></definition>
+    <definition id="chtwn_fmrkt" zone="industSW" dff="chtwn_fmrkt" col="chtwn_fmrkt" txd="chinaedge" alphaTransparency="true" lod="true" lodID="chtwn_fmrkt" lodDistance="100"></definition>
+    <definition id="inswdirt01" zone="industSW" dff="inswdirt01" col="inswdirt01" txd="dirtpass" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="Chinabuilds05" zone="industSW" dff="Chinabuilds05" col="Chinabuilds05" txd="china2big" alphaTransparency="true" lod="true" lodID="Chinabuilds05" lodDistance="120"></definition>
+    <definition id="ind_land110" zone="industSW" dff="ind_land110" col="ind_land110" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land110" lodDistance="120"></definition>
+    <definition id="CALBDGE_08" zone="industSW" dff="CALBDGE_08" col="CALBDGE_08" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ind_land130" zone="industSW" dff="ind_land130" col="ind_land130" txd="indtunnel" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land056" zone="industSW" dff="ind_land056" col="ind_land056" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land056" lodDistance="120"></definition>
+    <definition id="ind_land146" zone="industSW" dff="ind_land146" col="ind_land146" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land146" lodDistance="121"></definition>
+    <definition id="ch_roof_kb" zone="industSW" dff="ch_roof_kb" col="ch_roof_kb" txd="indchinabuild" alphaTransparency="nil" lod="true" lodID="ch_roof_kb" lodDistance="100"></definition>
+    <definition id="carwalls" zone="industSW" dff="carwalls" col="carwalls" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
+    <definition id="industpatch05" zone="industSW" dff="industpatch05" col="industpatch05" txd="trees2" alphaTransparency="true" lod="true" lodID="industpatch05" lodDistance="299"></definition>
+    <definition id="ind_land113" zone="industSW" dff="ind_land113" col="ind_land113" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land113" lodDistance="114"></definition>
+    <definition id="rdsign02bk" zone="industSW" dff="rdsign02bk" col="rdsign02bk" txd="rdsign02bk" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land102" zone="industSW" dff="ind_land102" col="ind_land102" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land102" lodDistance="120"></definition>
+    <definition id="ind_land019" zone="industSW" dff="ind_land019" col="ind_land019" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land019" lodDistance="146"></definition>
+    <definition id="ind_land127" zone="industSW" dff="ind_land127" col="ind_land127" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land127" lodDistance="100"></definition>
+    <definition id="ind_land129" zone="industSW" dff="ind_land129" col="ind_land129" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land129" lodDistance="220"></definition>
+    <definition id="CALBDGE_11" zone="industSW" dff="CALBDGE_11" col="CALBDGE_11" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ind_land109" zone="industSW" dff="ind_land109" col="ind_land109" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land109" lodDistance="120"></definition>
+    <definition id="overpassshadow" zone="industSW" dff="overpassshadow" col="overpassshadow" txd="trainstairst" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land006" zone="industSW" dff="ind_land006" col="ind_land006" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="103"></definition>
+    <definition id="ind_land145" zone="industSW" dff="ind_land145" col="ind_land145" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land145" lodDistance="158"></definition>
+    <definition id="ind_land106" zone="industSW" dff="ind_land106" col="ind_land106" txd="indpoliceball" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
+    <definition id="ind_land070" zone="industSW" dff="ind_land070" col="ind_land070" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land070" lodDistance="110"></definition>
+    <definition id="nrailstepswest" zone="industSW" dff="nrailstepswest" col="nrailstepswest" txd="trainstairst" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="Chinabuilds09" zone="industSW" dff="Chinabuilds09" col="Chinabuilds09" txd="indchinabuild" alphaTransparency="nil" lod="true" lodID="Chinabuilds09" lodDistance="100"></definition>
+    <definition id="ind_land105" zone="industSW" dff="ind_land105" col="ind_land105" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land105" lodDistance="120"></definition>
+    <definition id="Chinabuildnew1" zone="industSW" dff="Chinabuildnew1" col="Chinabuildnew1" txd="chinaedge" alphaTransparency="nil" lod="true" lodID="Chinabuildnew1" lodDistance="108"></definition>
+    <definition id="chinabuildorn" zone="industSW" dff="chinabuildorn" col="chinabuildorn" txd="chinatowns" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="Chinabuilds06" zone="industSW" dff="Chinabuilds06" col="Chinabuilds06" txd="chinaedge" alphaTransparency="nil" lod="true" lodID="Chinabuilds06" lodDistance="100"></definition>
+    <definition id="inswdirt04" zone="industSW" dff="inswdirt04" col="inswdirt04" txd="dirtpass" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="CALBDGE_01" zone="industSW" dff="CALBDGE_01" col="CALBDGE_01" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="CALBDGE_12" zone="industSW" dff="CALBDGE_12" col="CALBDGE_12" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="CALBDGE_12" lodDistance="299"></definition>
+    <definition id="CALBDGE_13" zone="industSW" dff="CALBDGE_13" col="CALBDGE_13" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="CALBDGE_13" lodDistance="299"></definition>
+    <definition id="policeballhall" zone="industSW" dff="policeballhall" col="policeballhall" txd="indpoliceball" alphaTransparency="nil" lod="true" lodID="policeballhall" lodDistance="120"></definition>
+    <definition id="new_chinaawning" zone="industSW" dff="new_chinaawning" col="new_chinaawning" txd="china2big" alphaTransparency="nil" lod="nil" lodDistance="95"></definition>
+    <definition id="ind_land104" zone="industSW" dff="ind_land104" col="ind_land104" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land104" lodDistance="120"></definition>
+    <definition id="ind_land045" zone="industSW" dff="ind_land045" col="ind_land045" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="125"></definition>
+    <definition id="chinaquadhouse" zone="industSW" dff="chinaquadhouse" col="chinaquadhouse" txd="china2big" alphaTransparency="nil" lod="true" lodID="chinaquadhouse" lodDistance="100"></definition>
+    <definition id="firescapb1" zone="industSW" dff="firescapb1" col="firescapb1" txd="indchinablocks" alphaTransparency="nil" lod="nil" lodDistance="67"></definition>
+    <definition id="inswdirt05" zone="industSW" dff="inswdirt05" col="inswdirt05" txd="dirtpass" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="iten_chinatown37" zone="industSW" dff="iten_chinatown37" col="iten_chinatown37" txd="china2big" alphaTransparency="nil" lod="nil" lodDistance="97"></definition>
+    <definition id="overpassind" zone="industSW" dff="overpassind" col="overpassind" txd="trainstairst" alphaTransparency="true" lod="true" lodID="overpassind" lodDistance="100"></definition>
+    <definition id="iten_chntown37b" zone="industSW" dff="iten_chntown37b" col="iten_chntown37b" txd="china2big" alphaTransparency="nil" lod="nil" lodDistance="97"></definition>
+    <definition id="Chinabuilds07" zone="industSW" dff="Chinabuilds07" col="Chinabuilds07" txd="chinatowns" alphaTransparency="nil" lod="true" lodID="Chinabuilds07" lodDistance="110"></definition>
+    <definition id="CALBDGE_17" zone="industSW" dff="CALBDGE_17" col="CALBDGE_17" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="CALBDGE_17" lodDistance="299"></definition>
+    <definition id="indbilbridge1" zone="industSW" dff="indbilbridge1" col="indbilbridge1" txd="indbrownbil" alphaTransparency="nil" lod="true" lodID="indbilbridge1" lodDistance="260"></definition>
+    <definition id="ind_land026" zone="industSW" dff="ind_land026" col="ind_land026" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land026" lodDistance="100"></definition>
+    <definition id="nullpathnodeinsw" zone="industSW" dff="nullpathnodeinsw" col="nullpathnodeinsw" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="inswdirt03" zone="industSW" dff="inswdirt03" col="inswdirt03" txd="dirtpass" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
+    <definition id="basketballcourt" zone="industSW" dff="basketballcourt" col="basketballcourt" txd="basketballcrt" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="indatree03" zone="industSW" dff="indatree03" col="indatree03" txd="trees2" alphaTransparency="true" lod="true" lodID="indatree03" lodDistance="299"></definition>
+    <definition id="dinersign" zone="industSW" dff="dinersign" col="dinersign" txd="inddiner" alphaTransparency="nil" lod="true" lodID="dinersign" lodDistance="100"></definition>
+    <definition id="rdsign14" zone="industSW" dff="rdsign14" col="rdsign14" txd="rdsign14" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="CALBDGE_04" zone="industSW" dff="CALBDGE_04" col="CALBDGE_04" txd="inddbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="billboard03" zone="industSW" dff="billboard03" col="billboard03" txd="indchinabuild" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="rdsign19" zone="industSW" dff="rdsign19" col="rdsign19" txd="rdsign19bk" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="Chinabuilds21" zone="industSW" dff="Chinabuilds21" col="Chinabuilds21" txd="chinatowns" alphaTransparency="nil" lod="true" lodID="Chinabuilds21" lodDistance="100"></definition>
+    <definition id="ind_land107" zone="industSW" dff="ind_land107" col="ind_land107" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land107" lodDistance="120"></definition>
+</zoneDefinitions>

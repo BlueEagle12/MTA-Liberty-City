@@ -1,0 +1,4 @@
+<map>
+    <object id="DressingRoom" model="8585" posX="-98.184997558594" posY="-1106.4300537109" posZ="50" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="bridge_lift" model="8585" posX="-614.439551125" posY="-631.557575312" posZ="49.01" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+</map>

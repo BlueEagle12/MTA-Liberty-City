@@ -1,0 +1,68 @@
+<zoneDefinitions>
+    <definition id="redlightbuild10" zone="industNW" dff="redlightbuild10" col="redlightbuild10" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild10" lodDistance="120"></definition>
+    <definition id="treepatch" zone="industNW" dff="treepatch" col="treepatch" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch" lodDistance="150"></definition>
+    <definition id="redlightbuild06e" zone="industNW" dff="redlightbuild06e" col="redlightbuild06e" txd="indredlitblk4" alphaTransparency="nil" lod="true" lodID="redlightbuild06e" lodDistance="100"></definition>
+    <definition id="redlightbuild12" zone="industNW" dff="redlightbuild12" col="redlightbuild12" txd="indredlitgrey" alphaTransparency="nil" lod="true" lodID="redlightbuild12" lodDistance="100"></definition>
+    <definition id="treepatchindnew2" zone="industNW" dff="treepatchindnew2" col="treepatchindnew2" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchindnew2" lodDistance="250"></definition>
+    <definition id="indNcoast6" zone="industNW" dff="indNcoast6" col="indNcoast6" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="indNcoast6" lodDistance="148"></definition>
+    <definition id="redlightbuild13" zone="industNW" dff="redlightbuild13" col="redlightbuild13" txd="indredlitgrey" alphaTransparency="nil" lod="true" lodID="redlightbuild13" lodDistance="100"></definition>
+    <definition id="towercenter" zone="industNW" dff="towercenter" col="towercenter" txd="indpj" alphaTransparency="nil" lod="true" lodID="towercenter" lodDistance="110"></definition>
+    <definition id="dirtpass2" zone="industNW" dff="dirtpass2" col="dirtpass2" txd="dirtpass" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="treepatchindnew" zone="industNW" dff="treepatchindnew" col="treepatchindnew" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchindnew" lodDistance="250"></definition>
+    <definition id="rdsign18bk" zone="industNW" dff="rdsign18bk" col="rdsign18bk" txd="rdsign18bk" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land147" zone="industNW" dff="ind_land147" col="ind_land147" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land147" lodDistance="121"></definition>
+    <definition id="ind_land148" zone="industNW" dff="ind_land148" col="ind_land148" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land148" lodDistance="120"></definition>
+    <definition id="ind_land149" zone="industNW" dff="ind_land149" col="ind_land149" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land149" lodDistance="220"></definition>
+    <definition id="ind_land012" zone="industNW" dff="ind_land012" col="ind_land012" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="205"></definition>
+    <definition id="ind_land052" zone="industNW" dff="ind_land052" col="ind_land052" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land052" lodDistance="220"></definition>
+    <definition id="indNcoast5" zone="industNW" dff="indNcoast5" col="indNcoast5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="indNcoast5" lodDistance="148"></definition>
+    <definition id="redlightbuild06b" zone="industNW" dff="redlightbuild06b" col="redlightbuild06b" txd="indredlitblk4" alphaTransparency="nil" lod="true" lodID="redlightbuild06b" lodDistance="120"></definition>
+    <definition id="ind_land041" zone="industNW" dff="ind_land041" col="ind_land041" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land041" lodDistance="189"></definition>
+    <definition id="indhibuild2" zone="industNW" dff="indhibuild2" col="indhibuild2" txd="indhibuildns" alphaTransparency="nil" lod="true" lodID="indhibuild2" lodDistance="123"></definition>
+    <definition id="redlightbuild05_nt" zone="industNW" dff="redlightbuild05_nt" col="redlightbuild05_nt" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild05_nt" lodDistance="130" timeIn="19" timeOut="6"></definition>
+    <definition id="DIRTPASS3" zone="industNW" dff="DIRTPASS3" col="DIRTPASS3" txd="dirtpass" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="indhibuild10" zone="industNW" dff="indhibuild10" col="indhibuild10" txd="indhibuildns" alphaTransparency="nil" lod="true" lodID="indhibuild10" lodDistance="123"></definition>
+    <definition id="trepatchindaa1" zone="industNW" dff="trepatchindaa1" col="trepatchindaa1" txd="trees2" alphaTransparency="true" lod="true" lodID="trepatchindaa1" lodDistance="299"></definition>
+    <definition id="ind_land150" zone="industNW" dff="ind_land150" col="ind_land150" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land150" lodDistance="175"></definition>
+    <definition id="indnwpath01" zone="industNW" dff="indnwpath01" col="indnwpath01" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="2"></definition>
+    <definition id="redlightbuild05_dy" zone="industNW" dff="redlightbuild05_dy" col="redlightbuild05_dy" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild05_dy" lodDistance="130" timeIn="6" timeOut="19"></definition>
+    <definition id="ind_plyrwoor" zone="industNW" dff="ind_plyrwoor" col="ind_plyrwoor" txd="indredlitblk1b" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="indtrainshad" zone="industNW" dff="indtrainshad" col="indtrainshad" txd="trainstair" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="ind_land014" zone="industNW" dff="ind_land014" col="ind_land014" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land014" lodDistance="136"></definition>
+    <definition id="ind_slidedoor" zone="industNW" dff="ind_slidedoor" col="ind_slidedoor" txd="indredlitblk2" alphaTransparency="nil" lod="nil" lodDistance="58"></definition>
+    <definition id="playerwarehouseint" zone="industNW" dff="playerwarehouseint" col="playerwarehouseint" txd="playerint" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="indnwpath02" zone="industNW" dff="indnwpath02" col="indnwpath02" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="2"></definition>
+    <definition id="ind_land092" zone="industNW" dff="ind_land092" col="ind_land092" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="112"></definition>
+    <definition id="ind_land010" zone="industNW" dff="ind_land010" col="ind_land010" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="157"></definition>
+    <definition id="ind_land118" zone="industNW" dff="ind_land118" col="ind_land118" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land118" lodDistance="170"></definition>
+    <definition id="ind_newradio" zone="industNW" dff="ind_newradio" col="ind_newradio" txd="indradio" alphaTransparency="nil" lod="true" lodID="ind_newradio" lodDistance="200"></definition>
+    <definition id="ind_land043" zone="industNW" dff="ind_land043" col="ind_land043" txd="bridgewee" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ind_land053" zone="industNW" dff="ind_land053" col="ind_land053" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land053" lodDistance="180"></definition>
+    <definition id="ind_land029" zone="industNW" dff="ind_land029" col="ind_land029" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land029" lodDistance="120"></definition>
+    <definition id="redlightbuild08a" zone="industNW" dff="redlightbuild08a" col="redlightbuild08a" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild08a" lodDistance="115"></definition>
+    <definition id="indsubway03" zone="industNW" dff="indsubway03" col="indsubway03" txd="subwayind" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="isubntrnce_b" zone="industNW" dff="isubntrnce_b" col="isubntrnce_b" txd="subwayindt" alphaTransparency="nil" lod="true" lodID="isubntrnce_b" lodDistance="110"></definition>
+    <definition id="nrailsteps" zone="industNW" dff="nrailsteps" col="nrailsteps" txd="trainstair" alphaTransparency="true" lod="true" lodID="nrailsteps" lodDistance="100"></definition>
+    <definition id="ind_land095" zone="industNW" dff="ind_land095" col="ind_land095" txd="indredlitblk1b" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="treepatch2" zone="industNW" dff="treepatch2" col="treepatch2" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch2" lodDistance="250"></definition>
+    <definition id="redlightfront" zone="industNW" dff="redlightfront" col="redlightfront" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightfront" lodDistance="130"></definition>
+    <definition id="redlightbuild06v" zone="industNW" dff="redlightbuild06v" col="redlightbuild06v" txd="indredlitblk4" alphaTransparency="nil" lod="true" lodID="redlightbuild06v" lodDistance="100"></definition>
+    <definition id="ind_land028" zone="industNW" dff="ind_land028" col="ind_land028" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land028" lodDistance="120"></definition>
+    <definition id="redlightbuild03" zone="industNW" dff="redlightbuild03" col="redlightbuild03" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild03" lodDistance="123"></definition>
+    <definition id="indnwpath03" zone="industNW" dff="indnwpath03" col="indnwpath03" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="2"></definition>
+    <definition id="redlightbuild09" zone="industNW" dff="redlightbuild09" col="redlightbuild09" txd="indredlitgrey" alphaTransparency="nil" lod="true" lodID="redlightbuild09" lodDistance="100"></definition>
+    <definition id="ind_land039" zone="industNW" dff="ind_land039" col="ind_land039" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land039" lodDistance="141"></definition>
+    <definition id="ind_inland667" zone="industNW" dff="ind_inland667" col="ind_inland667" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_inland667" lodDistance="117"></definition>
+    <definition id="LUIGICLUBout" zone="industNW" dff="LUIGICLUBout" col="LUIGICLUBout" txd="luigiclub" alphaTransparency="nil" lod="true" lodID="LUIGICLUBout" lodDistance="90"></definition>
+    <definition id="indhibuild3" zone="industNW" dff="indhibuild3" col="indhibuild3" txd="luigiclub" alphaTransparency="nil" lod="true" lodID="indhibuild3" lodDistance="90"></definition>
+    <definition id="ind_land044" zone="industNW" dff="ind_land044" col="ind_land044" txd="weebridge2" alphaTransparency="nil" lod="nil" lodDistance="190"></definition>
+    <definition id="indhibuild9" zone="industNW" dff="indhibuild9" col="indhibuild9" txd="indhibuildns" alphaTransparency="nil" lod="true" lodID="indhibuild9" lodDistance="100"></definition>
+    <definition id="luigiineerclub" zone="industNW" dff="luigiineerclub" col="luigiineerclub" txd="luigiclub" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="treepatchindaa2" zone="industNW" dff="treepatchindaa2" col="treepatchindaa2" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchindaa2" lodDistance="299"></definition>
+    <definition id="ind_land040" zone="industNW" dff="ind_land040" col="ind_land040" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land040" lodDistance="130"></definition>
+    <definition id="roadtun_entrance" zone="industNW" dff="roadtun_entrance" col="roadtun_entrance" txd="roadtunnelent" alphaTransparency="nil" lod="true" lodID="roadtun_entrance" lodDistance="240"></definition>
+    <definition id="indnwpath" zone="industNW" dff="indnwpath" col="indnwpath" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="2"></definition>
+    <definition id="redlightbuild11" zone="industNW" dff="redlightbuild11" col="redlightbuild11" txd="indredlitblk1b" alphaTransparency="nil" lod="true" lodID="redlightbuild11" lodDistance="140"></definition>
+    <definition id="ind_land015" zone="industNW" dff="ind_land015" col="ind_land015" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="ind_land015" lodDistance="134"></definition>
+    <definition id="ind_land101" zone="industNW" dff="ind_land101" col="ind_land101" txd="pjs" alphaTransparency="nil" lod="true" lodID="ind_land101" lodDistance="127"></definition>
+</zoneDefinitions>

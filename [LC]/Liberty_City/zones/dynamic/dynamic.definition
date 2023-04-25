@@ -1,0 +1,6 @@
+<zoneDefinitions>
+    <definition id="cj_ext_candy" zone="dynamic" dff="cj_ext_candy" col="cj_ext_candy" txd="cj_ext_vend2" alphaTransparency="true" lod="nil" lodDistance="30"></definition>
+    <definition id="cj_ext_sprunk" zone="dynamic" dff="cj_ext_sprunk" col="cj_ext_sprunk" txd="cj_ext_vend" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="conboots" zone="dynamic" dff="conboots" col="conboots" txd="conboots" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="cjnboots" zone="dynamic" dff="cjnboots" col="cjnboots" txd="conboots" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+</zoneDefinitions>

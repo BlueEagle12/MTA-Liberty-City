@@ -1,0 +1,101 @@
+<zoneDefinitions>
+    <definition id="empstat_basement" zone="comsw" dff="empstat_basement" col="empstat_basement" txd="cempirest" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
+    <definition id="tag5" zone="comsw" dff="tag5" col="tag5" txd="comhilo_tags" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="tshrorckgrdn_alfas" zone="comsw" dff="tshrorckgrdn_alfas" col="tshrorckgrdn_alfas" txd="lovies" alphaTransparency="true" lod="nil" lodDistance="50"></definition>
+    <definition id="graveyard" zone="comsw" dff="graveyard" col="graveyard" txd="graveyard" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="comerside_subway" zone="comsw" dff="comerside_subway" col="comerside_subway" txd="comsub_c" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wlst_skyscrp1" zone="comsw" dff="wlst_skyscrp1" col="wlst_skyscrp1" txd="bigbuild" alphaTransparency="nil" lod="true" lodID="wlst_skyscrp1" lodDistance="152"></definition>
+    <definition id="kb_ofis2" zone="comsw" dff="kb_ofis2" col="kb_ofis2" txd="comhilo1" alphaTransparency="nil" lod="true" lodID="kb_ofis2" lodDistance="144"></definition>
+    <definition id="area5build5" zone="comsw" dff="area5build5" col="area5build5" txd="area5b" alphaTransparency="nil" lod="true" lodID="area5build5" lodDistance="120"></definition>
+    <definition id="planter_short" zone="comsw" dff="planter_short" col="planter_short" txd="planters" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="artglry_stn" zone="comsw" dff="artglry_stn" col="artglry_stn" txd="comartgaly" alphaTransparency="nil" lod="true" lodID="artglry_stn" lodDistance="140"></definition>
+    <definition id="treepatchl" zone="comsw" dff="treepatchl" col="treepatchl" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="underground_over5" zone="comsw" dff="underground_over5" col="underground_over5" txd="comtunnels" alphaTransparency="nil" lod="true" lodID="underground_over5" lodDistance="120"></definition>
+    <definition id="treepatcha" zone="comsw" dff="treepatcha" col="treepatcha" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="240"></definition>
+    <definition id="underlight2" zone="comsw" dff="underlight2" col="underlight2" txd="comtunnels" alphaTransparency="nil" lod="nil" lodDistance="129"></definition>
+    <definition id="comswcentralbld7" zone="comsw" dff="comswcentralbld7" col="comswcentralbld7" txd="comhilo1" alphaTransparency="nil" lod="true" lodID="comswcentralbld7" lodDistance="160"></definition>
+    <definition id="block3_scraper2" zone="comsw" dff="block3_scraper2" col="block3_scraper2" txd="comhilo3e" alphaTransparency="nil" lod="true" lodID="block3_scraper2" lodDistance="150"></definition>
+    <definition id="block3_scraper3" zone="comsw" dff="block3_scraper3" col="block3_scraper3" txd="comhilo3h" alphaTransparency="nil" lod="true" lodID="block3_scraper3" lodDistance="120"></definition>
+    <definition id="blok3_ground" zone="comsw" dff="blok3_ground" col="blok3_ground" txd="tenement_ground" alphaTransparency="nil" lod="true" lodID="blok3_ground" lodDistance="235"></definition>
+    <definition id="treepatchd" zone="comsw" dff="treepatchd" col="treepatchd" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="opera_house" zone="comsw" dff="opera_house" col="opera_house" txd="operahouse" alphaTransparency="nil" lod="true" lodID="opera_house" lodDistance="128"></definition>
+    <definition id="comswcentralbld1" zone="comsw" dff="comswcentralbld1" col="comswcentralbld1" txd="area5b" alphaTransparency="nil" lod="true" lodID="comswcentralbld1" lodDistance="160"></definition>
+    <definition id="tag1" zone="comsw" dff="tag1" col="tag1" txd="comhilo_tags" alphaTransparency="true" lod="nil" lodDistance="80"></definition>
+    <definition id="underground_over7" zone="comsw" dff="underground_over7" col="underground_over7" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="underground_over7" lodDistance="120"></definition>
+    <definition id="treepatch69" zone="comsw" dff="treepatch69" col="treepatch69" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="tcsky_skyscrp6" zone="comsw" dff="tcsky_skyscrp6" col="tcsky_skyscrp6" txd="cskytosh" alphaTransparency="nil" lod="true" lodID="tcsky_skyscrp6" lodDistance="140"></definition>
+    <definition id="blok3_flats1" zone="comsw" dff="blok3_flats1" col="blok3_flats1" txd="ctenblock3c" alphaTransparency="nil" lod="true" lodID="blok3_flats1" lodDistance="120"></definition>
+    <definition id="block3_flats3" zone="comsw" dff="block3_flats3" col="block3_flats3" txd="ctenblock3c" alphaTransparency="nil" lod="true" lodID="block3_flats3" lodDistance="120"></definition>
+    <definition id="blok3_wall3" zone="comsw" dff="blok3_wall3" col="blok3_wall3" txd="tenement_ground" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="block3_scraper1" zone="comsw" dff="block3_scraper1" col="block3_scraper1" txd="comhilo3e" alphaTransparency="nil" lod="true" lodID="block3_scraper1" lodDistance="120"></definition>
+    <definition id="broadwaybuild3" zone="comsw" dff="broadwaybuild3" col="broadwaybuild3" txd="combroadwy2" alphaTransparency="nil" lod="true" lodID="broadwaybuild3" lodDistance="160"></definition>
+    <definition id="planter_long" zone="comsw" dff="planter_long" col="planter_long" txd="planters" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="underground_over6" zone="comsw" dff="underground_over6" col="underground_over6" txd="comtunnels" alphaTransparency="true" lod="true" lodID="underground_over6" lodDistance="120"></definition>
+    <definition id="undergroundS2" zone="comsw" dff="undergroundS2" col="undergroundS2" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="undergroundS2" lodDistance="122"></definition>
+    <definition id="undergroSD1" zone="comsw" dff="undergroSD1" col="undergroSD1" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="undergroSD1" lodDistance="200"></definition>
+    <definition id="subway_footbridge" zone="comsw" dff="subway_footbridge" col="subway_footbridge" txd="comsub_b" alphaTransparency="nil" lod="true" lodID="subway_footbridge" lodDistance="150"></definition>
+    <definition id="treepatchb" zone="comsw" dff="treepatchb" col="treepatchb" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="treepatchh" zone="comsw" dff="treepatchh" col="treepatchh" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="treepatchk" zone="comsw" dff="treepatchk" col="treepatchk" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="underground_over1" zone="comsw" dff="underground_over1" col="underground_over1" txd="comtunnels" alphaTransparency="true" lod="true" lodID="underground_over1" lodDistance="150"></definition>
+    <definition id="road_broadway02" zone="comsw" dff="road_broadway02" col="road_broadway02" txd="combroadwyrd" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="tag3" zone="comsw" dff="tag3" col="tag3" txd="comhilo_tags" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="tshrorckgrdn" zone="comsw" dff="tshrorckgrdn" col="tshrorckgrdn" txd="lovies" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="underground_over2" zone="comsw" dff="underground_over2" col="underground_over2" txd="comtunnels" alphaTransparency="true" lod="true" lodID="underground_over2" lodDistance="129"></definition>
+    <definition id="com_gazground" zone="comsw" dff="com_gazground" col="com_gazground" txd="cskytosh" alphaTransparency="nil" lod="true" lodID="com_gazground" lodDistance="100"></definition>
+    <definition id="underlight3" zone="comsw" dff="underlight3" col="underlight3" txd="comtunnels" alphaTransparency="nil" lod="nil" lodDistance="129"></definition>
+    <definition id="broadwaybuild2" zone="comsw" dff="broadwaybuild2" col="broadwaybuild2" txd="combroadwy2" alphaTransparency="nil" lod="true" lodID="broadwaybuild2" lodDistance="160"></definition>
+    <definition id="comswcentralbld5" zone="comsw" dff="comswcentralbld5" col="comswcentralbld5" txd="area5b" alphaTransparency="nil" lod="true" lodID="comswcentralbld5" lodDistance="160"></definition>
+    <definition id="undergroundS1" zone="comsw" dff="undergroundS1" col="undergroundS1" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="undergroundS1" lodDistance="120"></definition>
+    <definition id="subntrnce_b" zone="comsw" dff="subntrnce_b" col="subntrnce_b" txd="comsub_b" alphaTransparency="nil" lod="true" lodID="subntrnce_b" lodDistance="124"></definition>
+    <definition id="block3_flats2" zone="comsw" dff="block3_flats2" col="block3_flats2" txd="ctenblock3c" alphaTransparency="nil" lod="true" lodID="block3_flats2" lodDistance="120"></definition>
+    <definition id="billbrd_opra" zone="comsw" dff="billbrd_opra" col="billbrd_opra" txd="comsbilboard02" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="artgallerground" zone="comsw" dff="artgallerground" col="artgallerground" txd="comartgaly" alphaTransparency="true" lod="true" lodID="artgallerground" lodDistance="135"></definition>
+    <definition id="block3_shops4" zone="comsw" dff="block3_shops4" col="block3_shops4" txd="comhilo3shps" alphaTransparency="nil" lod="nil" lodDistance="112"></definition>
+    <definition id="treepatchm" zone="comsw" dff="treepatchm" col="treepatchm" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="com_land013" zone="comsw" dff="com_land013" col="com_land013" txd="area5b" alphaTransparency="nil" lod="true" lodID="com_land013" lodDistance="140"></definition>
+    <definition id="townhall_nite" zone="comsw" dff="townhall_nite" col="townhall_nite" txd="comtownhall" alphaTransparency="nil" lod="true" lodID="townhall_nite" lodDistance="118"></definition>
+    <definition id="tw@_pedpath_tri" zone="comsw" dff="tw@_pedpath_tri" col="tw@_pedpath_tri" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="tw@t_cafe" zone="comsw" dff="tw@t_cafe" col="tw@t_cafe" txd="tw@t" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="courthse_night" zone="comsw" dff="courthse_night" col="courthse_night" txd="commuseumkb" alphaTransparency="nil" lod="true" lodID="courthse_night" lodDistance="129"></definition>
+    <definition id="tag2" zone="comsw" dff="tag2" col="tag2" txd="comhilo_tags" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="subplatform" zone="comsw" dff="subplatform" col="subplatform" txd="comsub_c" alphaTransparency="nil" lod="nil" lodDistance="119"></definition>
+    <definition id="block3_shops5" zone="comsw" dff="block3_shops5" col="block3_shops5" txd="comhilo3shps" alphaTransparency="nil" lod="nil" lodDistance="108"></definition>
+    <definition id="kb_ofis1" zone="comsw" dff="kb_ofis1" col="kb_ofis1" txd="comhilo1" alphaTransparency="nil" lod="true" lodID="kb_ofis1" lodDistance="144"></definition>
+    <definition id="art_glry_bboard" zone="comsw" dff="art_glry_bboard" col="art_glry_bboard" txd="comsbilboard02" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="comswcentralbld6" zone="comsw" dff="comswcentralbld6" col="comswcentralbld6" txd="com_centrebit" alphaTransparency="true" lod="true" lodID="comswcentralbld6" lodDistance="160"></definition>
+    <definition id="custom_rd3_ug" zone="comsw" dff="custom_rd3_ug" col="custom_rd3_ug" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="custom_rd3_ug" lodDistance="200"></definition>
+    <definition id="custom_rd1_ug" zone="comsw" dff="custom_rd1_ug" col="custom_rd1_ug" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="custom_rd1_ug" lodDistance="175"></definition>
+    <definition id="block3_shops2" zone="comsw" dff="block3_shops2" col="block3_shops2" txd="comhilo3shps" alphaTransparency="nil" lod="nil" lodDistance="121"></definition>
+    <definition id="comswcentralbld3" zone="comsw" dff="comswcentralbld3" col="comswcentralbld3" txd="area5b" alphaTransparency="nil" lod="true" lodID="comswcentralbld3" lodDistance="160"></definition>
+    <definition id="subentrance" zone="comsw" dff="subentrance" col="subentrance" txd="comsub_b" alphaTransparency="nil" lod="true" lodID="subentrance" lodDistance="124"></definition>
+    <definition id="road_broadway01" zone="comsw" dff="road_broadway01" col="road_broadway01" txd="combroadwyrd" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="broadwaybuild" zone="comsw" dff="broadwaybuild" col="broadwaybuild" txd="combroadwy2" alphaTransparency="nil" lod="true" lodID="broadwaybuild" lodDistance="160"></definition>
+    <definition id="comsbilboard05" zone="comsw" dff="comsbilboard05" col="comsbilboard05" txd="comsbilboard05" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="twnhl_lndnite" zone="comsw" dff="twnhl_lndnite" col="twnhl_lndnite" txd="comtownhall" alphaTransparency="nil" lod="true" lodID="twnhl_lndnite" lodDistance="127"></definition>
+    <definition id="halfstatbot" zone="comsw" dff="halfstatbot" col="halfstatbot" txd="cempirest" alphaTransparency="nil" lod="true" lodID="halfstatbot" lodDistance="152"></definition>
+    <definition id="artglry_reflection" zone="comsw" dff="artglry_reflection" col="artglry_reflection" txd="comartgaly" alphaTransparency="nil" lod="nil" lodDistance="172"></definition>
+    <definition id="block3_fireesc_1" zone="comsw" dff="block3_fireesc_1" col="block3_fireesc_1" txd="fire_esc" alphaTransparency="true" lod="nil" lodDistance="105"></definition>
+    <definition id="halfstattop" zone="comsw" dff="halfstattop" col="halfstattop" txd="cempirest" alphaTransparency="nil" lod="true" lodID="halfstattop" lodDistance="152"></definition>
+    <definition id="com_land048nite" zone="comsw" dff="com_land048nite" col="com_land048nite" txd="groundbitties" alphaTransparency="nil" lod="true" lodID="com_land048nite" lodDistance="139"></definition>
+    <definition id="block3_shops3" zone="comsw" dff="block3_shops3" col="block3_shops3" txd="comhilo3shps" alphaTransparency="nil" lod="nil" lodDistance="142"></definition>
+    <definition id="treepatche" zone="comsw" dff="treepatche" col="treepatche" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="Clnm_cthdrlfcde" zone="comsw" dff="Clnm_cthdrlfcde" col="Clnm_cthdrlfcde" txd="church" alphaTransparency="nil" lod="true" lodID="Clnm_cthdrlfcde" lodDistance="142"></definition>
+    <definition id="block3scrtop" zone="comsw" dff="block3scrtop" col="block3scrtop" txd="ctenblock3c" alphaTransparency="nil" lod="true" lodID="block3scrtop" lodDistance="120"></definition>
+    <definition id="calahan_bboard" zone="comsw" dff="calahan_bboard" col="calahan_bboard" txd="comtownhall" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="tag4" zone="comsw" dff="tag4" col="tag4" txd="comhilo_tags" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="com_land064" zone="comsw" dff="com_land064" col="com_land064" txd="opera" alphaTransparency="nil" lod="true" lodID="com_land064" lodDistance="177"></definition>
+    <definition id="area5build2" zone="comsw" dff="area5build2" col="area5build2" txd="area5b" alphaTransparency="nil" lod="true" lodID="area5build2" lodDistance="120"></definition>
+    <definition id="comswcentralbld2" zone="comsw" dff="comswcentralbld2" col="comswcentralbld2" txd="com_centrebit" alphaTransparency="nil" lod="true" lodID="comswcentralbld2" lodDistance="160"></definition>
+    <definition id="custom_rd2_ug" zone="comsw" dff="custom_rd2_ug" col="custom_rd2_ug" txd="fdr_underpass" alphaTransparency="nil" lod="true" lodID="custom_rd2_ug" lodDistance="200"></definition>
+    <definition id="block3_fireesc_2" zone="comsw" dff="block3_fireesc_2" col="block3_fireesc_2" txd="fire_esc" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="underlight1" zone="comsw" dff="underlight1" col="underlight1" txd="comtunnels" alphaTransparency="nil" lod="nil" lodDistance="129"></definition>
+    <definition id="comswcentralbld4" zone="comsw" dff="comswcentralbld4" col="comswcentralbld4" txd="area5b" alphaTransparency="nil" lod="true" lodID="comswcentralbld4" lodDistance="160"></definition>
+    <definition id="shop_bit" zone="comsw" dff="shop_bit" col="shop_bit" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
+    <definition id="archedbuilding" zone="comsw" dff="archedbuilding" col="archedbuilding" txd="archedbuilding" alphaTransparency="nil" lod="true" lodID="archedbuilding" lodDistance="160"></definition>
+    <definition id="posh_shop" zone="comsw" dff="posh_shop" col="posh_shop" txd="posh_shopshit" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="block3_flats4" zone="comsw" dff="block3_flats4" col="block3_flats4" txd="ctenblock3c" alphaTransparency="nil" lod="true" lodID="block3_flats4" lodDistance="120"></definition>
+    <definition id="underground_over3" zone="comsw" dff="underground_over3" col="underground_over3" txd="comtunnels" alphaTransparency="true" lod="true" lodID="underground_over3" lodDistance="129"></definition>
+    <definition id="underground_over4" zone="comsw" dff="underground_over4" col="underground_over4" txd="comtunnels" alphaTransparency="true" lod="true" lodID="underground_over4" lodDistance="129"></definition>
+    <definition id="com_newland085" zone="comsw" dff="com_newland085" col="com_newland085" txd="crap_jetty" alphaTransparency="nil" lod="true" lodID="com_newland085" lodDistance="200"></definition>
+</zoneDefinitions>

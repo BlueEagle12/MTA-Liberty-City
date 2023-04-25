@@ -1,0 +1,135 @@
+<zoneDefinitions>
+    <definition id="sbwy_tunl_cstm9" zone="SALC" dff="sbwy_tunl_cstm9" col="sbwy_tunl_cstm9" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="slab_block" zone="SALC" dff="slab_block" col="slab_block" txd="buildinsite" alphaTransparency="nil" lod="nil" lodDistance="47"></definition>
+    <definition id="usedcardelrsign01" zone="SALC" dff="usedcardelrsign01" col="usedcardelrsign01" txd="USEDCAR" alphaTransparency="nil" lod="nil" lodDistance="361"></definition>
+    <definition id="tunl_2" zone="SALC" dff="tunl_2" col="tunl_2" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="smal_outsidelight" zone="SALC" dff="smal_outsidelight" col="smal_outsidelight" txd="smalllit" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="tunl_2_cus2" zone="SALC" dff="tunl_2_cus2" col="tunl_2_cus2" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="apairporthangerA" zone="SALC" dff="apairporthangerA" col="apairporthangerA" txd="airport" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="big_rock" zone="SALC" dff="big_rock" col="big_rock" txd="rock" alphaTransparency="nil" lod="nil" lodDistance="71"></definition>
+    <definition id="vegclubtree02" zone="SALC" dff="vegclubtree02" col="vegclubtree02" txd="pinetrees" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="Carparkbooth" zone="SALC" dff="Carparkbooth" col="Carparkbooth" txd="carparkbooth" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="rd_Road1A5" zone="SALC" dff="rd_Road1A5" col="rd_Road1A5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road1A5" lodDistance="220"></definition>
+    <definition id="hotel_outsidelight" zone="SALC" dff="hotel_outsidelight" col="hotel_outsidelight" txd="smalllit" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="fraightback01" zone="SALC" dff="fraightback01" col="fraightback01" txd="TRUCKTRAIL" alphaTransparency="true" lod="nil" lodDistance="140"></definition>
+    <definition id="vegpathtree" zone="SALC" dff="vegpathtree" col="vegpathtree" txd="pinetrees" alphaTransparency="true" lod="nil" lodDistance="250"></definition>
+    <definition id="helirock" zone="SALC" dff="helirock" col="helirock" txd="heli2" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="sub_billboard1" zone="SALC" dff="sub_billboard1" col="sub_billboard1" txd="billboard" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="verticalift_bridge" zone="SALC" dff="verticalift_bridge" col="verticalift_bridge" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="verticalift_bridge" lodDistance="299"></definition>
+    <definition id="veg_bush14" zone="SALC" dff="veg_bush14" col="veg_bush14" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="brownwat" zone="SALC" dff="brownwat" col="brownwat" txd="gtaiii" alphaTransparency="true" lod="nil" lodDistance="500"></definition>
+    <definition id="rd_Road2A10" zone="SALC" dff="rd_Road2A10" col="rd_Road2A10" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road2A10" lodDistance="220"></definition>
+    <definition id="scaffold_pole" zone="SALC" dff="scaffold_pole" col="scaffold_pole" txd="buildingsite" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="veg_treenew09" zone="SALC" dff="veg_treenew09" col="veg_treenew09" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="tunl_T4s" zone="SALC" dff="tunl_T4s" col="tunl_T4s" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="treetest" zone="SALC" dff="treetest" col="treetest" txd="gtaiii" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="subbridge01" zone="SALC" dff="subbridge01" col="subbridge01" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="subbridge01" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm8" zone="SALC" dff="sbwy_tunl_cstm8" col="sbwy_tunl_cstm8" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="bridge_path_parent" zone="SALC" dff="bridge_path_parent" col="bridge_path_parent" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="600"></definition>
+    <definition id="bridge_liftsec" zone="SALC" dff="bridge_liftsec" col="bridge_liftsec" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="bridge_liftsec" lodDistance="299"></definition>
+    <definition id="subbridge19" zone="SALC" dff="subbridge19" col="subbridge19" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="subbridge19" lodDistance="299"></definition>
+    <definition id="veg_treenew08" zone="SALC" dff="veg_treenew08" col="veg_treenew08" txd="trees" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="double_garage_dr" zone="SALC" dff="double_garage_dr" col="double_garage_dr" txd="door" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="custm_rd_splay1" zone="SALC" dff="custm_rd_splay1" col="custm_rd_splay1" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_4_Cus1" zone="SALC" dff="tunl_4_Cus1" col="tunl_4_Cus1" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm2" zone="SALC" dff="sbwy_tunl_cstm2" col="sbwy_tunl_cstm2" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="vheistlocdoor" zone="SALC" dff="vheistlocdoor" col="vheistlocdoor" txd="door" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="veg_treenew06" zone="SALC" dff="veg_treenew06" col="veg_treenew06" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="veg_treenew17" zone="SALC" dff="veg_treenew17" col="veg_treenew17" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="veg_treenew03" zone="SALC" dff="veg_treenew03" col="veg_treenew03" txd="trees" alphaTransparency="true" lod="nil" lodDistance="130"></definition>
+    <definition id="sub_tripbboard" zone="SALC" dff="sub_tripbboard" col="sub_tripbboard" txd="billboard" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="sbwy_tunl_cstm1" zone="SALC" dff="sbwy_tunl_cstm1" col="sbwy_tunl_cstm1" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="logcabinn" default="true" zone="SALC" dff="logcabinn" col="logcabinn" txd="logcabincs_t" alphaTransparency="nil" lod="nil" lodDistance="220"></definition>
+    <definition id="apairprtbits" zone="SALC" dff="apairprtbits" col="apairprtbits" txd="airport" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="mid_rock" zone="SALC" dff="mid_rock" col="mid_rock" txd="rock" alphaTransparency="nil" lod="nil" lodDistance="57"></definition>
+    <definition id="tunl_2_bend" zone="SALC" dff="tunl_2_bend" col="tunl_2_bend" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="rd_Road1A50" zone="SALC" dff="rd_Road1A50" col="rd_Road1A50" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road1A50" lodDistance="220"></definition>
+    <definition id="subbridge_lift" zone="SALC" dff="subbridge_lift" col="subbridge_lift" txd="vertbridge" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_4_Cus15" zone="SALC" dff="tunl_4_Cus15" col="tunl_4_Cus15" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="fraightback04" zone="SALC" dff="fraightback04" col="fraightback04" txd="TRUCKTRAIL" alphaTransparency="true" lod="nil" lodDistance="140"></definition>
+    <definition id="sbwy_tunl_cstm4" zone="SALC" dff="sbwy_tunl_cstm4" col="sbwy_tunl_cstm4" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="veg_tree1" zone="SALC" dff="veg_tree1" col="veg_tree1" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="Gsel_canopy5" zone="SALC" dff="Gsel_canopy5" col="Gsel_canopy5" txd="canopy" alphaTransparency="nil" lod="nil" lodDistance="134"></definition>
+    <definition id="tunl_4_Cus2" zone="SALC" dff="tunl_4_Cus2" col="tunl_4_Cus2" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="veg_treenew10" zone="SALC" dff="veg_treenew10" col="veg_treenew10" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="sbwy_tunl_bit" zone="SALC" dff="sbwy_tunl_bit" col="sbwy_tunl_bit" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="subbridge20" zone="SALC" dff="subbridge20" col="subbridge20" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="subbridge20" lodDistance="299"></definition>
+    <definition id="foundation" zone="SALC" dff="foundation" col="foundation" txd="buildingsite" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="tunl_4_Cus3" zone="SALC" dff="tunl_4_Cus3" col="tunl_4_Cus3" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_2_cus1" zone="SALC" dff="tunl_2_cus1" col="tunl_2_cus1" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="veg_treenew05" zone="SALC" dff="veg_treenew05" col="veg_treenew05" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="vegclubtree03" zone="SALC" dff="vegclubtree03" col="vegclubtree03" txd="pinetrees" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="carpark55" zone="SALC" dff="carpark55" col="carpark55" txd="carpark" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="police_cell_wall" zone="SALC" dff="police_cell_wall" col="police_cell_wall" txd="com_police" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="condotree01" zone="SALC" dff="condotree01" col="condotree01" txd="pinetrees" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="comtop_jety" zone="SALC" dff="comtop_jety" col="comtop_jety" txd="comtop_jetty" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="veg_treenew16" zone="SALC" dff="veg_treenew16" col="veg_treenew16" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="subbridge07" zone="SALC" dff="subbridge07" col="subbridge07" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="subbridge07" lodDistance="299"></definition>
+    <definition id="veg_bush2" zone="SALC" dff="veg_bush2" col="veg_bush2" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="rockpatch1" zone="SALC" dff="rockpatch1" col="rockpatch1" txd="rocky" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="shedgaragedoor" zone="SALC" dff="shedgaragedoor" col="shedgaragedoor" txd="subparts" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="tunl_4_Cus10" zone="SALC" dff="tunl_4_Cus10" col="tunl_4_Cus10" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_T4" zone="SALC" dff="tunl_T4" col="tunl_T4" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="garage_oddjob" zone="SALC" dff="garage_oddjob" col="garage_oddjob" txd="oddgar" alphaTransparency="nil" lod="true" lodID="garage_oddjob" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm7" zone="SALC" dff="sbwy_tunl_cstm7" col="sbwy_tunl_cstm7" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="bridge_support" zone="SALC" dff="bridge_support" col="bridge_support" txd="inddbridge" alphaTransparency="true" lod="true" lodID="bridge_support" lodDistance="213"></definition>
+    <definition id="sbwy_tunl_cstm3" zone="SALC" dff="sbwy_tunl_cstm3" col="sbwy_tunl_cstm3" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="com_pier3" zone="SALC" dff="com_pier3" col="com_pier3" txd="comdocks" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="hangar_frate" zone="SALC" dff="hangar_frate" col="hangar_frate" txd="subhangfrate" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="mscp_midlfloor" zone="SALC" dff="mscp_midlfloor" col="mscp_midlfloor" txd="carpark" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="fishstall04" zone="SALC" dff="fishstall04" col="fishstall04" txd="fishmarket" alphaTransparency="nil" lod="nil" lodDistance="46"></definition>
+    <definition id="custm_rd_splay1b" zone="SALC" dff="custm_rd_splay1b" col="custm_rd_splay1b" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_T4n" zone="SALC" dff="tunl_T4n" col="tunl_T4n" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm6" zone="SALC" dff="sbwy_tunl_cstm6" col="sbwy_tunl_cstm6" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="suby_tunl_start" zone="SALC" dff="suby_tunl_start" col="suby_tunl_start" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="smal_outsidelight2" zone="SALC" dff="smal_outsidelight2" col="smal_outsidelight2" txd="smalllit" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="hangar_boxes" zone="SALC" dff="hangar_boxes" col="hangar_boxes" txd="subhangbox" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="rd_Corner1" zone="SALC" dff="rd_Corner1" col="rd_Corner1" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Corner1" lodDistance="220"></definition>
+    <definition id="fishstall03" zone="SALC" dff="fishstall03" col="fishstall03" txd="fishmarket" alphaTransparency="nil" lod="nil" lodDistance="46"></definition>
+    <definition id="mscp_topfloor" zone="SALC" dff="mscp_topfloor" col="mscp_topfloor" txd="carpark" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="keithtomb" zone="SALC" dff="keithtomb" col="keithtomb" txd="keithtomb" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
+    <definition id="sbwy_tunl_cstm10" zone="SALC" dff="sbwy_tunl_cstm10" col="sbwy_tunl_cstm10" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="verticalift_bridg2" zone="SALC" dff="verticalift_bridg2" col="verticalift_bridg2" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="verticalift_bridg2" lodDistance="299"></definition>
+    <definition id="gser_portacabin02" zone="SALC" dff="gser_portacabin02" col="gser_portacabin02" txd="portacabin" alphaTransparency="nil" lod="nil" lodDistance="92"></definition>
+    <definition id="tunl_t2s" zone="SALC" dff="tunl_t2s" col="tunl_t2s" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_t2n" zone="SALC" dff="tunl_t2n" col="tunl_t2n" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="glassfx_composh" zone="SALC" dff="glassfx_composh" col="glassfx_composh" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="jump_box1" zone="SALC" dff="jump_box1" col="jump_box1" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="singlelight" zone="SALC" dff="singlelight" col="singlelight" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="tunlentind_4" zone="SALC" dff="tunlentind_4" col="tunlentind_4" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="oddjgaragdoor" zone="SALC" dff="oddjgaragdoor" col="oddjgaragdoor" txd="oddgar" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="rockpatch03" zone="SALC" dff="rockpatch03" col="rockpatch03" txd="rocky" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="porthangerclosed" zone="SALC" dff="porthangerclosed" col="porthangerclosed" txd="airport" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="smal_outsidelight3" zone="SALC" dff="smal_outsidelight3" col="smal_outsidelight3" txd="smalllit" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="rd_Road2A30" zone="SALC" dff="rd_Road2A30" col="rd_Road2A30" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road2A30" lodDistance="220"></definition>
+    <definition id="tunl_4_Cus9" zone="SALC" dff="tunl_4_Cus9" col="tunl_4_Cus9" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_t2" zone="SALC" dff="tunl_t2" col="tunl_t2" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="subplatform_n2" zone="SALC" dff="subplatform_n2" col="subplatform_n2" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_start2" zone="SALC" dff="sbwy_tunl_start2" col="sbwy_tunl_start2" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="wood_block" zone="SALC" dff="wood_block" col="wood_block" txd="buildinsite" alphaTransparency="nil" lod="nil" lodDistance="59"></definition>
+    <definition id="tunl_4" zone="SALC" dff="tunl_4" col="tunl_4" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_4_Cus11" zone="SALC" dff="tunl_4_Cus11" col="tunl_4_Cus11" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="Garagedr_oddjob" zone="SALC" dff="Garagedr_oddjob" col="Garagedr_oddjob" txd="door" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="sbwy_tunl_cstm5" zone="SALC" dff="sbwy_tunl_cstm5" col="sbwy_tunl_cstm5" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_4_Cus12" zone="SALC" dff="tunl_4_Cus12" col="tunl_4_Cus12" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="apairporthanger" zone="SALC" dff="apairporthanger" col="apairporthanger" txd="airport" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="vegclubtree01" zone="SALC" dff="vegclubtree01" col="vegclubtree01" txd="pinetrees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="ped_tunnel" zone="SALC" dff="ped_tunnel" col="ped_tunnel" txd="buildingsite" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="fraightback03" zone="SALC" dff="fraightback03" col="fraightback03" txd="TRUCKTRAIL" alphaTransparency="true" lod="nil" lodDistance="140"></definition>
+    <definition id="hatch" zone="SALC" dff="hatch" col="hatch" txd="cskydark" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="indy_tunl_start" zone="SALC" dff="indy_tunl_start" col="indy_tunl_start" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_bend" zone="SALC" dff="tunl_bend" col="tunl_bend" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_2_cus3" zone="SALC" dff="tunl_2_cus3" col="tunl_2_cus3" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="veg_treenew01" zone="SALC" dff="veg_treenew01" col="veg_treenew01" txd="trees" alphaTransparency="true" lod="nil" lodDistance="99"></definition>
+    <definition id="rd_Road2A20" zone="SALC" dff="rd_Road2A20" col="rd_Road2A20" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road2A20" lodDistance="220"></definition>
+    <definition id="small_rock" zone="SALC" dff="small_rock" col="small_rock" txd="rock" alphaTransparency="nil" lod="nil" lodDistance="49"></definition>
+    <definition id="sbwy_tunl_bend" zone="SALC" dff="sbwy_tunl_bend" col="sbwy_tunl_bend" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="tunl_2_cus4" zone="SALC" dff="tunl_2_cus4" col="tunl_2_cus4" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="fraightback02" zone="SALC" dff="fraightback02" col="fraightback02" txd="TRUCKTRAIL" alphaTransparency="true" lod="nil" lodDistance="140"></definition>
+    <definition id="sbwy_tunl_cstm11" zone="SALC" dff="sbwy_tunl_cstm11" col="sbwy_tunl_cstm11" txd="traintracks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="buildingtopex" zone="SALC" dff="buildingtopex" col="buildingtopex" txd="dam" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
+    <definition id="tunl_4_Cus14" zone="SALC" dff="tunl_4_Cus14" col="tunl_4_Cus14" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="rd_Road2A5" zone="SALC" dff="rd_Road2A5" col="rd_Road2A5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road2A5" lodDistance="220"></definition>
+    <definition id="usedcardelrflgs01" zone="SALC" dff="usedcardelrflgs01" col="usedcardelrflgs01" txd="usedcar" alphaTransparency="nil" lod="nil" lodDistance="135"></definition>
+    <definition id="3D8Ball" zone="SALC" dff="3D8Ball" col="3D8Ball" txd="3d8ball" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+</zoneDefinitions>

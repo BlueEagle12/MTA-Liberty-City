@@ -1,0 +1,89 @@
+<zoneDefinitions>
+    <definition id="se_treeshad02" zone="comse" dff="se_treeshad02" col="se_treeshad02" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="comlights02" zone="comse" dff="comlights02" col="comlights02" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights02" lodDistance="3000"></definition>
+    <definition id="overpass_comse" zone="comse" dff="overpass_comse" col="overpass_comse" txd="comdocks" alphaTransparency="nil" lod="true" lodID="overpass_comse" lodDistance="150"></definition>
+    <definition id="callbrd_01" zone="comse" dff="callbrd_01" col="callbrd_01" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="callbrd_01" lodDistance="300"></definition>
+    <definition id="csky_skyscrpbot" zone="comse" dff="csky_skyscrpbot" col="csky_skyscrpbot" txd="cskydark" alphaTransparency="nil" lod="true" lodID="csky_skyscrpbot" lodDistance="200"></definition>
+    <definition id="com_land119b" zone="comse" dff="com_land119b" col="com_land119b" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_land119b" lodDistance="190"></definition>
+    <definition id="com_landnew221b" zone="comse" dff="com_landnew221b" col="com_landnew221b" txd="comseroadbits" alphaTransparency="nil" lod="true" lodID="com_landnew221b" lodDistance="200"></definition>
+    <definition id="comsenullnodea08" zone="comse" dff="comsenullnodea08" col="comsenullnodea08" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="comlights06" zone="comse" dff="comlights06" col="comlights06" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights06" lodDistance="3000" timeIn="19" timeOut="5"></definition>
+    <definition id="roadplanterkb1" zone="comse" dff="roadplanterkb1" col="roadplanterkb1" txd="comseroadbits" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="comsenullnodea05" zone="comse" dff="comsenullnodea05" col="comsenullnodea05" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="policetenkb2" zone="comse" dff="policetenkb2" col="policetenkb2" txd="com_police" alphaTransparency="nil" lod="true" lodID="policetenkb2" lodDistance="160"></definition>
+    <definition id="treepatch03" zone="comse" dff="treepatch03" col="treepatch03" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch03" lodDistance="180"></definition>
+    <definition id="comsenullnodea09" zone="comse" dff="comsenullnodea09" col="comsenullnodea09" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="com_spotlites" zone="comse" dff="com_spotlites" col="com_spotlites" txd="casino" alphaTransparency="true" lod="true" lodID="com_spotlites" lodDistance="200"></definition>
+    <definition id="chunk5land" zone="comse" dff="chunk5land" col="chunk5land" txd="comsky5z" alphaTransparency="nil" lod="true" lodID="chunk5land" lodDistance="200"></definition>
+    <definition id="treepatchkb5" zone="comse" dff="treepatchkb5" col="treepatchkb5" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchkb5" lodDistance="200"></definition>
+    <definition id="casinogrnd3" zone="comse" dff="casinogrnd3" col="casinogrnd3" txd="casino" alphaTransparency="nil" lod="true" lodID="casinogrnd3" lodDistance="250"></definition>
+    <definition id="comlights05" zone="comse" dff="comlights05" col="comlights05" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights05" lodDistance="3000" timeIn="19" timeOut="4"></definition>
+    <definition id="comlights03" zone="comse" dff="comlights03" col="comlights03" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights03" lodDistance="3000" timeIn="19" timeOut="4"></definition>
+    <definition id="amcounder" zone="comse" dff="amcounder" col="amcounder" txd="comsky3" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="police_cell" zone="comse" dff="police_cell" col="police_cell" txd="compolice" alphaTransparency="nil" lod="nil" lodDistance="0"></definition>
+    <definition id="csky_skyscrptop" zone="comse" dff="csky_skyscrptop" col="csky_skyscrptop" txd="cskydark" alphaTransparency="nil" lod="true" lodID="csky_skyscrptop" lodDistance="150"></definition>
+    <definition id="sidebarrier_gaz1" zone="comse" dff="sidebarrier_gaz1" col="sidebarrier_gaz1" txd="com_police" alphaTransparency="nil" lod="true" lodID="sidebarrier_gaz1" lodDistance="100"></definition>
+    <definition id="museum" zone="comse" dff="museum" col="museum" txd="comsky3" alphaTransparency="true" lod="true" lodID="museum" lodDistance="200"></definition>
+    <definition id="treepatchkb6" zone="comse" dff="treepatchkb6" col="treepatchkb6" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchkb6" lodDistance="200"></definition>
+    <definition id="roadplanterkb2" zone="comse" dff="roadplanterkb2" col="roadplanterkb2" txd="comseroadbits" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="comlights07" zone="comse" dff="comlights07" col="comlights07" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights07" lodDistance="3000" timeIn="19" timeOut="4"></definition>
+    <definition id="comsenullnodea02" zone="comse" dff="comsenullnodea02" col="comsenullnodea02" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="policeally" zone="comse" dff="policeally" col="policeally" txd="com_police" alphaTransparency="nil" lod="true" lodID="policeally" lodDistance="200"></definition>
+    <definition id="se_treeshad03" zone="comse" dff="se_treeshad03" col="se_treeshad03" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="se_treeshad06" zone="comse" dff="se_treeshad06" col="se_treeshad06" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="comsenullnodea04" zone="comse" dff="comsenullnodea04" col="comsenullnodea04" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="com_land119" zone="comse" dff="com_land119" col="com_land119" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_land119" lodDistance="250"></definition>
+    <definition id="treepatchkb7" zone="comse" dff="treepatchkb7" col="treepatchkb7" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchkb7" lodDistance="200"></definition>
+    <definition id="callmid" zone="comse" dff="callmid" col="callmid" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="callmid" lodDistance="300"></definition>
+    <definition id="comsenullnodea06" zone="comse" dff="comsenullnodea06" col="comsenullnodea06" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="rd_Road1C50kb" zone="comse" dff="rd_Road1C50kb" col="rd_Road1C50kb" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road1C50kb" lodDistance="180"></definition>
+    <definition id="treepatchkb9" zone="comse" dff="treepatchkb9" col="treepatchkb9" txd="trees2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="com_landnew21" zone="comse" dff="com_landnew21" col="com_landnew21" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_landnew21" lodDistance="160"></definition>
+    <definition id="comlights04" zone="comse" dff="comlights04" col="comlights04" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights04" lodDistance="3000" timeIn="19" timeOut="4"></definition>
+    <definition id="Com_docksa" zone="comse" dff="Com_docksa" col="Com_docksa" txd="comdocks" alphaTransparency="nil" lod="true" lodID="Com_docksa" lodDistance="299"></definition>
+    <definition id="casino" zone="comse" dff="casino" col="casino" txd="casino" alphaTransparency="nil" lod="true" lodID="casino" lodDistance="180"></definition>
+    <definition id="comsenullnodea07" zone="comse" dff="comsenullnodea07" col="comsenullnodea07" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="amco_floor" zone="comse" dff="amco_floor" col="amco_floor" txd="comsky3" alphaTransparency="nil" lod="true" lodID="amco_floor" lodDistance="160"></definition>
+    <definition id="skyscrapenew" zone="comse" dff="skyscrapenew" col="skyscrapenew" txd="cskydark" alphaTransparency="nil" lod="true" lodID="skyscrapenew" lodDistance="299"></definition>
+    <definition id="se_treeshad04" zone="comse" dff="se_treeshad04" col="se_treeshad04" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="police_com" zone="comse" dff="police_com" col="police_com" txd="com_police" alphaTransparency="nil" lod="true" lodID="police_com" lodDistance="170"></definition>
+    <definition id="com_land075b" zone="comse" dff="com_land075b" col="com_land075b" txd="casino" alphaTransparency="nil" lod="true" lodID="com_land075b" lodDistance="250"></definition>
+    <definition id="kb_underpass" zone="comse" dff="kb_underpass" col="kb_underpass" txd="comseroadbits" alphaTransparency="nil" lod="true" lodID="kb_underpass" lodDistance="180"></definition>
+    <definition id="amcoudet" zone="comse" dff="amcoudet" col="amcoudet" txd="comsky3" alphaTransparency="nil" lod="true" lodID="amcoudet" lodDistance="190"></definition>
+    <definition id="dockwallbb_2" zone="comse" dff="dockwallbb_2" col="dockwallbb_2" txd="comdocks" alphaTransparency="nil" lod="true" lodID="dockwallbb_2" lodDistance="130"></definition>
+    <definition id="policetenkb1" zone="comse" dff="policetenkb1" col="policetenkb1" txd="com_police" alphaTransparency="nil" lod="true" lodID="policetenkb1" lodDistance="180"></definition>
+    <definition id="se_treeshad01" zone="comse" dff="se_treeshad01" col="se_treeshad01" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="kbunderpas2" zone="comse" dff="kbunderpas2" col="kbunderpas2" txd="comseroadbits" alphaTransparency="nil" lod="true" lodID="kbunderpas2" lodDistance="200"></definition>
+    <definition id="scraperkb3_nit" zone="comse" dff="scraperkb3_nit" col="scraperkb3_nit" txd="comsky5z" alphaTransparency="nil" lod="true" lodID="scraperkb3_nit" lodDistance="201"></definition>
+    <definition id="kbplanter4" zone="comse" dff="kbplanter4" col="kbplanter4" txd="comseroadbits" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="mrngstarbuild" zone="comse" dff="mrngstarbuild" col="mrngstarbuild" txd="cskydark" alphaTransparency="nil" lod="true" lodID="mrngstarbuild" lodDistance="180"></definition>
+    <definition id="comsenullnodea03" zone="comse" dff="comsenullnodea03" col="comsenullnodea03" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="snipe_build_kb" zone="comse" dff="snipe_build_kb" col="snipe_build_kb" txd="comsky5z" alphaTransparency="nil" lod="true" lodID="snipe_build_kb" lodDistance="180"></definition>
+    <definition id="comsenullnodea11" zone="comse" dff="comsenullnodea11" col="comsenullnodea11" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="se_treeshad05" zone="comse" dff="se_treeshad05" col="se_treeshad05" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="skyscrpint" zone="comse" dff="skyscrpint" col="skyscrpint" txd="cskydark" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="comlights01" zone="comse" dff="comlights01" col="comlights01" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights01" lodDistance="3000" timeIn="20" timeOut="5"></definition>
+    <definition id="callbrd_02" zone="comse" dff="callbrd_02" col="callbrd_02" txd="inddbridge" alphaTransparency="nil" lod="true" lodID="callbrd_02" lodDistance="300"></definition>
+    <definition id="ofis_bildkb_4" zone="comse" dff="ofis_bildkb_4" col="ofis_bildkb_4" txd="comsky3" alphaTransparency="nil" lod="true" lodID="ofis_bildkb_4" lodDistance="150"></definition>
+    <definition id="com_land050" zone="comse" dff="com_land050" col="com_land050" txd="cskydark" alphaTransparency="nil" lod="true" lodID="com_land050" lodDistance="180"></definition>
+    <definition id="kb_scrap_5" zone="comse" dff="kb_scrap_5" col="kb_scrap_5" txd="comsky3" alphaTransparency="nil" lod="true" lodID="kb_scrap_5" lodDistance="242"></definition>
+    <definition id="comsenullnodea01" zone="comse" dff="comsenullnodea01" col="comsenullnodea01" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="treepatchkb4" zone="comse" dff="treepatchkb4" col="treepatchkb4" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchkb4" lodDistance="250"></definition>
+    <definition id="csky_skyscrp23" zone="comse" dff="csky_skyscrp23" col="csky_skyscrp23" txd="comsky5z" alphaTransparency="nil" lod="true" lodID="csky_skyscrp23" lodDistance="201"></definition>
+    <definition id="com_land075a" zone="comse" dff="com_land075a" col="com_land075a" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_land075a" lodDistance="250"></definition>
+    <definition id="skyscrapenewtop" zone="comse" dff="skyscrapenewtop" col="skyscrapenewtop" txd="cskydark" alphaTransparency="nil" lod="true" lodID="skyscrapenewtop" lodDistance="299"></definition>
+    <definition id="dockwallbb_1" zone="comse" dff="dockwallbb_1" col="dockwallbb_1" txd="comdocks" alphaTransparency="nil" lod="true" lodID="dockwallbb_1" lodDistance="130"></definition>
+    <definition id="comsenullnodea10" zone="comse" dff="comsenullnodea10" col="comsenullnodea10" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="comlights08" zone="comse" dff="comlights08" col="comlights08" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights08" lodDistance="3000" timeIn="20" timeOut="4"></definition>
+    <definition id="sidebarrier_gaz2" zone="comse" dff="sidebarrier_gaz2" col="sidebarrier_gaz2" txd="com_police" alphaTransparency="nil" lod="true" lodID="sidebarrier_gaz2" lodDistance="150"></definition>
+    <definition id="casino_grnd" zone="comse" dff="casino_grnd" col="casino_grnd" txd="casino" alphaTransparency="nil" lod="true" lodID="casino_grnd" lodDistance="250"></definition>
+    <definition id="comlights09" zone="comse" dff="comlights09" col="comlights09" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights09" lodDistance="3000" timeIn="22" timeOut="5"></definition>
+    <definition id="treepatch2b" zone="comse" dff="treepatch2b" col="treepatch2b" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch2b" lodDistance="180"></definition>
+    <definition id="com_land120" zone="comse" dff="com_land120" col="com_land120" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_land120" lodDistance="250"></definition>
+    <definition id="roadplanterkb3" zone="comse" dff="roadplanterkb3" col="roadplanterkb3" txd="comseroadbits" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="casinogrnd2" zone="comse" dff="casinogrnd2" col="casinogrnd2" txd="casino" alphaTransparency="nil" lod="true" lodID="casinogrnd2" lodDistance="250"></definition>
+    <definition id="leveldoor2" zone="comse" dff="leveldoor2" col="leveldoor2" txd="door" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="casino_garden" zone="comse" dff="casino_garden" col="casino_garden" txd="casinogarden" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="casinogrnd4" zone="comse" dff="casinogrnd4" col="casinogrnd4" txd="casino" alphaTransparency="nil" lod="true" lodID="casinogrnd4" lodDistance="250"></definition>
+    <definition id="com_spotbeams" zone="comse" dff="com_spotbeams" col="com_spotbeams" txd="casino" alphaTransparency="true" lod="true" lodID="com_spotbeams" lodDistance="1500" timeIn="22" timeOut="7"></definition>
+</zoneDefinitions>

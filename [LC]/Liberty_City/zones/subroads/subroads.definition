@@ -1,0 +1,34 @@
+<zoneDefinitions>
+    <definition id="custm_rd33" zone="subroads" dff="custm_rd33" col="custm_rd33" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd33" lodDistance="170"></definition>
+    <definition id="custm_rd_splay5" zone="subroads" dff="custm_rd_splay5" col="custm_rd_splay5" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd40" zone="subroads" dff="custm_rd40" col="custm_rd40" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd40" lodDistance="170"></definition>
+    <definition id="custm_rd44" zone="subroads" dff="custm_rd44" col="custm_rd44" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd44" lodDistance="170"></definition>
+    <definition id="custm_rd32" zone="subroads" dff="custm_rd32" col="custm_rd32" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd32" lodDistance="170"></definition>
+    <definition id="undersubridge1" zone="subroads" dff="undersubridge1" col="undersubridge1" txd="bridgesupports" alphaTransparency="nil" lod="true" lodID="undersubridge1" lodDistance="170"></definition>
+    <definition id="subfraightback02" zone="subroads" dff="subfraightback02" col="subfraightback02" txd="subfrates" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="trailermetal" zone="subroads" dff="trailermetal" col="trailermetal" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd42" zone="subroads" dff="custm_rd42" col="custm_rd42" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd42" lodDistance="170"></definition>
+    <definition id="bridgeroadsub03" zone="subroads" dff="bridgeroadsub03" col="bridgeroadsub03" txd="firstbridge" alphaTransparency="nil" lod="true" lodID="bridgeroadsub03" lodDistance="170"></definition>
+    <definition id="airportsteps" zone="subroads" dff="airportsteps" col="airportsteps" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="heliradio" zone="subroads" dff="heliradio" col="heliradio" txd="heli2" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd_splay4" zone="subroads" dff="custm_rd_splay4" col="custm_rd_splay4" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd43" zone="subroads" dff="custm_rd43" col="custm_rd43" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd43" lodDistance="170"></definition>
+    <definition id="bridgeroadsub01" zone="subroads" dff="bridgeroadsub01" col="bridgeroadsub01" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="bridgeroadsub01" lodDistance="170"></definition>
+    <definition id="suittrailer" zone="subroads" dff="suittrailer" col="suittrailer" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd_splay6" zone="subroads" dff="custm_rd_splay6" col="custm_rd_splay6" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="bridgeroadsub04" zone="subroads" dff="bridgeroadsub04" col="bridgeroadsub04" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="bridgeroadsub04" lodDistance="170"></definition>
+    <definition id="trailer" zone="subroads" dff="trailer" col="trailer" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="Helipad" zone="subroads" dff="Helipad" col="Helipad" txd="helipad" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="hghwysgn_sub" zone="subroads" dff="hghwysgn_sub" col="hghwysgn_sub" txd="subsignpost" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="suitcases" zone="subroads" dff="suitcases" col="suitcases" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd_splay3" zone="subroads" dff="custm_rd_splay3" col="custm_rd_splay3" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="subfraightback03" zone="subroads" dff="subfraightback03" col="subfraightback03" txd="subfrates" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="bridgeroadsub02" zone="subroads" dff="bridgeroadsub02" col="bridgeroadsub02" txd="firstbridge" alphaTransparency="nil" lod="true" lodID="bridgeroadsub02" lodDistance="170"></definition>
+    <definition id="rd_Road1A6" zone="subroads" dff="rd_Road1A6" col="rd_Road1A6" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="rd_Road1A6" lodDistance="170"></definition>
+    <definition id="t_junction_2x4" zone="subroads" dff="t_junction_2x4" col="t_junction_2x4" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="custm_rd34" zone="subroads" dff="custm_rd34" col="custm_rd34" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd34" lodDistance="170"></definition>
+    <definition id="custm_rd41" zone="subroads" dff="custm_rd41" col="custm_rd41" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd41" lodDistance="170"></definition>
+    <definition id="custm_rd_splay2" zone="subroads" dff="custm_rd_splay2" col="custm_rd_splay2" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="luggage" zone="subroads" dff="luggage" col="luggage" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="subfraightback04" zone="subroads" dff="subfraightback04" col="subfraightback04" txd="subfrates" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+</zoneDefinitions>

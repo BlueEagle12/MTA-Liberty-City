@@ -1,0 +1,8 @@
+<zoneDefinitions>
+    <definition id="combillboard03" zone="comroad" dff="combillboard03" col="combillboard03" txd="bilboard" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="com_custm_rd05" zone="comroad" dff="com_custm_rd05" col="com_custm_rd05" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_custm_rd05" lodDistance="170"></definition>
+    <definition id="combillboard04" zone="comroad" dff="combillboard04" col="combillboard04" txd="bilboard" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+    <definition id="comtop_tshad2" zone="comroad" dff="comtop_tshad2" col="comtop_tshad2" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="170"></definition>
+    <definition id="comtop_tshad" zone="comroad" dff="comtop_tshad" col="comtop_tshad" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="170"></definition>
+    <definition id="com_cust_roads49" zone="comroad" dff="com_cust_roads49" col="com_cust_roads49" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
+</zoneDefinitions>

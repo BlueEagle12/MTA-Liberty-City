@@ -1,0 +1,13 @@
+<map>
+    <object id="bigniceveghotel" model="15053" posX="2237.5300292969" posY="-1085.4799804688" posZ="1049.2700195313" rotX="359" rotY="0" rotZ="179" interior="0" dimension="-1"></object>
+    <object id="vegashotel_sv" model="15033" posX="2206.1599121094" posY="-1072.5600585938" posZ="1049.4799804688" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="hotelgen_sv" model="15034" posX="2233.2399902344" posY="-1111.0899658203" posZ="1051.6199951172" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="lasmall1_sv" model="15031" posX="2279.9399414063" posY="-1135.8199462891" posZ="1049.9000244141" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="newhouse1" model="15042" posX="2313.8400878906" posY="-1212.7299804688" posZ="1050.0200195313" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="midvegsavehouse" model="15058" posX="2321.6201171875" posY="-1018.0999755859" posZ="1053.1500244141" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="gen_doorext14" model="8585" posX="2282.1799316406" posY="-1140.6999511719" posZ="1049.8900146484" rotX="0" rotY="0" rotZ="359" interior="0" dimension="-1"></object>
+    <object id="lasmallfurn_sv" model="15032" posX="2278.5500488281" posY="-1136.6199951172" posZ="1051.6300048828" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="gen_doorext14" model="8585" posX="2236.7700195313" posY="-1082.0600585938" posZ="1048.0200195313" rotX="0" rotY="0" rotZ="359" interior="0" dimension="-1"></object>
+    <object id="gen_doorext14" model="8585" posX="2218.8200683594" posY="-1077.0200195313" posZ="1049.4699707031" rotX="0" rotY="0" rotZ="90" interior="0" dimension="-1"></object>
+    <object id="kb_bed_test2_sv" model="15035" posX="2205.9399414063" posY="-1073.9899902344" posZ="1049.4799804688" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+</map>

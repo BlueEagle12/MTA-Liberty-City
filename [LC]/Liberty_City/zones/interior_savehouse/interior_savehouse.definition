@@ -1,0 +1,11 @@
+<zoneDefinitions>
+    <definition id="midvegsavehouse" default="true" zone="interior_savehouse" dff="midvegsavehouse" col="midvegsavehouse" txd="svvgmid" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="kb_bed_test2_sv" default="true" zone="interior_savehouse" dff="kb_bed_test2_sv" col="kb_bed_test2_sv" txd="vegassavesmal" alphaTransparency="nil" lod="true" lodID="kb_bed_test2_sv" lodDistance="299"></definition>
+    <definition id="lasmallfurn_sv" default="true" zone="interior_savehouse" dff="lasmallfurn_sv" col="lasmallfurn_sv" txd="labits" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="bigniceveghotel" default="true" zone="interior_savehouse" dff="bigniceveghotel" col="bigniceveghotel" txd="vghotelnice" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="newhouse1" default="true" zone="interior_savehouse" dff="newhouse1" col="newhouse1" txd="svsfsm" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="hotelgen_sv" default="true" zone="interior_savehouse" dff="hotelgen_sv" col="hotelgen_sv" txd="genhotelsave" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="lasmall1_sv" default="true" zone="interior_savehouse" dff="lasmall1_sv" col="lasmall1_sv" txd="lasmallsave" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="vegashotel_sv" default="true" zone="interior_savehouse" dff="vegashotel_sv" col="vegashotel_sv" txd="vegassavesmal" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="gen_doorext14" zone="interior_savehouse" dff="gen_doorext14" col="gen_doorext14" txd="ext_doors2" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+</zoneDefinitions>

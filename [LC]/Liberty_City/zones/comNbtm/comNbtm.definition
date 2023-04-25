@@ -1,0 +1,129 @@
+<zoneDefinitions>
+    <definition id="block4_scplights" zone="comNbtm" dff="block4_scplights" col="block4_scplights" txd="comlights" alphaTransparency="nil" lod="true" lodID="block4_scplights" lodDistance="3000" timeIn="18" timeOut="3"></definition>
+    <definition id="planterbtm_2" zone="comNbtm" dff="planterbtm_2" col="planterbtm_2" txd="block4grn" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="garage_kb" zone="comNbtm" dff="garage_kb" col="garage_kb" txd="combomb" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="bombshop_kb" zone="comNbtm" dff="bombshop_kb" col="bombshop_kb" txd="combomb" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="Hotel4" zone="comNbtm" dff="Hotel4" col="Hotel4" txd="hotelkb" alphaTransparency="nil" lod="true" lodID="Hotel4" lodDistance="120"></definition>
+    <definition id="firestation" zone="comNbtm" dff="firestation" col="firestation" txd="tenblock6aa" alphaTransparency="nil" lod="true" lodID="firestation" lodDistance="135"></definition>
+    <definition id="block4_ten1" zone="comNbtm" dff="block4_ten1" col="block4_ten1" txd="tenblk4" alphaTransparency="nil" lod="true" lodID="block4_ten1" lodDistance="120"></definition>
+    <definition id="door3_garage" zone="comNbtm" dff="door3_garage" col="door3_garage" txd="door" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="newblokb" zone="comNbtm" dff="newblokb" col="newblokb" txd="tenblock6aa" alphaTransparency="nil" lod="true" lodID="newblokb" lodDistance="150"></definition>
+    <definition id="kmricndo01" zone="comNbtm" dff="kmricndo01" col="kmricndo01" txd="kmricndo" alphaTransparency="nil" lod="true" lodID="kmricndo01" lodDistance="120"></definition>
+    <definition id="treencom2" zone="comNbtm" dff="treencom2" col="treencom2" txd="trees2" alphaTransparency="nil" lod="true" lodID="treencom2" lodDistance="200"></definition>
+    <definition id="door2_garage" zone="comNbtm" dff="door2_garage" col="door2_garage" txd="tenblocknrcp" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="com_park2" zone="comNbtm" dff="com_park2" col="com_park2" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park2" lodDistance="200"></definition>
+    <definition id="custom_rd5_ug" zone="comNbtm" dff="custom_rd5_ug" col="custom_rd5_ug" txd="comtunel" alphaTransparency="nil" lod="true" lodID="custom_rd5_ug" lodDistance="200"></definition>
+    <definition id="mallB" zone="comNbtm" dff="mallB" col="mallB" txd="mallab" alphaTransparency="nil" lod="true" lodID="mallB" lodDistance="135"></definition>
+    <definition id="tenmnt6ad" zone="comNbtm" dff="tenmnt6ad" col="tenmnt6ad" txd="comtenblock6b" alphaTransparency="nil" lod="true" lodID="tenmnt6ad" lodDistance="120"></definition>
+    <definition id="Hotel_Tenemant1" zone="comNbtm" dff="Hotel_Tenemant1" col="Hotel_Tenemant1" txd="tenblock6a" alphaTransparency="nil" lod="true" lodID="Hotel_Tenemant1" lodDistance="150"></definition>
+    <definition id="tenkb_raised" zone="comNbtm" dff="tenkb_raised" col="tenkb_raised" txd="carpark" alphaTransparency="nil" lod="true" lodID="tenkb_raised" lodDistance="120"></definition>
+    <definition id="helix_road3" zone="comNbtm" dff="helix_road3" col="helix_road3" txd="helixroad" alphaTransparency="nil" lod="true" lodID="helix_road3" lodDistance="200"></definition>
+    <definition id="overpasscom05" zone="comNbtm" dff="overpasscom05" col="overpasscom05" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="overpasscom05" lodDistance="150"></definition>
+    <definition id="sign2sub" zone="comNbtm" dff="sign2sub" col="sign2sub" txd="comsigns" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="underground_over14" zone="comNbtm" dff="underground_over14" col="underground_over14" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over14" lodDistance="192"></definition>
+    <definition id="toilet" zone="comNbtm" dff="toilet" col="toilet" txd="comtoilet" alphaTransparency="nil" lod="nil" lodDistance="24"></definition>
+    <definition id="comlnd1" zone="comNbtm" dff="comlnd1" col="comlnd1" txd="compark" alphaTransparency="nil" lod="true" lodID="comlnd1" lodDistance="264"></definition>
+    <definition id="gRD_overpass18kb" zone="comNbtm" dff="gRD_overpass18kb" col="gRD_overpass18kb" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="gRD_overpass18kb" lodDistance="160"></definition>
+    <definition id="gRD_overpass19kbc" zone="comNbtm" dff="gRD_overpass19kbc" col="gRD_overpass19kbc" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="gRD_overpass19kbc" lodDistance="160"></definition>
+    <definition id="condotree1" zone="comNbtm" dff="condotree1" col="condotree1" txd="trees2" alphaTransparency="true" lod="true" lodID="condotree1" lodDistance="150"></definition>
+    <definition id="plysve_gragedoor" zone="comNbtm" dff="plysve_gragedoor" col="plysve_gragedoor" txd="comtenblock6b" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="combtm_treeshad04" zone="comNbtm" dff="combtm_treeshad04" col="combtm_treeshad04" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="block4_ten2" zone="comNbtm" dff="block4_ten2" col="block4_ten2" txd="tenblk4" alphaTransparency="nil" lod="true" lodID="block4_ten2" lodDistance="150"></definition>
+    <definition id="flatiron1" zone="comNbtm" dff="flatiron1" col="flatiron1" txd="comshopinc" alphaTransparency="nil" lod="true" lodID="flatiron1" lodDistance="135"></definition>
+    <definition id="door_bombshop" zone="comNbtm" dff="door_bombshop" col="door_bombshop" txd="tenblocknrcp" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="lounger_shadows" zone="comNbtm" dff="lounger_shadows" col="lounger_shadows" txd="kmricndo" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="com_park2b" zone="comNbtm" dff="com_park2b" col="com_park2b" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park2b" lodDistance="260"></definition>
+    <definition id="door_jmsgrage" zone="comNbtm" dff="door_jmsgrage" col="door_jmsgrage" txd="comhilo3b" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="block4_ground01" zone="comNbtm" dff="block4_ground01" col="block4_ground01" txd="block4grn" alphaTransparency="nil" lod="true" lodID="block4_ground01" lodDistance="297"></definition>
+    <definition id="tenkb_builds01" zone="comNbtm" dff="tenkb_builds01" col="tenkb_builds01" txd="tenblocknrcp" alphaTransparency="nil" lod="true" lodID="tenkb_builds01" lodDistance="120"></definition>
+    <definition id="gRD_overpass19bkb" zone="comNbtm" dff="gRD_overpass19bkb" col="gRD_overpass19bkb" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="gRD_overpass19bkb" lodDistance="160"></definition>
+    <definition id="block4_alley2" zone="comNbtm" dff="block4_alley2" col="block4_alley2" txd="block4grn" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="townhallbig" zone="comNbtm" dff="townhallbig" col="townhallbig" txd="newtownhall" alphaTransparency="nil" lod="true" lodID="townhallbig" lodDistance="160"></definition>
+    <definition id="block4_curstair" zone="comNbtm" dff="block4_curstair" col="block4_curstair" txd="block4grn" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="helix_road1" zone="comNbtm" dff="helix_road1" col="helix_road1" txd="helixroad" alphaTransparency="nil" lod="true" lodID="helix_road1" lodDistance="200"></definition>
+    <definition id="combtm_treeshad03" zone="comNbtm" dff="combtm_treeshad03" col="combtm_treeshad03" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="overpasscom06" zone="comNbtm" dff="overpasscom06" col="overpasscom06" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="overpasscom06" lodDistance="299"></definition>
+    <definition id="mallA" zone="comNbtm" dff="mallA" col="mallA" txd="mallab" alphaTransparency="nil" lod="true" lodID="mallA" lodDistance="135"></definition>
+    <definition id="tenkb_builds04" zone="comNbtm" dff="tenkb_builds04" col="tenkb_builds04" txd="comhilo3b" alphaTransparency="true" lod="true" lodID="tenkb_builds04" lodDistance="150"></definition>
+    <definition id="condo_ivy" zone="comNbtm" dff="condo_ivy" col="condo_ivy" txd="condo" alphaTransparency="true" lod="nil" lodDistance="40"></definition>
+    <definition id="com_landnew25" zone="comNbtm" dff="com_landnew25" col="com_landnew25" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="com_landnew25" lodDistance="200"></definition>
+    <definition id="Hotel2" zone="comNbtm" dff="Hotel2" col="Hotel2" txd="hotelkb" alphaTransparency="nil" lod="true" lodID="Hotel2" lodDistance="135"></definition>
+    <definition id="undrd_bit_side4" zone="comNbtm" dff="undrd_bit_side4" col="undrd_bit_side4" txd="comtunel" alphaTransparency="nil" lod="true" lodID="undrd_bit_side4" lodDistance="164"></definition>
+    <definition id="underground_over10" zone="comNbtm" dff="underground_over10" col="underground_over10" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over10" lodDistance="192"></definition>
+    <definition id="newdockbuilding" zone="comNbtm" dff="newdockbuilding" col="newdockbuilding" txd="compier" alphaTransparency="nil" lod="true" lodID="newdockbuilding" lodDistance="200"></definition>
+    <definition id="cmlnd2" zone="comNbtm" dff="cmlnd2" col="cmlnd2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="cmlnd2" lodDistance="160"></definition>
+    <definition id="com_munation" zone="comNbtm" dff="com_munation" col="com_munation" txd="comunation" alphaTransparency="true" lod="nil" lodDistance="150"></definition>
+    <definition id="tenament1ad" zone="comNbtm" dff="tenament1ad" col="tenament1ad" txd="tenblock6aa" alphaTransparency="true" lod="true" lodID="tenament1ad" lodDistance="152"></definition>
+    <definition id="kmricndo02" zone="comNbtm" dff="kmricndo02" col="kmricndo02" txd="kmricndo" alphaTransparency="nil" lod="true" lodID="kmricndo02" lodDistance="120"></definition>
+    <definition id="underground_over8" zone="comNbtm" dff="underground_over8" col="underground_over8" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over8" lodDistance="192"></definition>
+    <definition id="com_land045" zone="comNbtm" dff="com_land045" col="com_land045" txd="comshopinc" alphaTransparency="nil" lod="true" lodID="com_land045" lodDistance="140"></definition>
+    <definition id="block4_scraperl0" zone="comNbtm" dff="block4_scraperl0" col="block4_scraperl0" txd="block4grn" alphaTransparency="nil" lod="true" lodID="block4_scraperl0" lodDistance="150"></definition>
+    <definition id="toilet_cubicle_dr" zone="comNbtm" dff="toilet_cubicle_dr" col="toilet_cubicle_dr" txd="toilet" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="undgd_bit_side3" zone="comNbtm" dff="undgd_bit_side3" col="undgd_bit_side3" txd="comtunel" alphaTransparency="nil" lod="true" lodID="undgd_bit_side3" lodDistance="160"></definition>
+    <definition id="tenkb_builds03" zone="comNbtm" dff="tenkb_builds03" col="tenkb_builds03" txd="tenblocknrcp" alphaTransparency="nil" lod="true" lodID="tenkb_builds03" lodDistance="120"></definition>
+    <definition id="mallcanopy" zone="comNbtm" dff="mallcanopy" col="mallcanopy" txd="mallab" alphaTransparency="true" lod="nil" lodDistance="190"></definition>
+    <definition id="Hotel5" zone="comNbtm" dff="Hotel5" col="Hotel5" txd="hotelkb" alphaTransparency="nil" lod="true" lodID="Hotel5" lodDistance="188"></definition>
+    <definition id="tenkb_builds05" zone="comNbtm" dff="tenkb_builds05" col="tenkb_builds05" txd="comhilo3b" alphaTransparency="true" lod="true" lodID="tenkb_builds05" lodDistance="150"></definition>
+    <definition id="flatironlt02" zone="comNbtm" dff="flatironlt02" col="flatironlt02" txd="comlights" alphaTransparency="nil" lod="nil" lodDistance="3000" timeIn="20" timeOut="5"></definition>
+    <definition id="com_docksb" zone="comNbtm" dff="com_docksb" col="com_docksb" txd="compier" alphaTransparency="nil" lod="true" lodID="com_docksb" lodDistance="299"></definition>
+    <definition id="combtm_treeshad05" zone="comNbtm" dff="combtm_treeshad05" col="combtm_treeshad05" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="plyrsv_htl" zone="comNbtm" dff="plyrsv_htl" col="plyrsv_htl" txd="tenblock6a" alphaTransparency="nil" lod="true" lodID="plyrsv_htl" lodDistance="150"></definition>
+    <definition id="underground_over13" zone="comNbtm" dff="underground_over13" col="underground_over13" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over13" lodDistance="192"></definition>
+    <definition id="sfhousegrge_kb" zone="comNbtm" dff="sfhousegrge_kb" col="sfhousegrge_kb" txd="comhilo3b" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="planterbtm_3" zone="comNbtm" dff="planterbtm_3" col="planterbtm_3" txd="block4grn" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="safehouse" zone="comNbtm" dff="safehouse" col="safehouse" txd="safe" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="jamesgrge_kb" zone="comNbtm" dff="jamesgrge_kb" col="jamesgrge_kb" txd="comhilo3b" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="underground_over11" zone="comNbtm" dff="underground_over11" col="underground_over11" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over11" lodDistance="160"></definition>
+    <definition id="flatiron1b" zone="comNbtm" dff="flatiron1b" col="flatiron1b" txd="flatiron1b" alphaTransparency="nil" lod="true" lodID="flatiron1b" lodDistance="135"></definition>
+    <definition id="overpasscom07" zone="comNbtm" dff="overpasscom07" col="overpasscom07" txd="landsectioncomn" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="com_park3b" zone="comNbtm" dff="com_park3b" col="com_park3b" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park3b" lodDistance="260"></definition>
+    <definition id="com_park1b" zone="comNbtm" dff="com_park1b" col="com_park1b" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park1b" lodDistance="260"></definition>
+    <definition id="gRD_overpass19kb" zone="comNbtm" dff="gRD_overpass19kb" col="gRD_overpass19kb" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="gRD_overpass19kb" lodDistance="160"></definition>
+    <definition id="newdockbuilding2" zone="comNbtm" dff="newdockbuilding2" col="newdockbuilding2" txd="compier" alphaTransparency="nil" lod="true" lodID="newdockbuilding2" lodDistance="200"></definition>
+    <definition id="com_park3" zone="comNbtm" dff="com_park3" col="com_park3" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park3" lodDistance="200"></definition>
+    <definition id="tenkb_ground" zone="comNbtm" dff="tenkb_ground" col="tenkb_ground" txd="carpark" alphaTransparency="nil" lod="true" lodID="tenkb_ground" lodDistance="160"></definition>
+    <definition id="toilet_cubicle_dr2" zone="comNbtm" dff="toilet_cubicle_dr2" col="toilet_cubicle_dr2" txd="toilet" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="underground_over12" zone="comNbtm" dff="underground_over12" col="underground_over12" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over12" lodDistance="192"></definition>
+    <definition id="tenkb_builds06" zone="comNbtm" dff="tenkb_builds06" col="tenkb_builds06" txd="comhilo3b" alphaTransparency="true" lod="true" lodID="tenkb_builds06" lodDistance="120"></definition>
+    <definition id="toilet_door01" zone="comNbtm" dff="toilet_door01" col="toilet_door01" txd="toilet" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="com_park1" zone="comNbtm" dff="com_park1" col="com_park1" txd="compark" alphaTransparency="nil" lod="true" lodID="com_park1" lodDistance="264"></definition>
+    <definition id="door4_garage" zone="comNbtm" dff="door4_garage" col="door4_garage" txd="tenblocknrcp" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="mallground02" zone="comNbtm" dff="mallground02" col="mallground02" txd="mallab" alphaTransparency="nil" lod="true" lodID="mallground02" lodDistance="160"></definition>
+    <definition id="helix_road2" zone="comNbtm" dff="helix_road2" col="helix_road2" txd="helixroad" alphaTransparency="nil" lod="true" lodID="helix_road2" lodDistance="200"></definition>
+    <definition id="comparknewtrees" zone="comNbtm" dff="comparknewtrees" col="comparknewtrees" txd="trees2" alphaTransparency="true" lod="true" lodID="comparknewtrees" lodDistance="150"></definition>
+    <definition id="door_sfehousegrge" zone="comNbtm" dff="door_sfehousegrge" col="door_sfehousegrge" txd="comhilo3b" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="com_docksaa" zone="comNbtm" dff="com_docksaa" col="com_docksaa" txd="compier" alphaTransparency="nil" lod="true" lodID="com_docksaa" lodDistance="299"></definition>
+    <definition id="combtm_treeshad06" zone="comNbtm" dff="combtm_treeshad06" col="combtm_treeshad06" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="block4_alley1" zone="comNbtm" dff="block4_alley1" col="block4_alley1" txd="block4grn" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="custom_rd4_ug" zone="comNbtm" dff="custom_rd4_ug" col="custom_rd4_ug" txd="comtunel" alphaTransparency="nil" lod="true" lodID="custom_rd4_ug" lodDistance="200"></definition>
+    <definition id="planterbtm_1" zone="comNbtm" dff="planterbtm_1" col="planterbtm_1" txd="block4grn" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="helix_road4" zone="comNbtm" dff="helix_road4" col="helix_road4" txd="helixroad" alphaTransparency="nil" lod="true" lodID="helix_road4" lodDistance="200"></definition>
+    <definition id="Hotel3" zone="comNbtm" dff="Hotel3" col="Hotel3" txd="hotelkb" alphaTransparency="nil" lod="true" lodID="Hotel3" lodDistance="135"></definition>
+    <definition id="road_under" zone="comNbtm" dff="road_under" col="road_under" txd="compier" alphaTransparency="nil" lod="true" lodID="road_under" lodDistance="200"></definition>
+    <definition id="combtm_treeshad01" zone="comNbtm" dff="combtm_treeshad01" col="combtm_treeshad01" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="Jetty" zone="comNbtm" dff="Jetty" col="Jetty" txd="compark" alphaTransparency="nil" lod="nil" lodDistance="163"></definition>
+    <definition id="tenament3ad" zone="comNbtm" dff="tenament3ad" col="tenament3ad" txd="tenblock6a" alphaTransparency="nil" lod="true" lodID="tenament3ad" lodDistance="144"></definition>
+    <definition id="combaskoverlay" zone="comNbtm" dff="combaskoverlay" col="combaskoverlay" txd="compark" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="block4_groundbits1" zone="comNbtm" dff="block4_groundbits1" col="block4_groundbits1" txd="tenblk4" alphaTransparency="nil" lod="nil" lodDistance="273"></definition>
+    <definition id="Dineradam" zone="comNbtm" dff="Dineradam" col="Dineradam" txd="tenblock6a" alphaTransparency="nil" lod="true" lodID="Dineradam" lodDistance="150"></definition>
+    <definition id="overpasscom04" zone="comNbtm" dff="overpasscom04" col="overpasscom04" txd="landsectioncomn" alphaTransparency="nil" lod="true" lodID="overpasscom04" lodDistance="150"></definition>
+    <definition id="comtreepatchprk" zone="comNbtm" dff="comtreepatchprk" col="comtreepatchprk" txd="trees2" alphaTransparency="nil" lod="true" lodID="comtreepatchprk" lodDistance="150"></definition>
+    <definition id="flatironlt01" zone="comNbtm" dff="flatironlt01" col="flatironlt01" txd="comlights" alphaTransparency="nil" lod="nil" lodDistance="3000" timeIn="19" timeOut="4"></definition>
+    <definition id="tenkb_builds11" zone="comNbtm" dff="tenkb_builds11" col="tenkb_builds11" txd="comhilo3b" alphaTransparency="true" lod="true" lodID="tenkb_builds11" lodDistance="150"></definition>
+    <definition id="flatiron1c" zone="comNbtm" dff="flatiron1c" col="flatiron1c" txd="flatironew" alphaTransparency="nil" lod="true" lodID="flatiron1c" lodDistance="150"></definition>
+    <definition id="mscp_grndfloor" zone="comNbtm" dff="mscp_grndfloor" col="mscp_grndfloor" txd="carpark" alphaTransparency="nil" lod="true" lodID="mscp_grndfloor" lodDistance="200"></definition>
+    <definition id="combtm_treeshad02" zone="comNbtm" dff="combtm_treeshad02" col="combtm_treeshad02" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="underground_over15" zone="comNbtm" dff="underground_over15" col="underground_over15" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over15" lodDistance="160"></definition>
+    <definition id="flatironlt" zone="comNbtm" dff="flatironlt" col="flatironlt" txd="comlights" alphaTransparency="nil" lod="nil" lodDistance="3000" timeIn="19" timeOut="5"></definition>
+    <definition id="block4_ten3" zone="comNbtm" dff="block4_ten3" col="block4_ten3" txd="tenblk4" alphaTransparency="nil" lod="true" lodID="block4_ten3" lodDistance="135"></definition>
+    <definition id="tenement2ad" zone="comNbtm" dff="tenement2ad" col="tenement2ad" txd="tenblock6a" alphaTransparency="nil" lod="true" lodID="tenement2ad" lodDistance="120"></definition>
+    <definition id="tenmnt4ad" zone="comNbtm" dff="tenmnt4ad" col="tenmnt4ad" txd="comtenblock6b" alphaTransparency="true" lod="true" lodID="tenmnt4ad" lodDistance="120"></definition>
+    <definition id="underground_over9" zone="comNbtm" dff="underground_over9" col="underground_over9" txd="comtunel" alphaTransparency="nil" lod="true" lodID="underground_over9" lodDistance="195"></definition>
+    <definition id="Hotel" zone="comNbtm" dff="Hotel" col="Hotel" txd="hotelkb" alphaTransparency="nil" lod="true" lodID="Hotel" lodDistance="120"></definition>
+    <definition id="mallground03" zone="comNbtm" dff="mallground03" col="mallground03" txd="mallab" alphaTransparency="nil" lod="true" lodID="mallground03" lodDistance="150"></definition>
+    <definition id="bsemnt_cprk" zone="comNbtm" dff="bsemnt_cprk" col="bsemnt_cprk" txd="basmntcrpark" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="treepatchttwrs" zone="comNbtm" dff="treepatchttwrs" col="treepatchttwrs" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchttwrs" lodDistance="299"></definition>
+    <definition id="com_landnew221" zone="comNbtm" dff="com_landnew221" col="com_landnew221" txd="block4grn" alphaTransparency="nil" lod="true" lodID="com_landnew221" lodDistance="180"></definition>
+    <definition id="kb_scrap_6" zone="comNbtm" dff="kb_scrap_6" col="kb_scrap_6" txd="avery" alphaTransparency="nil" lod="true" lodID="kb_scrap_6" lodDistance="150"></definition>
+    <definition id="temnt5ad" zone="comNbtm" dff="temnt5ad" col="temnt5ad" txd="comtenblock6b" alphaTransparency="true" lod="true" lodID="temnt5ad" lodDistance="120"></definition>
+</zoneDefinitions>

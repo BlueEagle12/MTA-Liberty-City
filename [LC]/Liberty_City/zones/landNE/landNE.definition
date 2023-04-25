@@ -1,0 +1,206 @@
+<zoneDefinitions>
+    <definition id="damfence02" zone="landNE" dff="damfence02" col="damfence02" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="cliffwall10" zone="landNE" dff="cliffwall10" col="cliffwall10" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="parkinglines1" zone="landNE" dff="parkinglines1" col="parkinglines1" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="towerflat28" zone="landNE" dff="towerflat28" col="towerflat28" txd="sub_projects" alphaTransparency="nil" lod="true" lodID="towerflat28" lodDistance="290"></definition>
+    <definition id="fixNewcliff_02" zone="landNE" dff="fixNewcliff_02" col="fixNewcliff_02" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_02" lodDistance="299"></definition>
+    <definition id="clif14" zone="landNE" dff="clif14" col="clif14" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif14" lodDistance="290"></definition>
+    <definition id="damfencing" zone="landNE" dff="damfencing" col="damfencing" txd="dambase" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="shedge3" zone="landNE" dff="shedge3" col="shedge3" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge3" lodDistance="290"></definition>
+    <definition id="decking1" zone="landNE" dff="decking1" col="decking1" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="treepatch25_sub" zone="landNE" dff="treepatch25_sub" col="treepatch25_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch25_sub" lodDistance="299"></definition>
+    <definition id="parkinglines3" zone="landNE" dff="parkinglines3" col="parkinglines3" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="mount8" zone="landNE" dff="mount8" col="mount8" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="mount8" lodDistance="290"></definition>
+    <definition id="wal_2" zone="landNE" dff="wal_2" col="wal_2" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="damfence08" zone="landNE" dff="damfence08" col="damfence08" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="Mansion_feature" zone="landNE" dff="Mansion_feature" col="Mansion_feature" txd="colmansion" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="New_Colmansn" zone="landNE" dff="New_Colmansn" col="New_Colmansn" txd="colmansion" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="towerflat29" zone="landNE" dff="towerflat29" col="towerflat29" txd="sub_projects" alphaTransparency="nil" lod="true" lodID="towerflat29" lodDistance="290"></definition>
+    <definition id="landpart12" zone="landNE" dff="landpart12" col="landpart12" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="landpart12" lodDistance="290"></definition>
+    <definition id="cliffwall05" zone="landNE" dff="cliffwall05" col="cliffwall05" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="mount7" zone="landNE" dff="mount7" col="mount7" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="mount7" lodDistance="290"></definition>
+    <definition id="parkinglines2" zone="landNE" dff="parkinglines2" col="parkinglines2" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="Pumphouse" zone="landNE" dff="Pumphouse" col="Pumphouse" txd="pumphouse" alphaTransparency="nil" lod="true" lodID="Pumphouse" lodDistance="270"></definition>
+    <definition id="treepatch09_sub" zone="landNE" dff="treepatch09_sub" col="treepatch09_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch09_sub" lodDistance="299"></definition>
+    <definition id="tunent4" zone="landNE" dff="tunent4" col="tunent4" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="tunent4" lodDistance="200"></definition>
+    <definition id="suburbansigns6" zone="landNE" dff="suburbansigns6" col="suburbansigns6" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="treepatch30_sub" zone="landNE" dff="treepatch30_sub" col="treepatch30_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch30_sub" lodDistance="299"></definition>
+    <definition id="cliffwall03" zone="landNE" dff="cliffwall03" col="cliffwall03" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="landpart17" zone="landNE" dff="landpart17" col="landpart17" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart17" lodDistance="290"></definition>
+    <definition id="suburbansigns4" zone="landNE" dff="suburbansigns4" col="suburbansigns4" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="treepatch27_sub" zone="landNE" dff="treepatch27_sub" col="treepatch27_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch27_sub" lodDistance="299"></definition>
+    <definition id="fixssvgarge_08" zone="landNE" dff="fixssvgarge_08" col="fixssvgarge_08" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_08" lodDistance="200"></definition>
+    <definition id="newl3" zone="landNE" dff="newl3" col="newl3" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="newl3" lodDistance="299"></definition>
+    <definition id="clif12_22" zone="landNE" dff="clif12_22" col="clif12_22" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif12_22" lodDistance="290"></definition>
+    <definition id="clifflookout" zone="landNE" dff="clifflookout" col="clifflookout" txd="brokenbridge" alphaTransparency="nil" lod="true" lodID="clifflookout" lodDistance="299"></definition>
+    <definition id="fixssvgarge_03" zone="landNE" dff="fixssvgarge_03" col="fixssvgarge_03" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_03" lodDistance="200"></definition>
+    <definition id="landpart18a" zone="landNE" dff="landpart18a" col="landpart18a" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart18a" lodDistance="290"></definition>
+    <definition id="subposter14" zone="landNE" dff="subposter14" col="subposter14" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch32_sub" zone="landNE" dff="treepatch32_sub" col="treepatch32_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch32_sub" lodDistance="299"></definition>
+    <definition id="fixNewcliff_07" zone="landNE" dff="fixNewcliff_07" col="fixNewcliff_07" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_07" lodDistance="299"></definition>
+    <definition id="sublightsb" zone="landNE" dff="sublightsb" col="sublightsb" txd="towerlights" alphaTransparency="nil" lod="true" lodID="sublightsb" lodDistance="3000" timeIn="19" timeOut="5"></definition>
+    <definition id="newl5" zone="landNE" dff="newl5" col="newl5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="newl5" lodDistance="299"></definition>
+    <definition id="towergaragedoor3" zone="landNE" dff="towergaragedoor3" col="towergaragedoor3" txd="projbits" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="newl1" zone="landNE" dff="newl1" col="newl1" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="newl1" lodDistance="299"></definition>
+    <definition id="cliffwall01" zone="landNE" dff="cliffwall01" col="cliffwall01" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="clif17" zone="landNE" dff="clif17" col="clif17" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif17" lodDistance="290"></definition>
+    <definition id="treepatch29_sub" zone="landNE" dff="treepatch29_sub" col="treepatch29_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch29_sub" lodDistance="299"></definition>
+    <definition id="landpart13" zone="landNE" dff="landpart13" col="landpart13" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="landpart13" lodDistance="290"></definition>
+    <definition id="view_carpark" zone="landNE" dff="view_carpark" col="view_carpark" txd="subcarparc" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="projwall22" zone="landNE" dff="projwall22" col="projwall22" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch31_sub" zone="landNE" dff="treepatch31_sub" col="treepatch31_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch31_sub" lodDistance="299"></definition>
+    <definition id="columansion_wall" zone="landNE" dff="columansion_wall" col="columansion_wall" txd="colmansion" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="fixNewcliff_11" zone="landNE" dff="fixNewcliff_11" col="fixNewcliff_11" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_11" lodDistance="299"></definition>
+    <definition id="projwall2" zone="landNE" dff="projwall2" col="projwall2" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="projbridgewall1" zone="landNE" dff="projbridgewall1" col="projbridgewall1" txd="sub_probridge" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="tunent3" zone="landNE" dff="tunent3" col="tunent3" txd="tunlentnew" alphaTransparency="nil" lod="true" lodID="tunent3" lodDistance="290"></definition>
+    <definition id="telepole01" zone="landNE" dff="telepole01" col="telepole01" txd="nipple" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="tunent5" zone="landNE" dff="tunent5" col="tunent5" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="newl4" zone="landNE" dff="newl4" col="newl4" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="newl4" lodDistance="299"></definition>
+    <definition id="mailbox6" zone="landNE" dff="mailbox6" col="mailbox6" txd="subvillabits" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="telepole03" zone="landNE" dff="telepole03" col="telepole03" txd="nipple" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="fixssvgarge_02" zone="landNE" dff="fixssvgarge_02" col="fixssvgarge_02" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_02" lodDistance="200"></definition>
+    <definition id="towergaragedoor1" zone="landNE" dff="towergaragedoor1" col="towergaragedoor1" txd="projbits" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gate_small3" zone="landNE" dff="gate_small3" col="gate_small3" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="sublandpart24" zone="landNE" dff="sublandpart24" col="sublandpart24" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="sublandpart24" lodDistance="290"></definition>
+    <definition id="parkpath1" zone="landNE" dff="parkpath1" col="parkpath1" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="parkpath1" lodDistance="290"></definition>
+    <definition id="clif16" zone="landNE" dff="clif16" col="clif16" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif16" lodDistance="290"></definition>
+    <definition id="indfrate11" zone="landNE" dff="indfrate11" col="indfrate11" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="telepole02" zone="landNE" dff="telepole02" col="telepole02" txd="nipple" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="cliffwall06" zone="landNE" dff="cliffwall06" col="cliffwall06" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="sublandpart20" zone="landNE" dff="sublandpart20" col="sublandpart20" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="sublandpart20" lodDistance="290"></definition>
+    <definition id="landpart15" zone="landNE" dff="landpart15" col="landpart15" txd="subvillabits" alphaTransparency="nil" lod="true" lodID="landpart15" lodDistance="290"></definition>
+    <definition id="mailbox2" zone="landNE" dff="mailbox2" col="mailbox2" txd="subvillabits" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="landpart11" zone="landNE" dff="landpart11" col="landpart11" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="landpart11" lodDistance="290"></definition>
+    <definition id="garage7" zone="landNE" dff="garage7" col="garage7" txd="colmansion" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="landpart14" zone="landNE" dff="landpart14" col="landpart14" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart14" lodDistance="100"></definition>
+    <definition id="treepatch35_sub" zone="landNE" dff="treepatch35_sub" col="treepatch35_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch35_sub" lodDistance="299"></definition>
+    <definition id="landpart25" zone="landNE" dff="landpart25" col="landpart25" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart25" lodDistance="290"></definition>
+    <definition id="projwall12" zone="landNE" dff="projwall12" col="projwall12" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="projwall21" zone="landNE" dff="projwall21" col="projwall21" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="damfence06" zone="landNE" dff="damfence06" col="damfence06" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="towergaragedoor2" zone="landNE" dff="towergaragedoor2" col="towergaragedoor2" txd="projbits" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="clif21" zone="landNE" dff="clif21" col="clif21" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif21" lodDistance="290"></definition>
+    <definition id="suburbbridge1" zone="landNE" dff="suburbbridge1" col="suburbbridge1" txd="highbridge" alphaTransparency="true" lod="true" lodID="suburbbridge1" lodDistance="280"></definition>
+    <definition id="landpart_mount2" zone="landNE" dff="landpart_mount2" col="landpart_mount2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount2" lodDistance="290"></definition>
+    <definition id="landpart_mount1" zone="landNE" dff="landpart_mount1" col="landpart_mount1" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount1" lodDistance="290"></definition>
+    <definition id="clif12" zone="landNE" dff="clif12" col="clif12" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif12" lodDistance="290"></definition>
+    <definition id="clif20" zone="landNE" dff="clif20" col="clif20" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif20" lodDistance="290"></definition>
+    <definition id="landpart7" zone="landNE" dff="landpart7" col="landpart7" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart7" lodDistance="290"></definition>
+    <definition id="tunnel1" zone="landNE" dff="tunnel1" col="tunnel1" txd="subtunl10" alphaTransparency="nil" lod="true" lodID="tunnel1" lodDistance="290"></definition>
+    <definition id="mailbox1" zone="landNE" dff="mailbox1" col="mailbox1" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="landpart10" zone="landNE" dff="landpart10" col="landpart10" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="landpart10" lodDistance="290"></definition>
+    <definition id="pathpark2" zone="landNE" dff="pathpark2" col="pathpark2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="pathpark2" lodDistance="290"></definition>
+    <definition id="towernew1" zone="landNE" dff="towernew1" col="towernew1" txd="sub_projects" alphaTransparency="nil" lod="true" lodID="towernew1" lodDistance="290"></definition>
+    <definition id="projectland1" zone="landNE" dff="projectland1" col="projectland1" txd="newprojectland" alphaTransparency="nil" lod="true" lodID="projectland1" lodDistance="290"></definition>
+    <definition id="cliffwall07" zone="landNE" dff="cliffwall07" col="cliffwall07" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="cliffwall04" zone="landNE" dff="cliffwall04" col="cliffwall04" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch10_sub" zone="landNE" dff="treepatch10_sub" col="treepatch10_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch10_sub" lodDistance="299"></definition>
+    <definition id="mansion1" zone="landNE" dff="mansion1" col="mansion1" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion1" lodDistance="270"></definition>
+    <definition id="cavecollap" zone="landNE" dff="cavecollap" col="cavecollap" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="projwall13" zone="landNE" dff="projwall13" col="projwall13" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="landpart18" zone="landNE" dff="landpart18" col="landpart18" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart18" lodDistance="290"></definition>
+    <definition id="landpart19" zone="landNE" dff="landpart19" col="landpart19" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart19" lodDistance="290"></definition>
+    <definition id="fixNewcliff_03" zone="landNE" dff="fixNewcliff_03" col="fixNewcliff_03" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_03" lodDistance="299"></definition>
+    <definition id="shedge1" zone="landNE" dff="shedge1" col="shedge1" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge1" lodDistance="290"></definition>
+    <definition id="subpro_bridge" zone="landNE" dff="subpro_bridge" col="subpro_bridge" txd="sub_probridge" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="landpart_mount4" zone="landNE" dff="landpart_mount4" col="landpart_mount4" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount4" lodDistance="290"></definition>
+    <definition id="clif12_23" zone="landNE" dff="clif12_23" col="clif12_23" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif12_23" lodDistance="290"></definition>
+    <definition id="subposter11" zone="landNE" dff="subposter11" col="subposter11" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="subposter10" zone="landNE" dff="subposter10" col="subposter10" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch02_sub" zone="landNE" dff="treepatch02_sub" col="treepatch02_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch02_sub" lodDistance="299"></definition>
+    <definition id="landpart_mount3" zone="landNE" dff="landpart_mount3" col="landpart_mount3" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount3" lodDistance="290"></definition>
+    <definition id="clif22" zone="landNE" dff="clif22" col="clif22" txd="clif22" alphaTransparency="nil" lod="true" lodID="clif22" lodDistance="290"></definition>
+    <definition id="treepatch08_sub" zone="landNE" dff="treepatch08_sub" col="treepatch08_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch08_sub" lodDistance="299"></definition>
+    <definition id="dam_barr" zone="landNE" dff="dam_barr" col="dam_barr" txd="dam" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="fixssvgarge_01" zone="landNE" dff="fixssvgarge_01" col="fixssvgarge_01" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_01" lodDistance="200"></definition>
+    <definition id="subposter12" zone="landNE" dff="subposter12" col="subposter12" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="suburbansigns5" zone="landNE" dff="suburbansigns5" col="suburbansigns5" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="clif2" zone="landNE" dff="clif2" col="clif2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif2" lodDistance="290"></definition>
+    <definition id="telepole" zone="landNE" dff="telepole" col="telepole" txd="nipple" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="clif18" zone="landNE" dff="clif18" col="clif18" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif18" lodDistance="290"></definition>
+    <definition id="newl2" zone="landNE" dff="newl2" col="newl2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="newl2" lodDistance="299"></definition>
+    <definition id="newtreepatch_sub" zone="landNE" dff="newtreepatch_sub" col="newtreepatch_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="newtreepatch_sub" lodDistance="299"></definition>
+    <definition id="decking3" zone="landNE" dff="decking3" col="decking3" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="hill_tunnel1" zone="landNE" dff="hill_tunnel1" col="hill_tunnel1" txd="tunnels" alphaTransparency="nil" lod="true" lodID="hill_tunnel1" lodDistance="290"></definition>
+    <definition id="newtrees1_sub" zone="landNE" dff="newtrees1_sub" col="newtrees1_sub" txd="trees2" alphaTransparency="true" lod="true" lodID="newtrees1_sub" lodDistance="299"></definition>
+    <definition id="landpart_mount44" zone="landNE" dff="landpart_mount44" col="landpart_mount44" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount44" lodDistance="290"></definition>
+    <definition id="treepatchnew_sub" zone="landNE" dff="treepatchnew_sub" col="treepatchnew_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchnew_sub" lodDistance="299"></definition>
+    <definition id="treepatch01_sub" zone="landNE" dff="treepatch01_sub" col="treepatch01_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch01_sub" lodDistance="299"></definition>
+    <definition id="hill_tunnel2" zone="landNE" dff="hill_tunnel2" col="hill_tunnel2" txd="tunnels" alphaTransparency="nil" lod="true" lodID="hill_tunnel2" lodDistance="290"></definition>
+    <definition id="treepatch26_sub" zone="landNE" dff="treepatch26_sub" col="treepatch26_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch26_sub" lodDistance="299"></definition>
+    <definition id="treepatch07_sub" zone="landNE" dff="treepatch07_sub" col="treepatch07_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch07_sub" lodDistance="299"></definition>
+    <definition id="custm_rd35" zone="landNE" dff="custm_rd35" col="custm_rd35" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="custm_rd35" lodDistance="280"></definition>
+    <definition id="fixNewcliff_04" zone="landNE" dff="fixNewcliff_04" col="fixNewcliff_04" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_04" lodDistance="299"></definition>
+    <definition id="newfence" zone="landNE" dff="newfence" col="newfence" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="fixNewcliff_08" zone="landNE" dff="fixNewcliff_08" col="fixNewcliff_08" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_08" lodDistance="299"></definition>
+    <definition id="fixNewcliff_09" zone="landNE" dff="fixNewcliff_09" col="fixNewcliff_09" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_09" lodDistance="299"></definition>
+    <definition id="fixssvgarge_09" zone="landNE" dff="fixssvgarge_09" col="fixssvgarge_09" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_09" lodDistance="200"></definition>
+    <definition id="fixssvgarge_06" zone="landNE" dff="fixssvgarge_06" col="fixssvgarge_06" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_06" lodDistance="200"></definition>
+    <definition id="fixNewcliff_13" zone="landNE" dff="fixNewcliff_13" col="fixNewcliff_13" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_13" lodDistance="299"></definition>
+    <definition id="cliffwall09" zone="landNE" dff="cliffwall09" col="cliffwall09" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="fixNewcliff_10" zone="landNE" dff="fixNewcliff_10" col="fixNewcliff_10" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_10" lodDistance="299"></definition>
+    <definition id="cliffwall02" zone="landNE" dff="cliffwall02" col="cliffwall02" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="indfrate09" zone="landNE" dff="indfrate09" col="indfrate09" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="sublandpart22" zone="landNE" dff="sublandpart22" col="sublandpart22" txd="newprojectland" alphaTransparency="nil" lod="true" lodID="sublandpart22" lodDistance="290"></definition>
+    <definition id="newfence1" zone="landNE" dff="newfence1" col="newfence1" txd="sub_villas" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="mailbox5" zone="landNE" dff="mailbox5" col="mailbox5" txd="subvillabits" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="mansion2" zone="landNE" dff="mansion2" col="mansion2" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion2" lodDistance="270"></definition>
+    <definition id="fixNewcliff_06" zone="landNE" dff="fixNewcliff_06" col="fixNewcliff_06" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_06" lodDistance="299"></definition>
+    <definition id="subposter09" zone="landNE" dff="subposter09" col="subposter09" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="fixssvgarge_04" zone="landNE" dff="fixssvgarge_04" col="fixssvgarge_04" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_04" lodDistance="200"></definition>
+    <definition id="clif19" zone="landNE" dff="clif19" col="clif19" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif19" lodDistance="290"></definition>
+    <definition id="landpart21" zone="landNE" dff="landpart21" col="landpart21" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart21" lodDistance="290"></definition>
+    <definition id="mansion6" zone="landNE" dff="mansion6" col="mansion6" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion6" lodDistance="290"></definition>
+    <definition id="landpart_mount33" zone="landNE" dff="landpart_mount33" col="landpart_mount33" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart_mount33" lodDistance="290"></definition>
+    <definition id="treepatch03_sub" zone="landNE" dff="treepatch03_sub" col="treepatch03_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch03_sub" lodDistance="299"></definition>
+    <definition id="golf13" zone="landNE" dff="golf13" col="golf13" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="golf13" lodDistance="290"></definition>
+    <definition id="fixNewcliff_01" zone="landNE" dff="fixNewcliff_01" col="fixNewcliff_01" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_01" lodDistance="299"></definition>
+    <definition id="mount6" zone="landNE" dff="mount6" col="mount6" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="mount6" lodDistance="290"></definition>
+    <definition id="indfrate10" zone="landNE" dff="indfrate10" col="indfrate10" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch05_sub" zone="landNE" dff="treepatch05_sub" col="treepatch05_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch05_sub" lodDistance="299"></definition>
+    <definition id="dam_pod1" zone="landNE" dff="dam_pod1" col="dam_pod1" txd="dam" alphaTransparency="nil" lod="true" lodID="dam_pod1" lodDistance="290"></definition>
+    <definition id="treepatch06_sub" zone="landNE" dff="treepatch06_sub" col="treepatch06_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch06_sub" lodDistance="299"></definition>
+    <definition id="treepatch04_sub" zone="landNE" dff="treepatch04_sub" col="treepatch04_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch04_sub" lodDistance="299"></definition>
+    <definition id="damfence03" zone="landNE" dff="damfence03" col="damfence03" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="towerflat27" zone="landNE" dff="towerflat27" col="towerflat27" txd="sub_projects" alphaTransparency="nil" lod="true" lodID="towerflat27" lodDistance="290"></definition>
+    <definition id="projwall1" zone="landNE" dff="projwall1" col="projwall1" txd="sub_projects" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="damfence05" zone="landNE" dff="damfence05" col="damfence05" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="treepatch34_sub" zone="landNE" dff="treepatch34_sub" col="treepatch34_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch34_sub" lodDistance="299"></definition>
+    <definition id="Pumpfirescape" zone="landNE" dff="Pumpfirescape" col="Pumpfirescape" txd="pumphouse" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="cliffwall08" zone="landNE" dff="cliffwall08" col="cliffwall08" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="damfence07" zone="landNE" dff="damfence07" col="damfence07" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
+    <definition id="mansion3" zone="landNE" dff="mansion3" col="mansion3" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion3" lodDistance="290"></definition>
+    <definition id="wal_1" zone="landNE" dff="wal_1" col="wal_1" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="Security_Hut" zone="landNE" dff="Security_Hut" col="Security_Hut" txd="securityhut" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
+    <definition id="treepatch28_sub" zone="landNE" dff="treepatch28_sub" col="treepatch28_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch28_sub" lodDistance="299"></definition>
+    <definition id="mount5" zone="landNE" dff="mount5" col="mount5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="mount5" lodDistance="290"></definition>
+    <definition id="fixssvgarge_05" zone="landNE" dff="fixssvgarge_05" col="fixssvgarge_05" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_05" lodDistance="200"></definition>
+    <definition id="telepole04" zone="landNE" dff="telepole04" col="telepole04" txd="nipple" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="cliffwall11" zone="landNE" dff="cliffwall11" col="cliffwall11" txd="cliffwall" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="shedge2" zone="landNE" dff="shedge2" col="shedge2" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge2" lodDistance="290"></definition>
+    <definition id="dam_base" zone="landNE" dff="dam_base" col="dam_base" txd="dambase" alphaTransparency="nil" lod="true" lodID="dam_base" lodDistance="290"></definition>
+    <definition id="round_bit" zone="landNE" dff="round_bit" col="round_bit" txd="damentrance" alphaTransparency="nil" lod="true" lodID="round_bit" lodDistance="290"></definition>
+    <definition id="observatory_temp" zone="landNE" dff="observatory_temp" col="observatory_temp" txd="nipple" alphaTransparency="nil" lod="true" lodID="observatory_temp" lodDistance="299"></definition>
+    <definition id="shedge4" zone="landNE" dff="shedge4" col="shedge4" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge4" lodDistance="290"></definition>
+    <definition id="towerflat26" zone="landNE" dff="towerflat26" col="towerflat26" txd="sub_projects" alphaTransparency="nil" lod="true" lodID="towerflat26" lodDistance="290"></definition>
+    <definition id="shedge5" zone="landNE" dff="shedge5" col="shedge5" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge5" lodDistance="290"></definition>
+    <definition id="mansion5" zone="landNE" dff="mansion5" col="mansion5" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion5" lodDistance="290"></definition>
+    <definition id="landpart26" zone="landNE" dff="landpart26" col="landpart26" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart26" lodDistance="290"></definition>
+    <definition id="landpart23" zone="landNE" dff="landpart23" col="landpart23" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart23" lodDistance="290"></definition>
+    <definition id="forsalesign3" zone="landNE" dff="forsalesign3" col="forsalesign3" txd="subvillabits" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="damfence01" zone="landNE" dff="damfence01" col="damfence01" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="clif12_2" zone="landNE" dff="clif12_2" col="clif12_2" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif12_2" lodDistance="290"></definition>
+    <definition id="shedge6" zone="landNE" dff="shedge6" col="shedge6" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="shedge6" lodDistance="290"></definition>
+    <definition id="clif1" zone="landNE" dff="clif1" col="clif1" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif1" lodDistance="290"></definition>
+    <definition id="landpart16" zone="landNE" dff="landpart16" col="landpart16" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart16" lodDistance="290"></definition>
+    <definition id="new_GOD_DAM" zone="landNE" dff="new_GOD_DAM" col="new_GOD_DAM" txd="dam" alphaTransparency="nil" lod="true" lodID="new_GOD_DAM" lodDistance="290"></definition>
+    <definition id="damfence04" zone="landNE" dff="damfence04" col="damfence04" txd="damfence" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="fixNewcliff_12" zone="landNE" dff="fixNewcliff_12" col="fixNewcliff_12" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_12" lodDistance="299"></definition>
+    <definition id="fixssvgarge_07" zone="landNE" dff="fixssvgarge_07" col="fixssvgarge_07" txd="projbits" alphaTransparency="nil" lod="true" lodID="fixssvgarge_07" lodDistance="200"></definition>
+    <definition id="clif15" zone="landNE" dff="clif15" col="clif15" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif15" lodDistance="290"></definition>
+    <definition id="mansion4" zone="landNE" dff="mansion4" col="mansion4" txd="sub_villas" alphaTransparency="nil" lod="true" lodID="mansion4" lodDistance="290"></definition>
+    <definition id="pondbedfix" zone="landNE" dff="pondbedfix" col="pondbedfix" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="pondbedfix" lodDistance="299"></definition>
+    <definition id="projbridgewall2" zone="landNE" dff="projbridgewall2" col="projbridgewall2" txd="sub_probridge" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="fixNewcliff_05" zone="landNE" dff="fixNewcliff_05" col="fixNewcliff_05" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="fixNewcliff_05" lodDistance="299"></definition>
+</zoneDefinitions>

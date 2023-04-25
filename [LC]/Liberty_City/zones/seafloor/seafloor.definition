@@ -1,0 +1,6 @@
+<zoneDefinitions>
+    <definition id="dam_bed" zone="seafloor" dff="dam_bed" col="dam_bed" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="dam_bed" lodDistance="299"></definition>
+    <definition id="bedtrain" zone="seafloor" dff="bedtrain" col="bedtrain" txd="indbeach" alphaTransparency="nil" lod="true" lodID="bedtrain" lodDistance="3000"></definition>
+    <definition id="bedquat" zone="seafloor" dff="bedquat" col="bedquat" txd="indbeach" alphaTransparency="nil" lod="true" lodID="bedquat" lodDistance="299"></definition>
+    <definition id="bedeighth" zone="seafloor" dff="bedeighth" col="bedeighth" txd="indbeach" alphaTransparency="nil" lod="true" lodID="bedeighth" lodDistance="3000"></definition>
+</zoneDefinitions>
