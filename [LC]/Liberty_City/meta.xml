@@ -1388,7 +1388,7 @@
 	<file src="zones/SALC/txd/jumpbox.txd" type="client" />
 	<file src="zones/SALC/txd/cskydark.txd" type="client" />
 	<file src="zones/SALC/txd/dam.txd" type="client" />
-	<file src="zones/SALC/txd/usedcar.txd" type="client" />
+	<file src="zones/SALC/txd/USEDCAR.txd" type="client" />
 	<file src="zones/SALC/txd/3d8ball.txd" type="client" />
  
 	<!-- DFFs -->
@@ -1975,7 +1975,7 @@
 	<file src="zones/interior_fastfood/txd/cj_till_break.txd" type="client" />
 	<file src="zones/interior_fastfood/txd/SHOP_doors.txd" type="client" />
 	<file src="zones/interior_fastfood/txd/CHICK_BLIND.txd" type="client" />
-	<file src="zones/interior_fastfood/txd/cj_ff_counters.txd" type="client" />
+	<file src="zones/interior_fastfood/txd/CJ_FF_COUNTERS.txd" type="client" />
 	<file src="zones/interior_fastfood/txd/gap.txd" type="client" />
 	<file src="zones/interior_fastfood/txd/cj_ff.txd" type="client" />
 	<file src="zones/interior_fastfood/txd/scummy.txd" type="client" />
