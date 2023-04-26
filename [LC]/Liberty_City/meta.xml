@@ -1,7 +1,6 @@
 <meta>
 	<info type="script" name="Liberty_City" author="Blue Eagle" description="MTA SA: Liberty City" version="1" eagleLoad="1" />
 
-	<script src="water.lua" type="client" />
 	<script src="extras/bridge_Client.lua" type="client" />
 	<script src="extras/bridge_Server.lua" type="server" />
 	
