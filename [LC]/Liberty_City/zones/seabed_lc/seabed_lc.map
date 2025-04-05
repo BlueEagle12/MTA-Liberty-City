@@ -1,0 +1,35 @@
+<map>
+    <building  id="rockpatch03" posX="-2664.22" posY="509.01" posZ="-11.9451" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="-2774.93" posY="243.74" posZ="-11.9451" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="-2141.021" posY="280.32" posZ="-11.9451" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="-1700.256" posY="15.94" posZ="-11.9451" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="-437.479" posY="531.52" posZ="-11.9451" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="-88.72" posY="2078.352" posZ="-4.62025" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="351.88" posY="1735.0678" posZ="-8.55731" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="290.11" posY="1302.945" posZ="-12.6015" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="57.7" posY="481.56" posZ="-2.71189" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="-638.239" posY="743.4" posZ="-0.245175" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="-637.472" posY="1519.631" posZ="-1.65418" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="-686.36" posY="1840.9886" posZ="-3.02913" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="-472.322" posY="2088.253" posZ="-3.44569" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch1" posX="318.4" posY="1810.7706" posZ="-2.02311" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object  id="bouy" posX="-1683.2" posY="1553.262" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-553.344" posY="582.73" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-322.88" posY="436.73" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-42.17" posY="508.3" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="134.43" posY="585.82" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="286.38" posY="730.46" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="385.02" posY="1003.311" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="408.96" posY="1319.943" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="280.88" posY="1398.116" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="306.87" posY="1659.709" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="190.28" posY="1892.4925" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-29.83" posY="1934.331" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-263.66" posY="2014.808" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-557.667" posY="2093.661" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-689.895" posY="2032.145" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-644.893" posY="1764.5467" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-644.434" posY="1459.222" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-645.963" posY="1194.384" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="bouy" posX="-651.633" posY="887.063" posZ="-0.537987" rotX="0" rotY="-0" rotZ="-0"></object>
+</map>

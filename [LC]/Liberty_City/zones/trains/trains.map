@@ -1,0 +1,186 @@
+<map>
+    <building  id="Nrailtrax_straight" posX="-297.27" posY="1617.07" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-297.27" posY="1707.82" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-591.055" posY="1217.27" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-591.055" posY="1171.9" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-591.055" posY="1126.53" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-591.055" posY="1081.15" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-583.737" posY="1263.23" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_2b" posX="-563.676" posY="1291.35" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_2b"></building>
+    <building  id="Nrailtrax_straight" posX="-460.387" posY="956.435" posZ="28.1319" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-418.497" posY="961.806" posZ="28.1319" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-333.35" posY="982.828" posZ="28.1319" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-81.67" posY="1297.63" posZ="42.8125" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-48.26" posY="1271.81" posZ="42.8125" rotX="0" rotY="-0" rotZ="45.000334938371" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-20.93" posY="1234.14" posZ="42.8125" rotX="0" rotY="-0" rotZ="45.000334938371" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_bentl" posX="-22.88" posY="1146.34" posZ="37.923" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-80.75" posY="1080.88" posZ="33.0336" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-287.97" posY="982.828" posZ="28.1319" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-182.52" posY="989.451" posZ="23.2546" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_skew" posX="-176.91" posY="1302.37" posZ="35.4725" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_skew"></building>
+    <building  id="Nrailtrax_skew" posX="-15.81" posY="1192.24" posZ="40.3678" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_skew"></building>
+    <building  id="Nrailtrax_skew" posX="-48.88" posY="1113.09" posZ="35.4783" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_skew"></building>
+    <building  id="Nrailtrax_skew" posX="-113.02" posY="1048.96" posZ="30.5888" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_skew"></building>
+    <building  id="Nrailtrax_skew" posX="-145.07" posY="1016.91" posZ="25.6993" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_skew"></building>
+    <building  id="Nnewtrackaaa" posX="-242.59" posY="982.828" posZ="28.1319" rotX="0" rotY="-0" rotZ="-0" lodParent="newtrackaaa"></building>
+    <building  id="Nrailtrax_bentl" posX="-313.76" posY="1309.68" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_bentl" posX="-342.42" posY="1341.09" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-347.79" posY="1382.99" posZ="22.6014" rotX="0" rotY="-0" rotZ="-179.99984796107" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-347.79" posY="1428.36" posZ="22.6014" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-347.79" posY="1473.74" posZ="22.6014" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-340.47" posY="1519.68" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_strtshort" posX="-322.61" posY="1545.47" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_strtshort"></building>
+    <building  id="Nrailtrax_bentl" posX="-304.59" posY="1571.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_bentl" posX="-302.64" posY="1749.7" posZ="22.6014" rotX="0" rotY="-0" rotZ="45.000334938371" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-329.96" posY="1787.37" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-409.335" posY="1820.51" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-363.375" posY="1813.19" posZ="22.6014" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_bentl" posX="-451.218" posY="1815.14" posZ="22.6014" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-488.892" posY="1787.82" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-520.976" posY="1755.73" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-553.06" posY="1723.65" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-578.878" posY="1690.23" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_straight" posX="-586.197" posY="1598.9" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-586.197" posY="1644.27" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentl" posX="-580.826" posY="1557.02" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_bentl" posX="-536.788" posY="1493.2" posZ="22.6014" rotX="0" rotY="-0" rotZ="45.000334938371" lodParent="railtrax_bentl"></building>
+    <building  id="Nrailtrax_2b" posX="-558.804" posY="1525.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_2b"></building>
+    <building  id="Nrailtrax_straight" posX="-531.417" posY="1451.3" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-531.417" posY="1360.54" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_straight" posX="-531.417" posY="1405.92" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_straight"></building>
+    <building  id="Nrailtrax_bentrb" posX="-539.216" posY="1321.22" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395" lodParent="railtrax_bentrb"></building>
+    <building  id="Nrailtrax_bentrb" posX="-379.595" posY="979.327" posZ="28.1319" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_bentrb"></building>
+    <building  id="Nrailtrax_ske2b" posX="-267.76" posY="1302.31" posZ="25.208" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_ske2b"></building>
+    <building  id="Nrailtrax_ske2b" posX="-222.28" posY="1302.17" posZ="30.4212" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_ske2b"></building>
+    <building  id="Nrailtrax_skewp" posX="-129.58" posY="1303.54" posZ="40.3619" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_skewp"></building>
+    <building  id="Nrailtrax_skew5" posX="-505.83" posY="956.435" posZ="25.5221" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_skew5"></building>
+    <building  id="Nrailtrax_bentr" posX="-551.913" posY="963.565" posZ="22.9185" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="railtrax_bentr"></building>
+    <building  id="Nrailtrax_bentr" posX="-581.013" posY="994.778" posZ="22.9185" rotX="0" rotY="-0" rotZ="45.000334938371" lodParent="railtrax_bentr"></building>
+    <building  id="Nrailtraxstraightss" posX="-586.643" posY="1033.2" posZ="22.919" rotX="0" rotY="-0" rotZ="-0" lodParent="railtraxstraightss"></building>
+    <building  id="Nrailtrax_2b" posX="-563.676" posY="1291.35" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="railtrax_2b"></building>
+    <building  id="Nrailtrax_2b" posX="-558.804" posY="1525.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0" lodParent="railtrax_2b"></building>
+    <building  id="railtrax_lo4b" posX="-236.86" posY="1301.21" posZ="19.7683" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b"></building>
+    <building  id="railtrax_lo4b" posX="-15.68" posY="1167.12" posZ="28.5875" rotX="0" rotY="-0" rotZ="-90.000035460221" lodParent="LODltrax_lo4b" uniqueID="1"></building>
+    <building  id="railtrax_lo4b" posX="-42.05" posY="1118.69" posZ="26.9266" rotX="0" rotY="-0" rotZ="-135.00008786395" lodParent="LODltrax_lo4b" uniqueID="2"></building>
+    <building  id="railtrax_lo4b" posX="-80.38" posY="1079.51" posZ="23.6034" rotX="0" rotY="-0" rotZ="-135.00008786395" lodParent="LODltrax_lo4b" uniqueID="3"></building>
+    <building  id="railtrax_lo4b" posX="-220.6" posY="984.277" posZ="15.1665" rotX="0" rotY="-0" rotZ="148.00006059114" lodParent="LODltrax_lo4b" uniqueID="4"></building>
+    <building  id="railtrax_lo4b" posX="-139.39" posY="1301.14" posZ="29.67" rotX="0" rotY="-0" rotZ="-0" lodParent="LODltrax_lo4b" uniqueID="5"></building>
+    <building  id="railtrax_lo4b" posX="-16.97" posY="1231.59" posZ="33.245" rotX="0" rotY="-0" rotZ="-90.000035460221" lodParent="LODltrax_lo4b" uniqueID="6"></building>
+    <building  id="railtrax_lo4b" posX="-129.66" posY="1028.75" posZ="18.0092" rotX="0" rotY="-0" rotZ="-116.99995654343" lodParent="LODltrax_lo4b" uniqueID="7"></building>
+    <building  id="railtrax_lo4b" posX="-280.88" posY="1301.23" posZ="14.1739" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="8"></building>
+    <building  id="railtrax_lo4b" posX="-590.746" posY="1139.95" posZ="14.8404" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="9"></building>
+    <building  id="railtrax_lo4b" posX="-554.97" posY="1300.59" posZ="12.99" rotX="0" rotY="-0" rotZ="44.999955315156" lodParent="LODltrax_lo4b" uniqueID="10"></building>
+    <building  id="railtrax_lo4b" posX="-332.23" posY="981.442" posZ="18.6789" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="11"></building>
+    <building  id="railtrax_lo4b" posX="-493.72" posY="955.782" posZ="17.3822" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="12"></building>
+    <building  id="railtrax_lo4b" posX="-589.149" posY="1040.96" posZ="14.794" rotX="0" rotY="-0" rotZ="-174.00000337541" lodParent="LODltrax_lo4b" uniqueID="13"></building>
+    <building  id="railtrax_lo4b" posX="-590.963" posY="1225.61" posZ="14.8503" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="14"></building>
+    <building  id="railtrax_lo4b" posX="-384.108" posY="980.747" posZ="18.6789" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="15"></building>
+    <building  id="railtrax_lo4b" posX="-556.347" posY="963.111" posZ="13.3593" rotX="0" rotY="-0" rotZ="153.50001937091" lodParent="LODltrax_lo4b" uniqueID="16"></building>
+    <building  id="railtrax_lo4b" posX="-344.45" posY="1476.42" posZ="13.0955" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="17"></building>
+    <building  id="railtrax_lo4b" posX="-343.92" posY="1423.07" posZ="13.1681" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="18"></building>
+    <building  id="railtrax_lo4b" posX="-582.385" posY="1651.12" posZ="13.1681" rotX="0" rotY="-0" rotZ="-0" lodParent="LODltrax_lo4b" uniqueID="19"></building>
+    <building  id="railtrax_lo4b" posX="-582.807" posY="1601.11" posZ="13.1681" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="20"></building>
+    <building  id="railtrax_lo4b" posX="-495.412" posY="1781.37" posZ="13.1681" rotX="0" rotY="-0" rotZ="44.999955315156" lodParent="LODltrax_lo4b" uniqueID="21"></building>
+    <building  id="railtrax_lo4b" posX="-554.714" posY="1722.8" posZ="13.1681" rotX="0" rotY="-0" rotZ="44.999955315156" lodParent="LODltrax_lo4b" uniqueID="22"></building>
+    <building  id="railtrax_lo4b" posX="-298.75" posY="1614.96" posZ="12.8249" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="23"></building>
+    <building  id="railtrax_lo4b" posX="-299.3" posY="1737.99" posZ="13.1435" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="24"></building>
+    <building  id="railtrax_lo4b" posX="-343.56" posY="1801.98" posZ="13.1681" rotX="0" rotY="-0" rotZ="140.99993601447" lodParent="LODltrax_lo4b" uniqueID="25"></building>
+    <building  id="railtrax_lo4b" posX="-408.317" posY="1821.1" posZ="13.1681" rotX="0" rotY="-0" rotZ="-180" lodParent="LODltrax_lo4b" uniqueID="26"></building>
+    <building  id="railtrax_lo4b" posX="-532.311" posY="1388.2" posZ="13.1273" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="27"></building>
+    <building  id="railtrax_lo4b" posX="-299.18" posY="1655.36" posZ="13.1611" rotX="0" rotY="-0" rotZ="90.000035460221" lodParent="LODltrax_lo4b" uniqueID="28"></building>
+    <building  id="railtrax_lo4b" posX="-338.05" posY="1328.1" posZ="13.1371" rotX="0" rotY="-0" rotZ="112.50006730627" lodParent="LODltrax_lo4b" uniqueID="29"></building>
+    <building  id="railtrax_lo4b" posX="-558.688" posY="1526.74" posZ="13.1681" rotX="0" rotY="-0" rotZ="135.00008786395" lodParent="LODltrax_lo4b" uniqueID="30"></building>
+    <building  id="railtrax_lo4b" posX="-533.706" posY="1328.64" posZ="13.1273" rotX="0" rotY="-0" rotZ="71.00001735291" lodParent="LODltrax_lo4b" uniqueID="31"></building>
+    <building  id="railtrax_straight" posX="-297.27" posY="1662.44" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_straight" posX="-297.27" posY="1617.07" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_straight" posX="-297.27" posY="1707.82" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_straight" posX="-591.055" posY="1217.27" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-591.055" posY="1171.9" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-591.055" posY="1126.53" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-591.055" posY="1081.15" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentl" posX="-583.737" posY="1263.23" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_2b" posX="-563.676" posY="1291.35" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_straight" posX="-460.387" posY="956.435" posZ="28.1319" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_bentl" posX="-418.497" posY="961.806" posZ="28.1319" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_straight" posX="-333.35" posY="982.828" posZ="28.1319" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
+    <building  id="railtrax_bentl" posX="-81.67" posY="1297.63" posZ="42.8125" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
+    <building  id="railtrax_straight" posX="-48.26" posY="1271.81" posZ="42.8125" rotX="0" rotY="-0" rotZ="45.000334938371"></building>
+    <building  id="railtrax_bentl" posX="-20.93" posY="1234.14" posZ="42.8125" rotX="0" rotY="-0" rotZ="45.000334938371"></building>
+    <building  id="railtrax_bentl" posX="-22.88" posY="1146.34" posZ="37.923" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-80.75" posY="1080.88" posZ="33.0336" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018"></building>
+    <building  id="railtrax_straight" posX="-287.97" posY="982.828" posZ="28.1319" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
+    <building  id="railtrax_bentl" posX="-182.52" posY="989.451" posZ="23.2546" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_skew" posX="-176.91" posY="1302.37" posZ="35.4725" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_skew" posX="-15.81" posY="1192.24" posZ="40.3678" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_skew" posX="-48.88" posY="1113.09" posZ="35.4783" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_skew" posX="-113.02" posY="1048.96" posZ="30.5888" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_skew" posX="-145.07" posY="1016.91" posZ="25.6993" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="newtrackaaa" posX="-242.59" posY="982.828" posZ="28.1319" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentl" posX="-313.76" posY="1309.68" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_bentl" posX="-342.42" posY="1341.09" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395"></building>
+    <building  id="railtrax_straight" posX="-347.79" posY="1382.99" posZ="22.6014" rotX="0" rotY="-0" rotZ="-179.99984796107"></building>
+    <building  id="railtrax_straight" posX="-347.79" posY="1428.36" posZ="22.6014" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972"></building>
+    <building  id="railtrax_straight" posX="-347.79" posY="1473.74" posZ="22.6014" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972"></building>
+    <building  id="railtrax_bentl" posX="-340.47" posY="1519.68" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_strtshort" posX="-322.61" posY="1545.47" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentl" posX="-304.59" posY="1571.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentl" posX="-302.64" posY="1749.7" posZ="22.6014" rotX="0" rotY="-0" rotZ="45.000334938371"></building>
+    <building  id="railtrax_straight" posX="-329.96" posY="1787.37" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395"></building>
+    <building  id="railtrax_straight" posX="-409.335" posY="1820.51" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_bentl" posX="-363.375" posY="1813.19" posZ="22.6014" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
+    <building  id="railtrax_bentl" posX="-451.218" posY="1815.14" posZ="22.6014" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018"></building>
+    <building  id="railtrax_straight" posX="-488.892" posY="1787.82" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_straight" posX="-520.976" posY="1755.73" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_straight" posX="-553.06" posY="1723.65" posZ="22.6014" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building  id="railtrax_bentl" posX="-578.878" posY="1690.23" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_straight" posX="-586.197" posY="1598.9" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-586.197" posY="1644.27" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentl" posX="-580.826" posY="1557.02" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395"></building>
+    <building  id="railtrax_bentl" posX="-536.788" posY="1493.2" posZ="22.6014" rotX="0" rotY="-0" rotZ="45.000334938371"></building>
+    <building  id="railtrax_2b" posX="-558.804" posY="1525.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-531.417" posY="1451.3" posZ="22.6014" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building  id="railtrax_straight" posX="-531.417" posY="1360.54" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_straight" posX="-531.417" posY="1405.92" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentrb" posX="-539.216" posY="1321.22" posZ="22.6014" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395"></building>
+    <building  id="railtrax_bentrb" posX="-379.595" posY="979.327" posZ="28.1319" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_ske2b" posX="-267.76" posY="1302.31" posZ="25.208" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_ske2b" posX="-222.28" posY="1302.17" posZ="30.4212" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_skewp" posX="-129.58" posY="1303.54" posZ="40.3619" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_skew5" posX="-505.83" posY="956.435" posZ="25.5221" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="railtrax_bentr" posX="-551.913" posY="963.565" posZ="22.9185" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
+    <building  id="railtrax_bentr" posX="-581.013" posY="994.778" posZ="22.9185" rotX="0" rotY="-0" rotZ="45.000334938371"></building>
+    <building  id="railtrax_2b" posX="-563.676" posY="1291.35" posZ="22.6014" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building  id="railtrax_2b" posX="-558.804" posY="1525.11" posZ="22.6014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODltrax_lo4b" posX="-236.86" posY="1301.21" posZ="19.7683" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building  id="LODltrax_lo4b" posX="-15.68" posY="1167.12" posZ="28.5875" rotX="0" rotY="-0" rotZ="-90.000035460221" uniqueID="1"></building>
+    <building  id="LODltrax_lo4b" posX="-42.05" posY="1118.69" posZ="26.9266" rotX="0" rotY="-0" rotZ="-135.00008786395" uniqueID="2"></building>
+    <building  id="LODltrax_lo4b" posX="-80.38" posY="1079.51" posZ="23.6034" rotX="0" rotY="-0" rotZ="-135.00008786395" uniqueID="3"></building>
+    <building  id="LODltrax_lo4b" posX="-220.6" posY="984.277" posZ="15.1665" rotX="0" rotY="-0" rotZ="148.00006059114" uniqueID="4"></building>
+    <building  id="LODltrax_lo4b" posX="-139.39" posY="1301.14" posZ="29.67" rotX="0" rotY="-0" rotZ="-0" uniqueID="5"></building>
+    <building  id="LODltrax_lo4b" posX="-16.97" posY="1231.59" posZ="33.245" rotX="0" rotY="-0" rotZ="-90.000035460221" uniqueID="6"></building>
+    <building  id="LODltrax_lo4b" posX="-129.66" posY="1028.75" posZ="18.0092" rotX="0" rotY="-0" rotZ="-116.99995654343" uniqueID="7"></building>
+    <building  id="LODltrax_lo4b" posX="-280.88" posY="1301.23" posZ="14.1739" rotX="0" rotY="-0" rotZ="-180" uniqueID="8"></building>
+    <building  id="LODltrax_lo4b" posX="-590.746" posY="1139.95" posZ="14.8404" rotX="0" rotY="-0" rotZ="-180" uniqueID="9"></building>
+    <building  id="LODltrax_lo4b" posX="-554.97" posY="1300.59" posZ="12.99" rotX="0" rotY="-0" rotZ="44.999955315156" uniqueID="10"></building>
+    <building  id="LODltrax_lo4b" posX="-332.23" posY="981.442" posZ="18.6789" rotX="0" rotY="-0" rotZ="-180" uniqueID="11"></building>
+    <building  id="LODltrax_lo4b" posX="-493.72" posY="955.782" posZ="17.3822" rotX="0" rotY="-0" rotZ="-180" uniqueID="12"></building>
+    <building  id="LODltrax_lo4b" posX="-589.149" posY="1040.96" posZ="14.794" rotX="0" rotY="-0" rotZ="-174.00000337541" uniqueID="13"></building>
+    <building  id="LODltrax_lo4b" posX="-590.963" posY="1225.61" posZ="14.8503" rotX="0" rotY="-0" rotZ="-180" uniqueID="14"></building>
+    <building  id="LODltrax_lo4b" posX="-384.108" posY="980.747" posZ="18.6789" rotX="0" rotY="-0" rotZ="-180" uniqueID="15"></building>
+    <building  id="LODltrax_lo4b" posX="-556.347" posY="963.111" posZ="13.3593" rotX="0" rotY="-0" rotZ="153.50001937091" uniqueID="16"></building>
+    <building  id="LODltrax_lo4b" posX="-344.45" posY="1476.42" posZ="13.0955" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="17"></building>
+    <building  id="LODltrax_lo4b" posX="-343.92" posY="1423.07" posZ="13.1681" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="18"></building>
+    <building  id="LODltrax_lo4b" posX="-582.385" posY="1651.12" posZ="13.1681" rotX="0" rotY="-0" rotZ="-0" uniqueID="19"></building>
+    <building  id="LODltrax_lo4b" posX="-582.807" posY="1601.11" posZ="13.1681" rotX="0" rotY="-0" rotZ="-180" uniqueID="20"></building>
+    <building  id="LODltrax_lo4b" posX="-495.412" posY="1781.37" posZ="13.1681" rotX="0" rotY="-0" rotZ="44.999955315156" uniqueID="21"></building>
+    <building  id="LODltrax_lo4b" posX="-554.714" posY="1722.8" posZ="13.1681" rotX="0" rotY="-0" rotZ="44.999955315156" uniqueID="22"></building>
+    <building  id="LODltrax_lo4b" posX="-298.75" posY="1614.96" posZ="12.8249" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="23"></building>
+    <building  id="LODltrax_lo4b" posX="-299.3" posY="1737.99" posZ="13.1435" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="24"></building>
+    <building  id="LODltrax_lo4b" posX="-343.56" posY="1801.98" posZ="13.1681" rotX="0" rotY="-0" rotZ="140.99993601447" uniqueID="25"></building>
+    <building  id="LODltrax_lo4b" posX="-408.317" posY="1821.1" posZ="13.1681" rotX="0" rotY="-0" rotZ="-180" uniqueID="26"></building>
+    <building  id="LODltrax_lo4b" posX="-532.311" posY="1388.2" posZ="13.1273" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="27"></building>
+    <building  id="LODltrax_lo4b" posX="-299.18" posY="1655.36" posZ="13.1611" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="28"></building>
+    <building  id="LODltrax_lo4b" posX="-338.05" posY="1328.1" posZ="13.1371" rotX="0" rotY="-0" rotZ="112.50006730627" uniqueID="29"></building>
+    <building  id="LODltrax_lo4b" posX="-558.688" posY="1526.74" posZ="13.1681" rotX="0" rotY="-0" rotZ="135.00008786395" uniqueID="30"></building>
+    <building  id="LODltrax_lo4b" posX="-533.706" posY="1328.64" posZ="13.1273" rotX="0" rotY="-0" rotZ="71.00001735291" uniqueID="31"></building>
+</map>

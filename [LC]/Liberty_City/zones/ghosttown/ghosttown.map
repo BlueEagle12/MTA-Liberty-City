@@ -1,0 +1,30 @@
+<map>
+    <building  id="Building1" posX="-1891.74" posY="2900.52" posZ="1006.76" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="Bank" posX="-1898.34" posY="2825.62" posZ="1006.72" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="building3" posX="-1957.86" posY="2850.16" posZ="1006.76" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building  id="building4" posX="-1957.96" posY="2879.45" posZ="1006.84" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="building5" posX="-1891.68" posY="2757.84" posZ="1006.84" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building  id="cutsceneroad3" posX="-1924.81" posY="2886.12" posZ="1006.73" rotX="0" rotY="-0" rotZ="90.000035460221"></building>
+    <building  id="cutsceneroad2" posX="-1924.81" posY="2846.12" posZ="1006.73" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="cutsceneroad1" posX="-1924.81" posY="2796.12" posZ="1006.73" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="cutsceneroad4" posX="-1924.81" posY="2912.43" posZ="1006.73" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rubbish01" posX="-1889.82" posY="2866.33" posZ="1006.88" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="Cutscene_Watertanks" posX="-1870.23" posY="2867.66" posZ="1015.57" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="cutscene_cameras" posX="-1884.04" posY="2866.33" posZ="1012.29" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="bank_graffiti" posX="-1894.9" posY="2867.67" posZ="1007.84" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="ghosttown_sandbox" posX="-1921.46" posY="2829.65" posZ="970" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="cutscenevan1" posX="-1916.017" posY="2837.75" posZ="1008.361" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2850.43" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2860.44" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2840.35" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2830.21" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2820.22" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2810.11" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2800.03" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1904.66" posY="2789.94" posZ="1013.63" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <building  id="smal_outsidelight" posX="-1886.62" posY="2865.33" posZ="1011.07" rotX="0" rotY="-0" rotZ="90.000035460221"></building>
+    <building  id="mak_ventchim" posX="-1880.11" posY="2876.04" posZ="1011.32" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building  id="mak_ventchim" posX="-1876.72" posY="2863.53" posZ="1011.32" rotX="0" rotY="-0" rotZ="-90.000035460221"></building>
+    <object  id="woodenbox" posX="-1892.2" posY="2881.72" posZ="1007.41" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="woodenbox" posX="-1874.87" posY="2850.98" posZ="1007.4" rotX="0" rotY="-0" rotZ="-0"></object>
+</map>

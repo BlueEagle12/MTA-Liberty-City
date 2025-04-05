@@ -1,0 +1,5 @@
+<zoneDefinitions>
+    <definition id="boatcranelg0" zone="docks" col="boatcranelg0" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="boatcranesm0" zone="docks" col="boatcranesm0" txd="crateVC" flags="2,6,7" lodDistance="50"></definition>
+    <definition id="rustship_structure0" zone="docks" col="rustship_structure0" txd="dock_ships" flags="2,7,21" lodDistance="144"></definition>
+</zoneDefinitions>

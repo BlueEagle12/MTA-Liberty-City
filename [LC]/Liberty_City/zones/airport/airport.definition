@@ -1,0 +1,4 @@
+<zoneDefinitions>
+    <definition id="jump_box108" zone="airport" col="jump_box108" txd="VC_jumpbox" flags="" lodDistance="200"></definition>
+    <definition id="ap_barriergate1" zone="airport" col="ap_barriergate1" txd="ap_checkpoints" flags="2" lodDistance="150"></definition>
+</zoneDefinitions>

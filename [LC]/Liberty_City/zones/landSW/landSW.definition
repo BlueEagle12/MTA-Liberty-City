@@ -1,188 +1,258 @@
 <zoneDefinitions>
-    <definition id="treepatch171_sub" zone="landSW" dff="treepatch171_sub" col="treepatch171_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch171_sub" lodDistance="200"></definition>
-    <definition id="newairportwall5" zone="landSW" dff="newairportwall5" col="newairportwall5" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="airtower1" zone="landSW" dff="airtower1" col="airtower1" txd="airporterminal3" alphaTransparency="true" lod="true" lodID="airtower1" lodDistance="290"></definition>
-    <definition id="cutsceneroad2" zone="landSW" dff="cutsceneroad2" col="cutsceneroad2" txd="cutroads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="sub_indfrate2109" zone="landSW" dff="sub_indfrate2109" col="sub_indfrate2109" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="Airportroad03" zone="landSW" dff="Airportroad03" col="Airportroad03" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad03" lodDistance="290"></definition>
-    <definition id="air_smalldetail" zone="landSW" dff="air_smalldetail" col="air_smalldetail" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Airportroad09" zone="landSW" dff="Airportroad09" col="Airportroad09" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad09" lodDistance="290"></definition>
-    <definition id="landpart91" zone="landSW" dff="landpart91" col="landpart91" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart91" lodDistance="290"></definition>
-    <definition id="landpart106" zone="landSW" dff="landpart106" col="landpart106" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart106" lodDistance="290"></definition>
-    <definition id="treepatch152_sub" zone="landSW" dff="treepatch152_sub" col="treepatch152_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch152_sub" lodDistance="200"></definition>
-    <definition id="newairportwall3" zone="landSW" dff="newairportwall3" col="newairportwall3" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="Hospital_Sub" zone="landSW" dff="Hospital_Sub" col="Hospital_Sub" txd="subhospital" alphaTransparency="nil" lod="true" lodID="Hospital_Sub" lodDistance="200"></definition>
-    <definition id="treepatch23_sub" zone="landSW" dff="treepatch23_sub" col="treepatch23_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch23_sub" lodDistance="200"></definition>
-    <definition id="air_planeroad2" zone="landSW" dff="air_planeroad2" col="air_planeroad2" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_planeroad2" lodDistance="290"></definition>
-    <definition id="landpart86" zone="landSW" dff="landpart86" col="landpart86" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart86" lodDistance="290"></definition>
-    <definition id="doc_shedbig12" zone="landSW" dff="doc_shedbig12" col="doc_shedbig12" txd="subuild8" alphaTransparency="nil" lod="true" lodID="doc_shedbig12" lodDistance="200"></definition>
-    <definition id="landpart103" zone="landSW" dff="landpart103" col="landpart103" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart103" lodDistance="290"></definition>
-    <definition id="Building1" zone="landSW" dff="Building1" col="Building1" txd="cutbuild1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="subind_build02" zone="landSW" dff="subind_build02" col="subind_build02" txd="subuild2" alphaTransparency="nil" lod="true" lodID="subind_build02" lodDistance="200"></definition>
-    <definition id="subposter08" zone="landSW" dff="subposter08" col="subposter08" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="air_planeroad4" zone="landSW" dff="air_planeroad4" col="air_planeroad4" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_planeroad4" lodDistance="290"></definition>
-    <definition id="landpart96" zone="landSW" dff="landpart96" col="landpart96" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart96" lodDistance="290"></definition>
-    <definition id="treepatch24_sub" zone="landSW" dff="treepatch24_sub" col="treepatch24_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch24_sub" lodDistance="200"></definition>
-    <definition id="air_grnd12" zone="landSW" dff="air_grnd12" col="air_grnd12" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd12" lodDistance="290"></definition>
-    <definition id="subposter07" zone="landSW" dff="subposter07" col="subposter07" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="sub_indfrate2108" zone="landSW" dff="sub_indfrate2108" col="sub_indfrate2108" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="landpart98" zone="landSW" dff="landpart98" col="landpart98" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart98" lodDistance="290"></definition>
-    <definition id="treepatch173_sub" zone="landSW" dff="treepatch173_sub" col="treepatch173_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch173_sub" lodDistance="200"></definition>
-    <definition id="subind_build06" zone="landSW" dff="subind_build06" col="subind_build06" txd="subuild1" alphaTransparency="nil" lod="true" lodID="subind_build06" lodDistance="200"></definition>
-    <definition id="treepatch212_sub" zone="landSW" dff="treepatch212_sub" col="treepatch212_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch212_sub" lodDistance="200"></definition>
-    <definition id="rubbish01" zone="landSW" dff="rubbish01" col="rubbish01" txd="cutrubbish" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="8ballsuburbandoor" zone="landSW" dff="8ballsuburbandoor" col="8ballsuburbandoor" txd="subestbuild" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="air_grnd08" zone="landSW" dff="air_grnd08" col="air_grnd08" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd08" lodDistance="290"></definition>
-    <definition id="parsign1" zone="landSW" dff="parsign1" col="parsign1" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="landpart88" zone="landSW" dff="landpart88" col="landpart88" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart88" lodDistance="290"></definition>
-    <definition id="subplatform_sub" zone="landSW" dff="subplatform_sub" col="subplatform_sub" txd="subway2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="cutscenevan1" zone="landSW" dff="cutscenevan1" col="cutscenevan1" txd="cutscenecar3" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="cutsceneroad1" zone="landSW" dff="cutsceneroad1" col="cutsceneroad1" txd="cutroads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="landpart97" zone="landSW" dff="landpart97" col="landpart97" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart97" lodDistance="290"></definition>
-    <definition id="treepatch15_sub" zone="landSW" dff="treepatch15_sub" col="treepatch15_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch15_sub" lodDistance="200"></definition>
-    <definition id="landpart89" zone="landSW" dff="landpart89" col="landpart89" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart89" lodDistance="200"></definition>
-    <definition id="subentrance_sub1" zone="landSW" dff="subentrance_sub1" col="subentrance_sub1" txd="subway1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="clif4" zone="landSW" dff="clif4" col="clif4" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif4" lodDistance="290"></definition>
-    <definition id="sub_indland04" zone="landSW" dff="sub_indland04" col="sub_indland04" txd="subind8" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
-    <definition id="sub_subway" zone="landSW" dff="sub_subway" col="sub_subway" txd="subentr" alphaTransparency="nil" lod="true" lodID="sub_subway" lodDistance="100"></definition>
-    <definition id="air_grnd7" zone="landSW" dff="air_grnd7" col="air_grnd7" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd7" lodDistance="290"></definition>
-    <definition id="landpart105" zone="landSW" dff="landpart105" col="landpart105" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart105" lodDistance="290"></definition>
-    <definition id="air_brway_02" zone="landSW" dff="air_brway_02" col="air_brway_02" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_brway_02" lodDistance="299"></definition>
-    <definition id="clif5" zone="landSW" dff="clif5" col="clif5" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif5" lodDistance="290"></definition>
-    <definition id="air_brway_01" zone="landSW" dff="air_brway_01" col="air_brway_01" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_brway_01" lodDistance="299"></definition>
-    <definition id="air_grnd10" zone="landSW" dff="air_grnd10" col="air_grnd10" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd10" lodDistance="290"></definition>
-    <definition id="suburbansigns3" zone="landSW" dff="suburbansigns3" col="suburbansigns3" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="landpart92" zone="landSW" dff="landpart92" col="landpart92" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart92" lodDistance="290"></definition>
-    <definition id="treepatch11_sub" zone="landSW" dff="treepatch11_sub" col="treepatch11_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch11_sub" lodDistance="200"></definition>
-    <definition id="subposter04" zone="landSW" dff="subposter04" col="subposter04" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="landpart99" zone="landSW" dff="landpart99" col="landpart99" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="landpart99" lodDistance="200"></definition>
-    <definition id="treepatch13_sub" zone="landSW" dff="treepatch13_sub" col="treepatch13_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch13_sub" lodDistance="200"></definition>
-    <definition id="treepatch214_sub" zone="landSW" dff="treepatch214_sub" col="treepatch214_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch214_sub" lodDistance="200"></definition>
-    <definition id="bank_graffiti" zone="landSW" dff="bank_graffiti" col="bank_graffiti" txd="cutbankgrafiti" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
-    <definition id="fuel9" zone="landSW" dff="fuel9" col="fuel9" txd="subcanister" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="indsub_gate03" zone="landSW" dff="indsub_gate03" col="indsub_gate03" txd="subindgate" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="air_srway_02" zone="landSW" dff="air_srway_02" col="air_srway_02" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_srway_02" lodDistance="200"></definition>
-    <definition id="Airportroad02" zone="landSW" dff="Airportroad02" col="Airportroad02" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad02" lodDistance="290"></definition>
-    <definition id="air_grnd04" zone="landSW" dff="air_grnd04" col="air_grnd04" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd04" lodDistance="200"></definition>
-    <definition id="subposter06" zone="landSW" dff="subposter06" col="subposter06" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="cutsceneroad3" zone="landSW" dff="cutsceneroad3" col="cutsceneroad3" txd="cutroads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="sub_indland07" zone="landSW" dff="sub_indland07" col="sub_indland07" txd="subind3" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
-    <definition id="suburbansigns7" zone="landSW" dff="suburbansigns7" col="suburbansigns7" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="air_grnd11" zone="landSW" dff="air_grnd11" col="air_grnd11" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd11" lodDistance="290"></definition>
-    <definition id="treepatch153_sub" zone="landSW" dff="treepatch153_sub" col="treepatch153_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch153_sub" lodDistance="200"></definition>
-    <definition id="clif6" zone="landSW" dff="clif6" col="clif6" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif6" lodDistance="290"></definition>
-    <definition id="Airportroad10" zone="landSW" dff="Airportroad10" col="Airportroad10" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad10" lodDistance="290"></definition>
-    <definition id="caparwall3" zone="landSW" dff="caparwall3" col="caparwall3" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="subind_build01" zone="landSW" dff="subind_build01" col="subind_build01" txd="subuild6" alphaTransparency="nil" lod="true" lodID="subind_build01" lodDistance="200"></definition>
-    <definition id="suburbansigns2" zone="landSW" dff="suburbansigns2" col="suburbansigns2" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="subposter01" zone="landSW" dff="subposter01" col="subposter01" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="dam_road1" zone="landSW" dff="dam_road1" col="dam_road1" txd="dam" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="sub_indland03" zone="landSW" dff="sub_indland03" col="sub_indland03" txd="subind6" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
-    <definition id="subntrance_sub2" zone="landSW" dff="subntrance_sub2" col="subntrance_sub2" txd="subway" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="subind_build04" zone="landSW" dff="subind_build04" col="subind_build04" txd="subuild5" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="sub_indland02" zone="landSW" dff="sub_indland02" col="sub_indland02" txd="subind4" alphaTransparency="nil" lod="true" lodID="sub_indland02" lodDistance="250"></definition>
-    <definition id="landpart101" zone="landSW" dff="landpart101" col="landpart101" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart101" lodDistance="290"></definition>
-    <definition id="cutscene_cameras" zone="landSW" dff="cutscene_cameras" col="cutscene_cameras" txd="cutscenecameras" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="Cutscene_Watertanks" zone="landSW" dff="Cutscene_Watertanks" col="Cutscene_Watertanks" txd="cutwatertanks" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="newairportwall4" zone="landSW" dff="newairportwall4" col="newairportwall4" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="clif24" zone="landSW" dff="clif24" col="clif24" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif24" lodDistance="290"></definition>
-    <definition id="aptowerL" zone="landSW" dff="aptowerL" col="aptowerL" txd="airporterminal4" alphaTransparency="true" lod="true" lodID="aptowerL" lodDistance="290"></definition>
-    <definition id="apterminalfront" zone="landSW" dff="apterminalfront" col="apterminalfront" txd="airporterminal" alphaTransparency="nil" lod="true" lodID="apterminalfront" lodDistance="290"></definition>
-    <definition id="Police_Station_Sub" zone="landSW" dff="Police_Station_Sub" col="Police_Station_Sub" txd="subpolice" alphaTransparency="nil" lod="true" lodID="Police_Station_Sub" lodDistance="290"></definition>
-    <definition id="Airportroad08" zone="landSW" dff="Airportroad08" col="Airportroad08" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad08" lodDistance="290"></definition>
-    <definition id="airportfence6" zone="landSW" dff="airportfence6" col="airportfence6" txd="airportfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="indfrate03" zone="landSW" dff="indfrate03" col="indfrate03" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="splay_tunent01" zone="landSW" dff="splay_tunent01" col="splay_tunent01" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="splay_tunent01" lodDistance="200"></definition>
-    <definition id="sub_indland01" zone="landSW" dff="sub_indland01" col="sub_indland01" txd="subind2" alphaTransparency="nil" lod="true" lodID="sub_indland01" lodDistance="290"></definition>
-    <definition id="air_grnd06" zone="landSW" dff="air_grnd06" col="air_grnd06" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd06" lodDistance="200"></definition>
-    <definition id="air_srway_01" zone="landSW" dff="air_srway_01" col="air_srway_01" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_srway_01" lodDistance="200"></definition>
-    <definition id="landpart107" zone="landSW" dff="landpart107" col="landpart107" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart107" lodDistance="200"></definition>
-    <definition id="air_brway_03" zone="landSW" dff="air_brway_03" col="air_brway_03" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_brway_03" lodDistance="299"></definition>
-    <definition id="air_grnd14" zone="landSW" dff="air_grnd14" col="air_grnd14" txd="airporterminal" alphaTransparency="nil" lod="true" lodID="air_grnd14" lodDistance="290"></definition>
-    <definition id="treepatch16_sub" zone="landSW" dff="treepatch16_sub" col="treepatch16_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch16_sub" lodDistance="200"></definition>
-    <definition id="air_grnd03" zone="landSW" dff="air_grnd03" col="air_grnd03" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd03" lodDistance="290"></definition>
-    <definition id="treepatch19_sub" zone="landSW" dff="treepatch19_sub" col="treepatch19_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch19_sub" lodDistance="200"></definition>
-    <definition id="air_grnd01" zone="landSW" dff="air_grnd01" col="air_grnd01" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd01" lodDistance="200"></definition>
-    <definition id="landpart110" zone="landSW" dff="landpart110" col="landpart110" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart110" lodDistance="200"></definition>
-    <definition id="treepatch18_sub" zone="landSW" dff="treepatch18_sub" col="treepatch18_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch18_sub" lodDistance="200"></definition>
-    <definition id="fuel4" zone="landSW" dff="fuel4" col="fuel4" txd="subcanister" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="landpart85" zone="landSW" dff="landpart85" col="landpart85" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart85" lodDistance="290"></definition>
-    <definition id="doc_shedbig31" zone="landSW" dff="doc_shedbig31" col="doc_shedbig31" txd="subuild10" alphaTransparency="nil" lod="true" lodID="doc_shedbig31" lodDistance="200"></definition>
-    <definition id="air_grnd02" zone="landSW" dff="air_grnd02" col="air_grnd02" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd02" lodDistance="200"></definition>
-    <definition id="clif3" zone="landSW" dff="clif3" col="clif3" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif3" lodDistance="290"></definition>
-    <definition id="subposter03" zone="landSW" dff="subposter03" col="subposter03" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="parsign2" zone="landSW" dff="parsign2" col="parsign2" txd="airgrndb" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
-    <definition id="clif23" zone="landSW" dff="clif23" col="clif23" txd="clif22" alphaTransparency="nil" lod="true" lodID="clif23" lodDistance="290"></definition>
-    <definition id="clif26" zone="landSW" dff="clif26" col="clif26" txd="clif22" alphaTransparency="nil" lod="true" lodID="clif26" lodDistance="290"></definition>
-    <definition id="clif28" zone="landSW" dff="clif28" col="clif28" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif28" lodDistance="290"></definition>
-    <definition id="landpart94" zone="landSW" dff="landpart94" col="landpart94" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart94" lodDistance="290"></definition>
-    <definition id="landpart93" zone="landSW" dff="landpart93" col="landpart93" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart93" lodDistance="290"></definition>
-    <definition id="landpart90" zone="landSW" dff="landpart90" col="landpart90" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart90" lodDistance="290"></definition>
-    <definition id="landpart30" zone="landSW" dff="landpart30" col="landpart30" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart30" lodDistance="290"></definition>
-    <definition id="doc_shedbig13" zone="landSW" dff="doc_shedbig13" col="doc_shedbig13" txd="subuild7" alphaTransparency="nil" lod="true" lodID="doc_shedbig13" lodDistance="200"></definition>
-    <definition id="subind_build03" zone="landSW" dff="subind_build03" col="subind_build03" txd="subuild3" alphaTransparency="nil" lod="true" lodID="subind_build03" lodDistance="250"></definition>
-    <definition id="landpart102" zone="landSW" dff="landpart102" col="landpart102" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart102" lodDistance="290"></definition>
-    <definition id="airport_carpark" zone="landSW" dff="airport_carpark" col="airport_carpark" txd="aircarpark" alphaTransparency="nil" lod="true" lodID="airport_carpark" lodDistance="200"></definition>
-    <definition id="sub_indland08" zone="landSW" dff="sub_indland08" col="sub_indland08" txd="subind1" alphaTransparency="nil" lod="true" lodID="sub_indland08" lodDistance="290"></definition>
-    <definition id="apair_terminal" zone="landSW" dff="apair_terminal" col="apair_terminal" txd="airporterminal2" alphaTransparency="nil" lod="true" lodID="apair_terminal" lodDistance="290"></definition>
-    <definition id="treepatch21_sub" zone="landSW" dff="treepatch21_sub" col="treepatch21_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch21_sub" lodDistance="200"></definition>
-    <definition id="Airportroad11" zone="landSW" dff="Airportroad11" col="Airportroad11" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad11" lodDistance="290"></definition>
-    <definition id="treepatch14_sub" zone="landSW" dff="treepatch14_sub" col="treepatch14_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch14_sub" lodDistance="200"></definition>
-    <definition id="treepatch12_sub" zone="landSW" dff="treepatch12_sub" col="treepatch12_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch12_sub" lodDistance="200"></definition>
-    <definition id="Airportroad04" zone="landSW" dff="Airportroad04" col="Airportroad04" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad04" lodDistance="290"></definition>
-    <definition id="subind_build05" zone="landSW" dff="subind_build05" col="subind_build05" txd="subuild5" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="building3" zone="landSW" dff="building3" col="building3" txd="cutbuild3" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="Airportroad07" zone="landSW" dff="Airportroad07" col="Airportroad07" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad07" lodDistance="290"></definition>
-    <definition id="airportfence4" zone="landSW" dff="airportfence4" col="airportfence4" txd="airportfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="Subway_monument" zone="landSW" dff="Subway_monument" col="Subway_monument" txd="submonument" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="Otherside_subway" zone="landSW" dff="Otherside_subway" col="Otherside_subway" txd="othersubside" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Subestatebuild1" zone="landSW" dff="Subestatebuild1" col="Subestatebuild1" txd="subestbuild" alphaTransparency="nil" lod="true" lodID="Subestatebuild1" lodDistance="250"></definition>
-    <definition id="impexpgrgesub" zone="landSW" dff="impexpgrgesub" col="impexpgrgesub" txd="importexp" alphaTransparency="nil" lod="true" lodID="impexpgrgesub" lodDistance="200"></definition>
-    <definition id="subposter05" zone="landSW" dff="subposter05" col="subposter05" txd="postersub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="Airportroad06" zone="landSW" dff="Airportroad06" col="Airportroad06" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad06" lodDistance="290"></definition>
-    <definition id="building4" zone="landSW" dff="building4" col="building4" txd="cutbuild2" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="newairportwall2" zone="landSW" dff="newairportwall2" col="newairportwall2" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="sub_indland06" zone="landSW" dff="sub_indland06" col="sub_indland06" txd="subind5" alphaTransparency="true" lod="true" lodID="sub_indland06" lodDistance="200"></definition>
-    <definition id="landpart87" zone="landSW" dff="landpart87" col="landpart87" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart87" lodDistance="290"></definition>
-    <definition id="air_grnd0301" zone="landSW" dff="air_grnd0301" col="air_grnd0301" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="damissionfence" zone="landSW" dff="damissionfence" col="damissionfence" txd="damissionfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="Bank" zone="landSW" dff="Bank" col="Bank" txd="cutbank" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="Sub_sprayshopdoor" zone="landSW" dff="Sub_sprayshopdoor" col="Sub_sprayshopdoor" txd="subuild2" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="sub_indland05" zone="landSW" dff="sub_indland05" col="sub_indland05" txd="subind7" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
-    <definition id="airtower2" zone="landSW" dff="airtower2" col="airtower2" txd="airporterminal3" alphaTransparency="nil" lod="true" lodID="airtower2" lodDistance="290"></definition>
-    <definition id="air_grnd05" zone="landSW" dff="air_grnd05" col="air_grnd05" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd05" lodDistance="200"></definition>
-    <definition id="landpart104" zone="landSW" dff="landpart104" col="landpart104" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart104" lodDistance="290"></definition>
-    <definition id="air_grnd13" zone="landSW" dff="air_grnd13" col="air_grnd13" txd="airporterminal" alphaTransparency="nil" lod="true" lodID="air_grnd13" lodDistance="290"></definition>
-    <definition id="subsign1" zone="landSW" dff="subsign1" col="subsign1" txd="subsign1" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="apTerminalback" zone="landSW" dff="apTerminalback" col="apTerminalback" txd="airporterminal3" alphaTransparency="nil" lod="true" lodID="apTerminalback" lodDistance="290"></definition>
-    <definition id="Airportroad01" zone="landSW" dff="Airportroad01" col="Airportroad01" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad01" lodDistance="290"></definition>
-    <definition id="cutsceneroad4" zone="landSW" dff="cutsceneroad4" col="cutsceneroad4" txd="cutroads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="airportfence5" zone="landSW" dff="airportfence5" col="airportfence5" txd="airportfence" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="newairportwall6" zone="landSW" dff="newairportwall6" col="newairportwall6" txd="airgrndb" alphaTransparency="true" lod="nil" lodDistance="290"></definition>
-    <definition id="treepatch172_sub" zone="landSW" dff="treepatch172_sub" col="treepatch172_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch172_sub" lodDistance="200"></definition>
-    <definition id="air_grnd09" zone="landSW" dff="air_grnd09" col="air_grnd09" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_grnd09" lodDistance="290"></definition>
-    <definition id="subind_build07" zone="landSW" dff="subind_build07" col="subind_build07" txd="subuild4" alphaTransparency="nil" lod="true" lodID="subind_build07" lodDistance="200"></definition>
-    <definition id="Airportroad05" zone="landSW" dff="Airportroad05" col="Airportroad05" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="Airportroad05" lodDistance="290"></definition>
-    <definition id="landpart100" zone="landSW" dff="landpart100" col="landpart100" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="landpart100" lodDistance="200"></definition>
-    <definition id="treepatch20_sub" zone="landSW" dff="treepatch20_sub" col="treepatch20_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch20_sub" lodDistance="200"></definition>
-    <definition id="sub_ind26" zone="landSW" dff="sub_ind26" col="sub_ind26" txd="subind26" alphaTransparency="nil" lod="true" lodID="sub_ind26" lodDistance="200"></definition>
-    <definition id="sub_ind03" zone="landSW" dff="sub_ind03" col="sub_ind03" txd="subind34" alphaTransparency="nil" lod="true" lodID="sub_ind03" lodDistance="200"></definition>
-    <definition id="air_planeroad1" zone="landSW" dff="air_planeroad1" col="air_planeroad1" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_planeroad1" lodDistance="290"></definition>
-    <definition id="impexpsubgrgdoor" zone="landSW" dff="impexpsubgrgdoor" col="impexpsubgrgdoor" txd="importexp" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="amcogaragedoor" zone="landSW" dff="amcogaragedoor" col="amcogaragedoor" txd="subuild4" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="carparkfence" zone="landSW" dff="carparkfence" col="carparkfence" txd="carparkfence" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
-    <definition id="landpart95" zone="landSW" dff="landpart95" col="landpart95" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="landpart95" lodDistance="290"></definition>
-    <definition id="suburbansigns1" zone="landSW" dff="suburbansigns1" col="suburbansigns1" txd="localsignsub" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="splay_tunent02" zone="landSW" dff="splay_tunent02" col="splay_tunent02" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="building5" zone="landSW" dff="building5" col="building5" txd="cutbuild2" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="clif27" zone="landSW" dff="clif27" col="clif27" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="clif27" lodDistance="290"></definition>
-    <definition id="Broken_bridge" zone="landSW" dff="Broken_bridge" col="Broken_bridge" txd="brokenbridge" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="bridgesupport2" zone="landSW" dff="bridgesupport2" col="bridgesupport2" txd="bridgesupport" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="treepatch17_sub" zone="landSW" dff="treepatch17_sub" col="treepatch17_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch17_sub" lodDistance="200"></definition>
-    <definition id="bridgesupport1" zone="landSW" dff="bridgesupport1" col="bridgesupport1" txd="bridgesupport" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="treepatch22_sub" zone="landSW" dff="treepatch22_sub" col="treepatch22_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch22_sub" lodDistance="200"></definition>
-    <definition id="air_planeroad3" zone="landSW" dff="air_planeroad3" col="air_planeroad3" txd="airgrndb" alphaTransparency="nil" lod="true" lodID="air_planeroad3" lodDistance="290"></definition>
-    <definition id="Rear_Building" zone="landSW" dff="Rear_Building" col="Rear_Building" txd="cutrearbuild" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="newairportwall1" zone="landSW" dff="newairportwall1" col="newairportwall1" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
-    <definition id="treepatch213_sub" zone="landSW" dff="treepatch213_sub" col="treepatch213_sub" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatch213_sub" lodDistance="200"></definition>
+    <definition id="subbridge01" zone="landsw" col="subbridge01" txd="vertbridge" flags="" lodDistance="700"></definition>
+    <definition id="subbridge07" zone="landsw" col="subbridge07" txd="vertbridge" flags="" lodDistance="700"></definition>
+    <definition id="subbridge19" zone="landsw" col="subbridge19" txd="vertbridge" flags="" lodDistance="700"></definition>
+    <definition id="subbridge20" zone="landsw" col="subbridge20" txd="vertbridge" flags="" lodDistance="700"></definition>
+    <definition id="verticalift_bridg2" zone="landsw" col="verticalift_bridg2" txd="vertbridge" flags="2,7,21" lodDistance="1000"></definition>
+    <definition id="verticalift_bridge" zone="landsw" col="verticalift_bridge" txd="vertbridge" flags="2,7,21" lodDistance="1200"></definition>
+    <definition id="landsw_1" zone="landsw" col="landsw_1" txd="land_roads" flags="" lodDistance="300"></definition>
+    <definition id="landsw_2" zone="landsw" col="landsw_2" txd="land_roads" flags="" lodDistance="300"></definition>
+    <definition id="landsw_3" zone="landsw" col="landsw_3" txd="land_roads" flags="" lodDistance="300"></definition>
+    <definition id="landsw_5" zone="landsw" col="landsw_5" txd="land_roads" flags="" lodDistance="300"></definition>
+    <definition id="landsw_6" zone="landsw" col="landsw_6" txd="land_roads" flags="" lodDistance="300"></definition>
+    <definition id="landpart85" zone="landsw" col="landpart85" txd="LCSAgeneric" flags="" lodDistance="250"></definition>
+    <definition id="landpart86" zone="landsw" col="landpart86" txd="LCSAgeneric" flags="" lodDistance="250"></definition>
+    <definition id="landpart87" zone="landsw" col="landpart87" txd="LCSAgeneric" flags="" lodDistance="250"></definition>
+    <definition id="landpart88" zone="landsw" col="landpart88" txd="LCSAgeneric" flags="" lodDistance="270"></definition>
+    <definition id="landpart89" zone="landsw" col="landpart89" txd="LCSAgeneric" flags="" lodDistance="230"></definition>
+    <definition id="landpart90" zone="landsw" col="landpart90" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="landpart91" zone="landsw" col="landpart91" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="landpart92" zone="landsw" col="landpart92" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="landpart93" zone="landsw" col="landpart93" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="landpart94" zone="landsw" col="landpart94" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="landpart95" zone="landsw" col="landpart95" txd="LCSAgeneric" flags="" lodDistance="280"></definition>
+    <definition id="air_grnd01" zone="landsw" col="air_grnd01" txd="airgrndb" flags="" lodDistance="210"></definition>
+    <definition id="air_grnd02" zone="landsw" col="air_grnd02" txd="airgrndb" flags="" lodDistance="200"></definition>
+    <definition id="air_grnd03" zone="landsw" col="air_grnd03" txd="airgrndb" flags="" lodDistance="230"></definition>
+    <definition id="air_grnd04" zone="landsw" col="air_grnd04" txd="airgrndb" flags="" lodDistance="210"></definition>
+    <definition id="air_grnd05" zone="landsw" col="air_grnd05" txd="airgrndb" flags="" lodDistance="210"></definition>
+    <definition id="air_grnd06" zone="landsw" col="air_grnd06" txd="airgrndb" flags="" lodDistance="210"></definition>
+    <definition id="air_grnd7" zone="landsw" col="air_grnd7" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd08" zone="landsw" col="air_grnd08" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd09" zone="landsw" col="air_grnd09" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd10" zone="landsw" col="air_grnd10" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd11" zone="landsw" col="air_grnd11" txd="airgrndb" flags="" lodDistance="280"></definition>
+    <definition id="air_grnd12" zone="landsw" col="air_grnd12" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd13" zone="landsw" col="air_grnd13" txd="airporterminal" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd14" zone="landsw" col="air_grnd14" txd="airporterminal" flags="" lodDistance="290"></definition>
+    <definition id="air_grnd0301" zone="landsw" col="air_grnd0301" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_brway_01" zone="landsw" col="air_brway_01" txd="airgrndb" flags="15" lodDistance="299"></definition>
+    <definition id="air_brway_02" zone="landsw" col="air_brway_02" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="air_brway_03" zone="landsw" col="air_brway_03" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="air_planeroad1" zone="landsw" col="air_planeroad1" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_planeroad2" zone="landsw" col="air_planeroad2" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_planeroad3" zone="landsw" col="air_planeroad3" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_planeroad4" zone="landsw" col="air_planeroad4" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="air_srway_01" zone="landsw" col="air_srway_01" txd="airgrndb" flags="15" lodDistance="299"></definition>
+    <definition id="air_srway_02" zone="landsw" col="air_srway_02" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="airtower1" zone="landsw" col="airtower1" txd="airporterminal3" flags="2,7,21" lodDistance="290"></definition>
+    <definition id="airtower2" zone="landsw" col="airtower2" txd="airporterminal3" flags="2,7,21" lodDistance="290"></definition>
+    <definition id="apair_terminal" zone="landsw" col="apair_terminal" txd="airporterminal2" flags="2,21" lodDistance="290"></definition>
+    <definition id="apterminalback" zone="landsw" col="apterminalback" txd="airporterminal3" flags="" lodDistance="290"></definition>
+    <definition id="apterminalfront" zone="landsw" col="apterminalfront" txd="airporterminal" flags="" lodDistance="290"></definition>
+    <definition id="aptowerl" zone="landsw" col="aptowerl" txd="airporterminal4" flags="2,21" lodDistance="299"></definition>
+    <definition id="landsw_4_1" zone="landsw" col="landsw_4_1" txd="LCSAgeneric" flags="" lodDistance="300"></definition>
+    <definition id="landsw_4_2" zone="landsw" col="landsw_4_2" txd="com_roads" flags="21" lodDistance="300"></definition>
+    <definition id="landpart99" zone="landsw" col="landpart99" txd="airgrndb" flags="" lodDistance="210"></definition>
+    <definition id="landpart100" zone="landsw" col="landpart100" txd="airgrndb" flags="" lodDistance="220"></definition>
+    <definition id="landpart110" zone="landsw" col="landpart110" txd="LCSAgeneric" flags="" lodDistance="200"></definition>
+    <definition id="otherside_subway" zone="landsw" col="otherside_subway" txd="othersubside" flags="" lodDistance="110"></definition>
+    <definition id="sub_subway" zone="landsw" col="sub_subway" txd="subentr" flags="" lodDistance="120"></definition>
+    <definition id="subentrance_sub1" zone="landsw" col="subentrance_sub1" txd="subway1" flags="" lodDistance="120"></definition>
+    <definition id="subntrance_sub2" zone="landsw" col="subntrance_sub2" txd="subway" flags="" lodDistance="110"></definition>
+    <definition id="subplatform_sub" zone="landsw" col="subplatform_sub" txd="subway2" flags="" lodDistance="110"></definition>
+    <definition id="subway_monument" zone="landsw" col="subway_monument" txd="submonument" flags="2" lodDistance="299"></definition>
+    <definition id="suby_tunl_start" zone="landsw" col="suby_tunl_start" txd="traintracks" flags="" lodDistance="299"></definition>
+    <definition id="landpart101" zone="landsw" col="landpart101" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart102" zone="landsw" col="landpart102" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart103" zone="landsw" col="landpart103" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart104" zone="landsw" col="landpart104" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart105" zone="landsw" col="landpart105" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart106" zone="landsw" col="landpart106" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart107" zone="landsw" col="landpart107" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="airport_carpark" zone="landsw" col="airport_carpark" txd="aircarpark" flags="" lodDistance="210"></definition>
+    <definition id="airportjunc01" zone="landsw" col="airportjunc01" txd="LCSAgeneric" flags="" lodDistance="300"></definition>
+    <definition id="landpart96" zone="landsw" col="landpart96" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart97" zone="landsw" col="landpart97" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="landpart98" zone="landsw" col="landpart98" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="sub_indland01" zone="landsw" col="sub_indland01" txd="subind2" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland02" zone="landsw" col="sub_indland02" txd="subind4" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland03" zone="landsw" col="sub_indland03" txd="subind6" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland04" zone="landsw" col="sub_indland04" txd="subind8" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland05" zone="landsw" col="sub_indland05" txd="subind7" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland06" zone="landsw" col="sub_indland06" txd="subind5" flags="21" lodDistance="300"></definition>
+    <definition id="sub_indland07" zone="landsw" col="sub_indland07" txd="subind3" flags="" lodDistance="300"></definition>
+    <definition id="sub_indland08" zone="landsw" col="sub_indland08" txd="subind1" flags="" lodDistance="300"></definition>
+    <definition id="landpart30" zone="landsw" col="landpart30" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="clif3" zone="landsw" col="clif3" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="clif4" zone="landsw" col="clif4" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="clif5" zone="landsw" col="clif5" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="clif6" zone="landsw" col="clif6" txd="LCSAgeneric" flags="" lodDistance="299"></definition>
+    <definition id="clif23" zone="landsw" col="clif23" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="clif24" zone="landsw" col="clif24" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="clif26" zone="landsw" col="clif26" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="clif27" zone="landsw" col="clif27" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="clif28" zone="landsw" col="clif28" txd="clif22" flags="" lodDistance="299"></definition>
+    <definition id="hospital_sub" zone="landsw" col="hospital_sub" txd="subhospital" flags="2" lodDistance="200"></definition>
+    <definition id="police_station_sub" zone="landsw" col="police_station_sub" txd="subpolice" flags="21" lodDistance="290"></definition>
+    <definition id="subind_build04" zone="landsw" col="subind_build04" txd="subuild5" flags="7,21" lodDistance="200"></definition>
+    <definition id="subind_build05" zone="landsw" col="subind_build05" txd="subuild5" flags="7,21" lodDistance="200"></definition>
+    <definition id="subind_build06" zone="landsw" col="subind_build06" txd="subuild1" flags="" lodDistance="200"></definition>
+    <definition id="doc_shedbig12" zone="landsw" col="doc_shedbig12" txd="subuild8" flags="" lodDistance="200"></definition>
+    <definition id="doc_shedbig13" zone="landsw" col="doc_shedbig13" txd="subuild8" flags="" lodDistance="200"></definition>
+    <definition id="doc_shedbig31" zone="landsw" col="doc_shedbig31" txd="subuild10" flags="21" lodDistance="200"></definition>
+    <definition id="impexpgrgesub" zone="landsw" col="impexpgrgesub" txd="importexp" flags="" lodDistance="200"></definition>
+    <definition id="sub_ind03" zone="landsw" col="sub_ind03" txd="subind34" flags="" lodDistance="200"></definition>
+    <definition id="sub_ind26" zone="landsw" col="sub_ind26" txd="subind26" flags="21" lodDistance="200"></definition>
+    <definition id="subestatebuild1" zone="landsw" col="subestatebuild1" txd="subestbuild" flags="" lodDistance="250"></definition>
+    <definition id="subind_build02" zone="landsw" col="subind_build02" txd="subuild2" flags="" lodDistance="200"></definition>
+    <definition id="subind_build03" zone="landsw" col="subind_build03" txd="subuild3" flags="" lodDistance="250"></definition>
+    <definition id="subind_build07" zone="landsw" col="subind_build07" txd="subuild4" flags="" lodDistance="210"></definition>
+    <definition id="subsign1" zone="landsw" col="subsign1" txd="subsign1" flags="2" lodDistance="300"></definition>
+    <definition id="subind_build01" zone="landsw" col="subind_build01" txd="subuild6" flags="" lodDistance="200"></definition>
+    <definition id="air_smalldetail" zone="landsw" col="air_smalldetail" txd="airgrndb" flags="2" lodDistance="600"></definition>
+    <definition id="porthangerclosed" zone="landsw" col="porthangerclosed" txd="airport" flags="2,21" lodDistance="290"></definition>
+    <definition id="apairporthanger" zone="landsw" col="apairporthanger" txd="airport" flags="" lodDistance="300"></definition>
+    <definition id="apairporthangera" zone="landsw" col="apairporthangera" txd="airport" flags="2,21" lodDistance="300"></definition>
+    <definition id="apairprtbits" zone="landsw" col="apairprtbits" txd="airport" flags="2" lodDistance="290"></definition>
+    <definition id="Helipad" zone="landsw" col="Helipad" txd="Helipad" flags="2,21" lodDistance="300"></definition>
+    <definition id="indfrate03" zone="landsw" col="indfrate03" txd="subcrates" flags="" lodDistance="200"></definition>
+    <definition id="sub_indfrate2108" zone="landsw" col="sub_indfrate2108" txd="subcrates" flags="" lodDistance="290"></definition>
+    <definition id="sub_indfrate2109" zone="landsw" col="sub_indfrate2109" txd="subcrates" flags="" lodDistance="290"></definition>
+    <definition id="sub_indfrate2110" zone="landsw" col="sub_indfrate2110" txd="subcrates" flags="" lodDistance="290"></definition>
+    <definition id="Broken_bridge" zone="landsw" col="Broken_bridge" txd="Brokenbridge" flags="21" lodDistance="299"></definition>
+    <definition id="newairportwall4" zone="landsw" col="newairportwall4" txd="airgrndb" flags="2,21" lodDistance="200"></definition>
+    <definition id="parsign1" zone="landsw" col="parsign1" txd="airgrndb" flags="" lodDistance="180"></definition>
+    <definition id="caparwall3" zone="landsw" col="caparwall3" txd="airgrndb" flags="" lodDistance="200"></definition>
+    <definition id="carparkfence" zone="landsw" col="carparkfence" txd="airgrndb" flags="2,21" lodDistance="250"></definition>
+    <definition id="loddsw_1" zone="landsw" col="loddsw_1" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_2" zone="landsw" col="loddsw_2" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_3" zone="landsw" col="loddsw_3" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_4_1" zone="landsw" col="loddsw_4_1" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_4_2" zone="landsw" col="loddsw_4_2" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_5" zone="landsw" col="loddsw_5" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="loddsw_6" zone="landsw" col="loddsw_6" txd="land_roads" flags="" lodDistance="900"></definition>
+    <definition id="LOD_grnd10" zone="landsw" col="LOD_grnd10" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_grnd12" zone="landsw" col="LOD_grnd12" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODport_carpark" zone="landsw" col="LODport_carpark" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf23" zone="landsw" col="LODf23" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf24" zone="landsw" col="LODf24" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf26" zone="landsw" col="LODf26" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart104" zone="landsw" col="LODdpart104" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart101" zone="landsw" col="LODdpart101" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart97" zone="landsw" col="LODdpart97" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart105" zone="landsw" col="LODdpart105" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart106" zone="landsw" col="LODdpart106" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf6" zone="landsw" col="LODf6" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf27" zone="landsw" col="LODf27" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart30" zone="landsw" col="LODdpart30" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart103" zone="landsw" col="LODdpart103" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart102" zone="landsw" col="LODdpart102" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart98" zone="landsw" col="LODdpart98" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart95" zone="landsw" col="LODdpart95" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart94" zone="landsw" col="LODdpart94" txd="suburb1" flags="" lodDistance="1500"></definition>
+    <definition id="LODdpart93" zone="landsw" col="LODdpart93" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart92" zone="landsw" col="LODdpart92" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf4" zone="landsw" col="LODf4" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf5" zone="landsw" col="LODf5" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf3" zone="landsw" col="LODf3" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODind_build03" zone="landsw" col="LODind_build03" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODind_build07" zone="landsw" col="LODind_build07" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_shedbig31" zone="landsw" col="LOD_shedbig31" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_shedbig12" zone="landsw" col="LOD_shedbig12" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_ind26" zone="landsw" col="LOD_ind26" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_shedbig13" zone="landsw" col="LOD_shedbig13" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_grnd06" zone="landsw" col="LOD_grnd06" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd05" zone="landsw" col="LOD_grnd05" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd04" zone="landsw" col="LOD_grnd04" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd01" zone="landsw" col="LOD_grnd01" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODdpart88" zone="landsw" col="LODdpart88" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODdpart87" zone="landsw" col="LODdpart87" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODdpart86" zone="landsw" col="LODdpart86" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd02" zone="landsw" col="LOD_grnd02" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd03" zone="landsw" col="LOD_grnd03" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODdpart107" zone="landsw" col="LODdpart107" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_planeroad4" zone="landsw" col="LOD_planeroad4" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_grnd7" zone="landsw" col="LOD_grnd7" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODir_terminal" zone="landsw" col="LODir_terminal" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd09" zone="landsw" col="LOD_grnd09" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd11" zone="landsw" col="LOD_grnd11" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_grnd08" zone="landsw" col="LOD_grnd08" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODdpart100" zone="landsw" col="LODdpart100" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODerminalback" zone="landsw" col="LODerminalback" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd13" zone="landsw" col="LOD_grnd13" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart91" zone="landsw" col="LODdpart91" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart99" zone="landsw" col="LODdpart99" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_subway" zone="landsw" col="LOD_subway" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart110" zone="landsw" col="LODdpart110" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart90" zone="landsw" col="LODdpart90" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODind_build06" zone="landsw" col="LODind_build06" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_indland08" zone="landsw" col="LOD_indland08" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODind_build01" zone="landsw" col="LODind_build01" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODerminalfront" zone="landsw" col="LODerminalfront" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_indland01" zone="landsw" col="LOD_indland01" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart96" zone="landsw" col="LODdpart96" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODf28" zone="landsw" col="LODf28" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODpital_Sub" zone="landsw" col="LODpital_Sub" txd="suburb1" flags="21" lodDistance="1000"></definition>
+    <definition id="LODind_build02" zone="landsw" col="LODind_build02" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODice_Station_Sub" zone="landsw" col="LODice_Station_Sub" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODestatebuild1" zone="landsw" col="LODestatebuild1" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_indland06" zone="landsw" col="LOD_indland06" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_brway_03" zone="landsw" col="LOD_brway_03" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_brway_02" zone="landsw" col="LOD_brway_02" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_brway_01" zone="landsw" col="LOD_brway_01" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_srway_02" zone="landsw" col="LOD_srway_02" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_srway_01" zone="landsw" col="LOD_srway_01" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODtower2" zone="landsw" col="LODtower2" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODtower1" zone="landsw" col="LODtower1" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_grnd14" zone="landsw" col="LOD_grnd14" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_planeroad3" zone="landsw" col="LOD_planeroad3" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_planeroad2" zone="landsw" col="LOD_planeroad2" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_planeroad1" zone="landsw" col="LOD_planeroad1" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LODdpart89" zone="landsw" col="LODdpart89" txd="suburb1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_indland02" zone="landsw" col="LOD_indland02" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LODowerL" zone="landsw" col="LODowerL" txd="suburb1" flags="" lodDistance="2000"></definition>
+    <definition id="LODexpgrgesub" zone="landsw" col="LODexpgrgesub" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_ind03" zone="landsw" col="LOD_ind03" txd="suburb2" flags="" lodDistance="1000"></definition>
+    <definition id="8ballsuburbandoor" zone="landsw" col="8ballsuburbandoor" txd="subestbuild" flags="11" lodDistance="30"></definition>
+    <definition id="sub_sprayshopdoor" zone="landsw" col="sub_sprayshopdoor" txd="subuild2" flags="11" lodDistance="30"></definition>
+    <definition id="subposter01" zone="landsw" col="subposter01" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter03" zone="landsw" col="subposter03" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter04" zone="landsw" col="subposter04" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter05" zone="landsw" col="subposter05" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter06" zone="landsw" col="subposter06" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter07" zone="landsw" col="subposter07" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="subposter08" zone="landsw" col="subposter08" txd="postersub" flags="21" lodDistance="230"></definition>
+    <definition id="newairportwall6" zone="landsw" col="newairportwall6" txd="airgrndb" flags="2,21" lodDistance="299"></definition>
+    <definition id="plane_chassis" zone="landsw" col="plane_chassis" txd="airplane" flags="2" lodDistance="299"></definition>
+    <definition id="learjet" zone="landsw" col="learjet" txd="mikesairstuff" flags="2" lodDistance="299"></definition>
+    <definition id="airportfence4" zone="landsw" col="airportfence4" txd="airportfence" flags="2,21" lodDistance="299"></definition>
+    <definition id="airportfence5" zone="landsw" col="airportfence5" txd="airportfence" flags="2,21" lodDistance="299"></definition>
+    <definition id="airportfence6" zone="landsw" col="airportfence6" txd="airportfence" flags="2,21" lodDistance="299"></definition>
+    <definition id="newairportwall3" zone="landsw" col="newairportwall3" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="newairportwall2" zone="landsw" col="newairportwall2" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="newairportwall1" zone="landsw" col="newairportwall1" txd="airgrndb" flags="" lodDistance="299"></definition>
+    <definition id="bridge_lift" zone="landsw" col="bridge_lift" txd="vertbridge" flags="21" lodDistance="299"></definition>
+    <definition id="subfraightback02" zone="landsw" col="subfraightback02" txd="subfrates" flags="21" lodDistance="220"></definition>
+    <definition id="subfraightback03" zone="landsw" col="subfraightback03" txd="subfrates" flags="21" lodDistance="220"></definition>
+    <definition id="subfraightback04" zone="landsw" col="subfraightback04" txd="subfrates" flags="21" lodDistance="220"></definition>
+    <definition id="wood_block" zone="landsw" col="wood_block" txd="buildinsite" flags="" lodDistance="80"></definition>
+    <definition id="poster_ralph" zone="landsw" col="poster_ralph" txd="poster_ralph" flags="21" lodDistance="100"></definition>
+    <definition id="bridge_liftweight" zone="landsw" col="bridge_liftweight" txd="vertbridge" flags="" lodDistance="299"></definition>
+    <definition id="newairportwall5" zone="landsw" col="newairportwall5" txd="airgrndb" flags="" lodDistance="290"></definition>
+    <definition id="treepatch152_sub" zone="landsw" col="treepatch152_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>
+    <definition id="treepatch153_sub" zone="landsw" col="treepatch153_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>
+    <definition id="treepatch16_sub" zone="landsw" col="treepatch16_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>
+    <definition id="treepatch17_sub" zone="landsw" col="treepatch17_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>
+    <definition id="damissionfence" zone="landsw" col="damissionfence" txd="damissionfence" flags="2" lodDistance="290"></definition>
+    <definition id="suburbansigns3" zone="landsw" col="suburbansigns3" txd="localsignsub" flags="" lodDistance="290"></definition>
+    <definition id="fuel4" zone="landsw" col="fuel4" txd="subcanister" flags="" lodDistance="200"></definition>
+    <definition id="fuel9" zone="landsw" col="fuel9" txd="subcanister" flags="" lodDistance="200"></definition>
+    <definition id="hangar_frate" zone="landsw" col="hangar_frate" txd="subhangfrate" flags="" lodDistance="100"></definition>
+    <definition id="suittrailer" zone="landsw" col="suittrailer" txd="luggage" flags="" lodDistance="290"></definition>
+    <definition id="suitcases" zone="landsw" col="suitcases" txd="luggage" flags="" lodDistance="290"></definition>
+    <definition id="trailermetal" zone="landsw" col="trailermetal" txd="luggage" flags="" lodDistance="290"></definition>
+    <definition id="luggage" zone="landsw" col="luggage" txd="luggage" flags="" lodDistance="290"></definition>
+    <definition id="airportsteps" zone="landsw" col="airportsteps" txd="airstuff2" flags="" lodDistance="200"></definition>
+    <definition id="indsub_gate03" zone="landsw" col="indsub_gate03" txd="subindgate" flags="" lodDistance="200"></definition>
 </zoneDefinitions>

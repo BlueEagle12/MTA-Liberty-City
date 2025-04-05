@@ -1,0 +1,17 @@
+<zoneDefinitions>
+    <definition id="Building1" zone="ghosttown" col="Building1" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="building4" zone="ghosttown" col="building4" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="Bank" zone="ghosttown" col="Bank" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutsceneroad4" zone="ghosttown" col="cutsceneroad4" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutsceneroad1" zone="ghosttown" col="cutsceneroad1" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutsceneroad2" zone="ghosttown" col="cutsceneroad2" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutsceneroad3" zone="ghosttown" col="cutsceneroad3" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="building5" zone="ghosttown" col="building5" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="rubbish01" zone="ghosttown" col="rubbish01" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="Cutscene_Watertanks" zone="ghosttown" col="Cutscene_Watertanks" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="ghosttown_sandbox" zone="ghosttown" col="ghosttown_sandbox" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="building3" zone="ghosttown" col="building3" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="bank_graffiti" zone="ghosttown" col="bank_graffiti" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutscene_cameras" zone="ghosttown" col="cutscene_cameras" txd="ghosttown" flags="21" lodDistance="299"></definition>
+    <definition id="cutscenevan1" zone="ghosttown" col="cutscenevan1" txd="cutscenecar3" flags="21" lodDistance="299"></definition>
+</zoneDefinitions>

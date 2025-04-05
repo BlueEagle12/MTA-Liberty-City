@@ -1,6 +1,0 @@
-<zoneDefinitions>
-    <definition id="tram" zone="default" dff="tram" col="tram" txd="tram" alphaTransparency="nil" lod="true" lodID="tram" lodDistance="300"></definition>
-    <definition id="tramd" zone="default" dff="tramd" col="tramd" txd="tram" alphaTransparency="nil" lod="true" lodID="tramd" lodDistance="300"></definition>
-    <definition id="bridge_lift" zone="default" dff="bridge_lift" col="bridge_lift" txd="vertbridge" alphaTransparency="nil" lod="true" lodID="bridge_lift"  lodDistance="300"></definition>
-    <definition id="DressingRoom" zone="default" dff="DressingRoom" col="DressingRoom" txd="comsky3" alphaTransparency="nil" lod="true" lodID="DressingRoom" lodDistance="60"></definition>
-</zoneDefinitions>
