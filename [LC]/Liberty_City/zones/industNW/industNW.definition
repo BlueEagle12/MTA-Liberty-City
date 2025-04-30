@@ -159,6 +159,7 @@
     <definition id="LODilsteps" zone="industnw" col="LODilsteps" txd="indust2" flags="21" lodDistance="750"></definition>
     <definition id="doc_floodlite" zone="industnw" col="doc_floodlite" txd="docklightLC" flags="7,15,21" lodDistance="150"></definition>
     <definition id="bmxpark" zone="industnw" col="bmxpark" txd="bmxpark" flags="2,7" lodDistance="200"></definition>
+    <definition id="bmxparkLOD" zone="industnw" col="bmxpark" txd="bmxpark" flags="" lodDistance="1000"></definition>
     <definition id="mak_ventchim" zone="industnw" col="mak_ventchim" txd="pipes" flags="" lodDistance="150"></definition>
     <definition id="treepatchindaa2" zone="industnw" col="treepatchindaa2" txd="trees2" flags="2,7,15,21" lodDistance="299"></definition>
     <definition id="trepatchindaa1" zone="industnw" col="trepatchindaa1" txd="trees2" flags="2,7,15,21" lodDistance="299"></definition>

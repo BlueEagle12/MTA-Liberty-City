@@ -92,9 +92,9 @@
     <building  id="subbridge07" posX="-1500.87" posY="1178.5" posZ="40.9961" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="subbridge19" posX="-1758.01" posY="1178.37" posZ="40.9961" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="subbridge20" posX="-1758.01" posY="1158.37" posZ="40.9961" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building  id="verticalift_bridg2" posX="-1631.6" posY="1169.12" posZ="132.401" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building  id="verticalift_bridge" posX="-1479.16" posY="1168.88" posZ="80.2365" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
-    <building  id="verticalift_bridge" posX="-1785.92" posY="1168.88" posZ="80.2365" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="verticalift_bridg2" posX="-1631.6" posY="1169.12" posZ="132.401" rotX="0" rotY="-0" rotZ="-0" lodParent="self"></building>
+    <building  id="verticalift_bridge" posX="-1479.16" posY="1168.88" posZ="80.2365" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="self"></building>
+    <building  id="verticalift_bridge" posX="-1785.92" posY="1168.88" posZ="80.2365" rotX="0" rotY="-0" rotZ="-0" lodParent="self"></building>
     <building  id="LODdge_liftweight" posX="-1633.64" posY="1169.46" posZ="128.071" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="landpart85" posX="-2741.66" posY="877.029" posZ="10.3975" rotX="0" rotY="-0" rotZ="-0" lodParent="LODdpart85"></building>
     <building  id="landpart86" posX="-2528.49" posY="877.155" posZ="10.5348" rotX="0" rotY="-0" rotZ="-0" lodParent="LODdpart86"></building>
@@ -685,7 +685,7 @@
     <object  id="sub_floodlite" posX="-2420.99" posY="1583.31" posZ="56.9073" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395"></object>
     <object  id="sub_floodlite" posX="-2470.12" posY="1590.05" posZ="56.9073" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></object>
     <building  id="poster_ralph" posX="-2069.93" posY="1020.26" posZ="-9.547" rotX="-24.99992402022" rotY="-0" rotZ="-0"></building>
-    <building  id="bridge_lift" posX="-1629.44" posY="1168.44" posZ="43.0088" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="bridge_lift" posX="-1629.44" posY="1168.44" posZ="43.0088" rotX="0" rotY="-0" rotZ="-0" lodParent="self"></building>
     <building  id="sub_sprayshopdoor" posX="-2463.985" posY="1831.81" posZ="59.632" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="treepatch17_sub" posX="-2090.86" posY="1554.12" posZ="34.8873" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="treepatch152_sub" posX="-2452.92" posY="1727.83" posZ="59.1579" rotX="0" rotY="-0" rotZ="-0"></building>

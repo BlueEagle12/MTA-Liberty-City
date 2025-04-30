@@ -1,0 +1,9 @@
+<zoneDefinitions>
+    <definition id="boxkitch" zone="int_LC" col="boxkitch" txd="lee_kitch" flags="" lodDistance="90"></definition>
+    <definition id="mob_mobroom2" zone="int_LC" col="mob_mobroom2" txd="hot_mobint" flags="5,21" lodDistance="30"></definition>
+    <definition id="mob_detailsb" zone="int_LC" col="mob_detailsb" txd="hot_mobint" flags="5" lodDistance="30"></definition>
+    <definition id="mob_detailscuts" zone="int_LC" col="mob_detailscuts" txd="mob_detailscuts" flags="5,21" lodDistance="30"></definition>
+    <definition id="ammu_indust_int" zone="int_LC" col="ammu_indust_int" txd="maindragn" flags="5" lodDistance="40"></definition>
+    <definition id="ammu_com_int" zone="int_LC" col="ammu_com_int" txd="maindragn" flags="5" lodDistance="40"></definition>
+    <definition id="ind_wrehse_int" zone="int_LC" col="ind_wrehse_int" txd="Playerint1" flags="5" lodDistance="40"></definition>
+</zoneDefinitions>

@@ -66,7 +66,7 @@
     <definition id="com_landnew24b" zone="comntop" col="com_landnew24b" txd="comjetty" flags="" lodDistance="190"></definition>
     <definition id="com_landnew23" zone="comntop" col="com_landnew23" txd="comjetty" flags="" lodDistance="190"></definition>
     <definition id="com_landnew23a" zone="comntop" col="com_landnew23a" txd="comjetty" flags="" lodDistance="190"></definition>
-    <definition id="clnm_stadium" zone="comntop" col="clnm_stadium" txd="comstadium" flags="21" lodDistance="300"></definition>
+    <definition id="clnm_stadium" zone="comntop" col="clnm_stadium" txd="comstadium" flags="21" lodDistance="700"></definition>
     <definition id="comlandnew4" zone="comntop" col="comlandnew4" txd="comstadium" flags="" lodDistance="230"></definition>
     <definition id="comlandnew5" zone="comntop" col="comlandnew5" txd="comstadium" flags="" lodDistance="230"></definition>
     <definition id="comlandnew6" zone="comntop" col="comlandnew6" txd="comstadium" flags="" lodDistance="230"></definition>

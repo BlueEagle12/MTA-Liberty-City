@@ -10,11 +10,10 @@ industse
 subway
 lod_land
 comse
-int_VC
 fix_land
-islands
-oceandn
 ghosttown
+int_LC
+islands
 comntop
 docks
 comnbtm

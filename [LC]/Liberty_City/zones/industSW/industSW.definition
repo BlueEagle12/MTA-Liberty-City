@@ -141,6 +141,7 @@
     <definition id="LODrpassind" zone="industsw" col="LODrpassind" txd="indust2" flags="21" lodDistance="1800"></definition>
     <definition id="LODilstepswest0" zone="industsw" col="LODilstepswest0" txd="indust2" flags="21" lodDistance="1800"></definition>
     <definition id="nrailstepswest" zone="industsw" col="nrailstepswest" txd="trainstairst" flags="2,21" lodDistance="100"></definition>
+    <definition id="LODhfctory" zone="industsw" col="fishfctory" txd="lodhfactory" flags="" lodDistance="800"></definition>
     <definition id="rdsign14" zone="industsw" col="rdsign14" txd="rdsign14" flags="2,21" lodDistance="135"></definition>
     <definition id="hghwysgn01" zone="industsw" col="hghwysgn01" txd="roadsignBaum" flags="2,21" lodDistance="150"></definition>
     <definition id="bridge_support" zone="industsw" col="bridge_support" txd="inddbridge" flags="2,21" lodDistance="300"></definition>

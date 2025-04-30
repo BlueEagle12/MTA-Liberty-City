@@ -232,13 +232,14 @@
     <definition id="newairportwall3" zone="landsw" col="newairportwall3" txd="airgrndb" flags="" lodDistance="299"></definition>
     <definition id="newairportwall2" zone="landsw" col="newairportwall2" txd="airgrndb" flags="" lodDistance="299"></definition>
     <definition id="newairportwall1" zone="landsw" col="newairportwall1" txd="airgrndb" flags="" lodDistance="299"></definition>
-    <definition id="bridge_lift" zone="landsw" col="bridge_lift" txd="vertbridge" flags="21" lodDistance="299"></definition>
+    <definition id="bridge_lift" zone="landsw" col="bridge_lift" txd="vertbridge" flags="21" lodDistance="700"></definition>
     <definition id="subfraightback02" zone="landsw" col="subfraightback02" txd="subfrates" flags="21" lodDistance="220"></definition>
     <definition id="subfraightback03" zone="landsw" col="subfraightback03" txd="subfrates" flags="21" lodDistance="220"></definition>
     <definition id="subfraightback04" zone="landsw" col="subfraightback04" txd="subfrates" flags="21" lodDistance="220"></definition>
     <definition id="wood_block" zone="landsw" col="wood_block" txd="buildinsite" flags="" lodDistance="80"></definition>
     <definition id="poster_ralph" zone="landsw" col="poster_ralph" txd="poster_ralph" flags="21" lodDistance="100"></definition>
     <definition id="bridge_liftweight" zone="landsw" col="bridge_liftweight" txd="vertbridge" flags="" lodDistance="299"></definition>
+    <definition id="LODdge_liftweight" zone="landsw" col="bridge_liftweight" txd="vertbridge" flags="" lodDistance="1000"></definition>
     <definition id="newairportwall5" zone="landsw" col="newairportwall5" txd="airgrndb" flags="" lodDistance="290"></definition>
     <definition id="treepatch152_sub" zone="landsw" col="treepatch152_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>
     <definition id="treepatch153_sub" zone="landsw" col="treepatch153_sub" txd="trees2" flags="2,21" lodDistance="500"></definition>

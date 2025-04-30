@@ -231,6 +231,7 @@
     <definition id="Marco_New" zone="industne" col="Marco_New" txd="liberty_new" flags="" lodDistance="200"></definition>
     <definition id="bistrogarden_new" zone="industne" col="bistrogarden_new" txd="liberty_new" flags="2,21" lodDistance="500"></definition>
     <definition id="Marco_new_wall" zone="industne" col="Marco_new_wall" txd="liberty_new" flags="21" lodDistance="150"></definition>
+    <definition id="lod_fix_ne_01" zone="industne" col="fix_ne_01" txd="gen_lc" flags="" lodDistance="750"></definition>
     <definition id="iten_details7" zone="industne" col="iten_details7" txd="firescape" flags="2,21" lodDistance="110"></definition>
     <definition id="mak_Watertank2" zone="industne" col="mak_Watertank2" txd="watertower" flags="21" lodDistance="200"></definition>
     <definition id="mak_Watertank" zone="industne" col="mak_Watertank" txd="watertower" flags="21" lodDistance="200"></definition>

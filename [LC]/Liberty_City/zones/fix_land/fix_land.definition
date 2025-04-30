@@ -57,7 +57,11 @@
     <definition id="Landpartfix_01" zone="fix_land" col="Landpartfix_01" txd="clif22" flags="" lodDistance="200"></definition>
     <definition id="Landpartfix_02" zone="fix_land" col="Landpartfix_02" txd="clif22" flags="" lodDistance="200"></definition>
     <definition id="Landpartfix_03" zone="fix_land" col="Landpartfix_03" txd="clif22" flags="" lodDistance="200"></definition>
+    <definition id="loddpartfix_01" zone="fix_land" col="Landpartfix_01" txd="clif22" flags="" lodDistance="2000"></definition>
+    <definition id="loddpartfix_02" zone="fix_land" col="Landpartfix_02" txd="clif22" flags="" lodDistance="2000"></definition>
+    <definition id="loddpartfix_03" zone="fix_land" col="Landpartfix_03" txd="clif22" flags="" lodDistance="2000"></definition>
     <definition id="parabol" zone="fix_land" col="parabol" txd="nipple" flags="21" lodDistance="300"></definition>
+    <definition id="lodabol" zone="fix_land" col="parabol" txd="nipple" flags="21" lodDistance="1400"></definition>
     <definition id="obs_glass" zone="fix_land" col="obs_glass" txd="nipple" flags="2,6,9,21" lodDistance="88"></definition>
     <definition id="Damm_water_alpha" zone="fix_land" col="Damm_water_alpha" txd="dammwater" flags="2,7,21" lodDistance="300"></definition>
     <definition id="cliffwall06" zone="fix_land" col="cliffwall06" txd="cliffwall" flags="" lodDistance="300"></definition>

@@ -109,6 +109,7 @@
     <definition id="loddne_3" zone="landne" col="loddne_3" txd="land_roads" flags="" lodDistance="900"></definition>
     <definition id="loddne_4" zone="landne" col="loddne_4" txd="land_roads" flags="" lodDistance="900"></definition>
     <definition id="lod_hilltunnel2" zone="landne" col="lod_hilltunnel2" txd="tunnels" flags="" lodDistance="900"></definition>
+    <definition id="lodervatory_temp" zone="landne" col="observatory_temp" txd="nipple" flags="21" lodDistance="1400"></definition>
     <definition id="subposter10" zone="landne" col="subposter10" txd="postersub" flags="" lodDistance="290"></definition>
     <definition id="subposter11" zone="landne" col="subposter11" txd="postersub" flags="" lodDistance="290"></definition>
     <definition id="lctunnelA" zone="landne" col="lctunnelA" txd="tunnels" flags="" lodDistance="299"></definition>
@@ -122,6 +123,8 @@
     <definition id="seadamm1" zone="landne" col="seadamm1" txd="clif22" flags="" lodDistance="300"></definition>
     <definition id="seadamm2" zone="landne" col="seadamm2" txd="clif22" flags="" lodDistance="300"></definition>
     <definition id="dam_wall" zone="landne" col="dam_wall" txd="dam" flags="" lodDistance="299"></definition>
+    <definition id="LODdamm1" zone="landne" col="seadamm1" txd="clif22" flags="" lodDistance="600"></definition>
+    <definition id="LODdamm2" zone="landne" col="seadamm2" txd="clif22" flags="" lodDistance="600"></definition>
     <definition id="crashed" zone="landne" col="crashed" txd="crashed" flags="" lodDistance="300"></definition>
     <definition id="Big_Moutain_02" zone="landne" col="Big_Moutain_02" txd="landtextur" flags="21" lodDistance="300"></definition>
     <definition id="Big_Moutain_03" zone="landne" col="Big_Moutain_03" txd="landtextur" flags="21" lodDistance="300"></definition>

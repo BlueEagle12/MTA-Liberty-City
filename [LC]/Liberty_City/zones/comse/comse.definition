@@ -4,43 +4,43 @@
     <definition id="LODom_roadkb01" zone="comse" col="LODom_roadkb01" txd="inddbridge" flags="" lodDistance="3000"></definition>
     <definition id="LODoudet" zone="comse" col="LODoudet" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODo_floor" zone="comse" col="LODo_floor" txd="comlod1" flags="" lodDistance="800"></definition>
-    <definition id="LOD_roadkb22" zone="comse" col="LOD_roadkb22" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_roadkb23" zone="comse" col="LOD_roadkb23" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_roadkb22" zone="comse" col="LOD_roadkb22" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_roadkb23" zone="comse" col="LOD_roadkb23" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODebarrier_gaz1" zone="comse" col="LODebarrier_gaz1" txd="comlod1" flags="" lodDistance="400"></definition>
     <definition id="LODebarrier_gaz2" zone="comse" col="LODebarrier_gaz2" txd="comlod1" flags="" lodDistance="400"></definition>
     <definition id="LODnderpas2" zone="comse" col="LODnderpas2" txd="comlod1" flags="" lodDistance="600"></definition>
     <definition id="LODrpass_comse" zone="comse" col="LODrpass_comse" txd="comlod1" flags="" lodDistance="800"></definition>
     <definition id="LODkwallbb_1" zone="comse" col="LODkwallbb_1" txd="comlod1" flags="" lodDistance="800"></definition>
-    <definition id="LOD_docksa" zone="comse" col="LOD_docksa" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_docksa" zone="comse" col="LOD_docksa" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODiceally" zone="comse" col="LODiceally" txd="comlod1" flags="" lodDistance="800"></definition>
     <definition id="LODicetenkb1" zone="comse" col="LODicetenkb1" txd="comlod1" flags="" lodDistance="600"></definition>
     <definition id="LODicetenkb2" zone="comse" col="LODicetenkb2" txd="comlod1" flags="" lodDistance="600"></definition>
-    <definition id="LODscrapenew" zone="comse" col="LODscrapenew" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODinogrnd4" zone="comse" col="LODinogrnd4" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODinogrnd3" zone="comse" col="LODinogrnd3" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODino_grnd" zone="comse" col="LODino_grnd" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODinogrnd2" zone="comse" col="LODinogrnd2" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODse_se1s" zone="comse" col="LODse_se1s" txd="com_roads" flags="" lodDistance="2000"></definition>
-    <definition id="LODse_se2s" zone="comse" col="LODse_se2s" txd="com_roads" flags="" lodDistance="2000"></definition>
-    <definition id="LODroadnewbas" zone="comse" col="LODroadnewbas" txd="com_roads" flags="" lodDistance="2000"></definition>
+    <definition id="LODscrapenew" zone="comse" col="LODscrapenew" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODinogrnd4" zone="comse" col="LODinogrnd4" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODinogrnd3" zone="comse" col="LODinogrnd3" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODino_grnd" zone="comse" col="LODino_grnd" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODinogrnd2" zone="comse" col="LODinogrnd2" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODse_se1s" zone="comse" col="LODse_se1s" txd="com_roads" flags="" lodDistance="1000"></definition>
+    <definition id="LODse_se2s" zone="comse" col="LODse_se2s" txd="com_roads" flags="" lodDistance="1000"></definition>
+    <definition id="LODroadnewbas" zone="comse" col="LODroadnewbas" txd="com_roads" flags="" lodDistance="1000"></definition>
     <definition id="LODs_bildkb_4" zone="comse" col="LODs_bildkb_4" txd="comlod2" flags="" lodDistance="1000"></definition>
-    <definition id="LOD_land119" zone="comse" col="LOD_land119" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_land119b" zone="comse" col="LOD_land119b" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_landnew21" zone="comse" col="LOD_landnew21" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_land120" zone="comse" col="LOD_land120" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_land075a" zone="comse" col="LOD_land075a" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LOD_land075b" zone="comse" col="LOD_land075b" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LOD_land119" zone="comse" col="LOD_land119" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_land119b" zone="comse" col="LOD_land119b" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_landnew21" zone="comse" col="LOD_landnew21" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_land120" zone="comse" col="LOD_land120" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_land075a" zone="comse" col="LOD_land075a" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LOD_land075b" zone="comse" col="LOD_land075b" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODpe_build_kb" zone="comse" col="LODpe_build_kb" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODeum" zone="comse" col="LODeum" txd="comlod2" flags="" lodDistance="600"></definition>
     <definition id="LODaperkb3_nit" zone="comse" col="LODaperkb3_nit" txd="comlod1" flags="" lodDistance="1000"></definition>
-    <definition id="LODice_com" zone="comse" col="LODice_com" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LODice_com" zone="comse" col="LODice_com" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LODnk5land" zone="comse" col="LODnk5land" txd="comlod1" flags="" lodDistance="800"></definition>
     <definition id="LOD_land050" zone="comse" col="LOD_land050" txd="comlod1" flags="" lodDistance="800"></definition>
-    <definition id="LODino" zone="comse" col="LODino" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODgstarbuild" zone="comse" col="LODgstarbuild" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODy_skyscrp23" zone="comse" col="LODy_skyscrp23" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODy_skyscrp26b" zone="comse" col="LODy_skyscrp26b" txd="comlod1" flags="" lodDistance="2000"></definition>
-    <definition id="LODunderpass" zone="comse" col="LODunderpass" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LODino" zone="comse" col="LODino" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODgstarbuild" zone="comse" col="LODgstarbuild" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODy_skyscrp23" zone="comse" col="LODy_skyscrp23" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODy_skyscrp26b" zone="comse" col="LODy_skyscrp26b" txd="comlod1" flags="" lodDistance="1000"></definition>
+    <definition id="LODunderpass" zone="comse" col="LODunderpass" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="LOD_landnew221b" zone="comse" col="LOD_landnew221b" txd="comlod1" flags="" lodDistance="700"></definition>
     <definition id="LODkwallbb_2" zone="comse" col="LODkwallbb_2" txd="comlod1" flags="" lodDistance="800"></definition>
     <definition id="nbcom_roadkb01" zone="comse" col="nbcom_roadkb01" txd="inddbridge" flags="21" lodDistance="299"></definition>
@@ -102,7 +102,7 @@
     <definition id="treepatchkb9" zone="comse" col="treepatchkb9" txd="trees2" flags="2,21" lodDistance="299"></definition>
     <definition id="helipad1_las" zone="comse" col="helipad1_las" txd="airport_las" flags="2,21" lodDistance="100"></definition>
     <definition id="csky_skyscrp26" zone="comse" col="csky_skyscrp26" txd="cskydark" flags="" lodDistance="150"></definition>
-    <definition id="LODy_skyscrp26" zone="comse" col="LODy_skyscrp26" txd="comlod1" flags="" lodDistance="2000"></definition>
+    <definition id="LODy_skyscrp26" zone="comse" col="LODy_skyscrp26" txd="comlod1" flags="" lodDistance="1000"></definition>
     <definition id="comlights01" zone="comse" col="comlights01" txd="comlights" flags="" lodDistance="1200" timeIn="22" timeOut="7"></definition>
     <definition id="comlights02" zone="comse" col="comlights02" txd="comlights" flags="" lodDistance="1200" timeIn="22" timeOut="7"></definition>
     <definition id="comlights03" zone="comse" col="comlights03" txd="comlights" flags="" lodDistance="1200" timeIn="22" timeOut="7"></definition>
