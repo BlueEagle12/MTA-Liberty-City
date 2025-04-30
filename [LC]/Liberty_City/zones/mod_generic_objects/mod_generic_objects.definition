@@ -1,0 +1,26 @@
+<zoneDefinitions>
+    <definition id="tag_mnd" zone="mod_generic_objects" col="tag_mnd" txd="tag_mnd" flags="2,3,21" lodDistance="150"></definition>
+    <definition id="gardenbencha" zone="mod_generic_objects" col="gardenbencha" txd="bier_benches" flags="" lodDistance="45"></definition>
+    <definition id="gsel_canopy5" zone="mod_generic_objects" col="gsel_canopy5" txd="canopy_lc" flags="" lodDistance="299"></definition>
+    <definition id="veg_bush2" zone="mod_generic_objects" col="veg_bush2" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_tree1" zone="mod_generic_objects" col="veg_tree1" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew01" zone="mod_generic_objects" col="veg_treenew01" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew03" zone="mod_generic_objects" col="veg_treenew03" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew05" zone="mod_generic_objects" col="veg_treenew05" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew06" zone="mod_generic_objects" col="veg_treenew06" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew08" zone="mod_generic_objects" col="veg_treenew08" txd="trees" flags="2,3,7,21" lodDistance="299"></definition>
+    <definition id="veg_treenew09" zone="mod_generic_objects" col="veg_treenew09" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew16" zone="mod_generic_objects" col="veg_treenew16" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="veg_treenew17" zone="mod_generic_objects" col="veg_treenew17" txd="trees" flags="2,3,21" lodDistance="299"></definition>
+    <definition id="vegclubtree01" zone="mod_generic_objects" col="vegclubtree01" txd="pinetrees" flags="2,3,21" lodDistance="100"></definition>
+    <definition id="vegcrate07" zone="mod_generic_objects" col="vegcrate07" txd="cardbox" flags="2,3,21" lodDistance="100"></definition>
+    <definition id="vegclubtree03" zone="mod_generic_objects" col="vegclubtree03" txd="pinetrees" flags="2,3,21" lodDistance="100"></definition>
+    <definition id="big_rock" zone="mod_generic_objects" col="big_rock" txd="MOD_rock" flags="" lodDistance="71"></definition>
+    <definition id="mid_rock" zone="mod_generic_objects" col="mid_rock" txd="MOD_rock" flags="" lodDistance="71"></definition>
+    <definition id="small_rock" zone="mod_generic_objects" col="small_rock" txd="MOD_rock" flags="" lodDistance="71"></definition>
+    <definition id="smal_outsidelight" zone="mod_generic_objects" col="smal_outsidelight" txd="smalllit" flags="" lodDistance="60"></definition>
+    <definition id="smal_outsidelight2" zone="mod_generic_objects" col="smal_outsidelight2" txd="smalllit" flags="" lodDistance="60"></definition>
+    <definition id="smal_outsidelight3" zone="mod_generic_objects" col="smal_outsidelight3" txd="smalllit" flags="" lodDistance="60"></definition>
+    <definition id="billbrd_frfll" zone="mod_generic_objects" col="billbrd_frfll" txd="billbrd_ap_add" flags="" lodDistance="100"></definition>
+    <definition id="billbrd_jacar" zone="mod_generic_objects" col="billbrd_jacar" txd="billbrd_ap_add" flags="" lodDistance="100"></definition>
+</zoneDefinitions>

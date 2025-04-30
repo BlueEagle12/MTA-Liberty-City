@@ -1,0 +1,15 @@
+<zoneDefinitions>
+    <definition id="sbwy_tunl_cstm1" zone="subway" col="sbwy_tunl_cstm1" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm2" zone="subway" col="sbwy_tunl_cstm2" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm3" zone="subway" col="sbwy_tunl_cstm3" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm4" zone="subway" col="sbwy_tunl_cstm4" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm5" zone="subway" col="sbwy_tunl_cstm5" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm6" zone="subway" col="sbwy_tunl_cstm6" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm7" zone="subway" col="sbwy_tunl_cstm7" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm8" zone="subway" col="sbwy_tunl_cstm8" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm9" zone="subway" col="sbwy_tunl_cstm9" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm10" zone="subway" col="sbwy_tunl_cstm10" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_cstm11" zone="subway" col="sbwy_tunl_cstm11" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="sbwy_tunl_bit" zone="subway" col="sbwy_tunl_bit" txd="traintracks" flags="21" lodDistance="299"></definition>
+    <definition id="fix_ubahn" zone="subway" col="fix_ubahn" txd="traintracks" flags="21" lodDistance="299"></definition>
+</zoneDefinitions>

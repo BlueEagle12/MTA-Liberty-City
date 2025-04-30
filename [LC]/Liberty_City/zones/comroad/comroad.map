@@ -1,8 +1,0 @@
-<map>
-    <object id="com_cust_roads49" model="8585" posX="-373.19100952148" posY="-801.37799072266" posZ="31.072200775146" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="combillboard03" model="8585" posX="-378.73901367188" posY="-571.98699951172" posZ="50.522300720215" rotX="0" rotY="0" rotZ="313" interior="0" dimension="-1"></object>
-    <object id="combillboard04" model="8585" posX="-192.50900268555" posY="-603.51300048828" posZ="52.17919921875" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="com_custm_rd05" model="8585" posX="-60.666999816895" posY="42.817699432373" posZ="17.565000534058" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="comtop_tshad" model="8585" posX="-288.1780090332" posY="136.77200317383" posZ="10.384499549866" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="comtop_tshad2" model="8585" posX="-520.92199707031" posY="-117.16300201416" posZ="16.495599746704" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-</map>

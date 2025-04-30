@@ -1,131 +1,138 @@
 <zoneDefinitions>
-    <definition id="treesuni1" zone="comNtop" dff="treesuni1" col="treesuni1" txd="trees2" alphaTransparency="nil" lod="true" lodID="treesuni1" lodDistance="150"></definition>
-    <definition id="cons_buid02" zone="comNtop" dff="cons_buid02" col="cons_buid02" txd="buildsite" alphaTransparency="nil" lod="true" lodID="cons_buid02" lodDistance="120"></definition>
-    <definition id="comtop_tshad3" zone="comNtop" dff="comtop_tshad3" col="comtop_tshad3" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
-    <definition id="phils_lockers" zone="comNtop" dff="phils_lockers" col="phils_lockers" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Rd_Ctop_26" zone="comNtop" dff="Rd_Ctop_26" col="Rd_Ctop_26" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_26" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_29" zone="comNtop" dff="Rd_Ctop_29" col="Rd_Ctop_29" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_29" lodDistance="200"></definition>
-    <definition id="arc_bridge" zone="comNtop" dff="arc_bridge" col="arc_bridge" txd="comjetty" alphaTransparency="true" lod="true" lodID="arc_bridge" lodDistance="140"></definition>
-    <definition id="Rd_Ctop_08" zone="comNtop" dff="Rd_Ctop_08" col="Rd_Ctop_08" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_08" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_22" zone="comNtop" dff="Rd_Ctop_22" col="Rd_Ctop_22" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_22" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_16" zone="comNtop" dff="Rd_Ctop_16" col="Rd_Ctop_16" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_16" lodDistance="200"></definition>
-    <definition id="buildingground3" zone="comNtop" dff="buildingground3" col="buildingground3" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground3" lodDistance="150"></definition>
-    <definition id="comlandnew7" zone="comNtop" dff="comlandnew7" col="comlandnew7" txd="comstadium" alphaTransparency="nil" lod="true" lodID="comlandnew7" lodDistance="150"></definition>
-    <definition id="Rd_Ctop_36" zone="comNtop" dff="Rd_Ctop_36" col="Rd_Ctop_36" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_36" lodDistance="200"></definition>
-    <definition id="com_land_128" zone="comNtop" dff="com_land_128" col="com_land_128" txd="comhospital" alphaTransparency="nil" lod="true" lodID="com_land_128" lodDistance="160"></definition>
-    <definition id="com_land023" zone="comNtop" dff="com_land023" col="com_land023" txd="colcomp4b" alphaTransparency="nil" lod="true" lodID="com_land023" lodDistance="110"></definition>
-    <definition id="com_landnew1" zone="comNtop" dff="com_landnew1" col="com_landnew1" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew1" lodDistance="150"></definition>
-    <definition id="phil_crates" zone="comNtop" dff="phil_crates" col="phil_crates" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Clnm_stadium" zone="comNtop" dff="Clnm_stadium" col="Clnm_stadium" txd="comstadium" alphaTransparency="nil" lod="true" lodID="Clnm_stadium" lodDistance="299"></definition>
-    <definition id="subntrnce_n2" zone="comNtop" dff="subntrnce_n2" col="subntrnce_n2" txd="subway_comtop" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="blok3_flats04" zone="comNtop" dff="blok3_flats04" col="blok3_flats04" txd="colcomp_new" alphaTransparency="nil" lod="true" lodID="blok3_flats04" lodDistance="150"></definition>
-    <definition id="blok3_flats02" zone="comNtop" dff="blok3_flats02" col="blok3_flats02" txd="comuni2" alphaTransparency="nil" lod="true" lodID="blok3_flats02" lodDistance="135"></definition>
-    <definition id="newuni_gz" zone="comNtop" dff="newuni_gz" col="newuni_gz" txd="comuni2" alphaTransparency="nil" lod="true" lodID="newuni_gz" lodDistance="135"></definition>
-    <definition id="comlights_top04" zone="comNtop" dff="comlights_top04" col="comlights_top04" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights_top04" lodDistance="3000" timeIn="19" timeOut="6"></definition>
-    <definition id="com_landnew3" zone="comNtop" dff="com_landnew3" col="com_landnew3" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew3" lodDistance="150"></definition>
-    <definition id="wrckdhse020" zone="comNtop" dff="wrckdhse020" col="wrckdhse020" txd="buildsite" alphaTransparency="true" lod="true" lodID="wrckdhse020" lodDistance="105"></definition>
-    <definition id="camo_netting" zone="comNtop" dff="camo_netting" col="camo_netting" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="pipe_start_box" zone="comNtop" dff="pipe_start_box" col="pipe_start_box" txd="compound" alphaTransparency="nil" lod="true" lodID="pipe_start_box" lodDistance="160"></definition>
-    <definition id="special_pathbity" zone="comNtop" dff="special_pathbity" col="special_pathbity" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
-    <definition id="Rd_Ctop_01" zone="comNtop" dff="Rd_Ctop_01" col="Rd_Ctop_01" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_01" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_11" zone="comNtop" dff="Rd_Ctop_11" col="Rd_Ctop_11" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_11" lodDistance="200"></definition>
-    <definition id="cons_build2base" zone="comNtop" dff="cons_build2base" col="cons_build2base" txd="buildsite" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
-    <definition id="csitecutscene" zone="comNtop" dff="csitecutscene" col="csitecutscene" txd="csitecutscene" alphaTransparency="nil" lod="nil" lodDistance="0"></definition>
-    <definition id="Rd_Ctop_19" zone="comNtop" dff="Rd_Ctop_19" col="Rd_Ctop_19" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_19" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_35" zone="comNtop" dff="Rd_Ctop_35" col="Rd_Ctop_35" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_35" lodDistance="200"></definition>
-    <definition id="col_comp1" zone="comNtop" dff="col_comp1" col="col_comp1" txd="colcomp_new" alphaTransparency="true" lod="true" lodID="col_comp1" lodDistance="135"></definition>
-    <definition id="scaffoldlift" zone="comNtop" dff="scaffoldlift" col="scaffoldlift" txd="buildsite" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="com_landnew3a" zone="comNtop" dff="com_landnew3a" col="com_landnew3a" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew3a" lodDistance="150"></definition>
-    <definition id="comlights_top05" zone="comNtop" dff="comlights_top05" col="comlights_top05" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights_top05" lodDistance="3000" timeIn="20" timeOut="6"></definition>
-    <definition id="new_carprktrees" zone="comNtop" dff="new_carprktrees" col="new_carprktrees" txd="trees2" alphaTransparency="true" lod="true" lodID="new_carprktrees" lodDistance="160"></definition>
-    <definition id="door_col_compnd_02" zone="comNtop" dff="door_col_compnd_02" col="door_col_compnd_02" txd="colcomp4b" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Rd_Ctop_02" zone="comNtop" dff="Rd_Ctop_02" col="Rd_Ctop_02" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_02" lodDistance="200"></definition>
-    <definition id="const_woodfence" zone="comNtop" dff="const_woodfence" col="const_woodfence" txd="buildsite" alphaTransparency="nil" lod="true" lodID="const_woodfence" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_23" zone="comNtop" dff="Rd_Ctop_23" col="Rd_Ctop_23" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_23" lodDistance="200"></definition>
-    <definition id="coast_treepatch" zone="comNtop" dff="coast_treepatch" col="coast_treepatch" txd="trees2" alphaTransparency="nil" lod="true" lodID="coast_treepatch" lodDistance="200"></definition>
-    <definition id="newcoasttrees3" zone="comNtop" dff="newcoasttrees3" col="newcoasttrees3" txd="trees2" alphaTransparency="true" lod="true" lodID="newcoasttrees3" lodDistance="160"></definition>
-    <definition id="subplatform_n" zone="comNtop" dff="subplatform_n" col="subplatform_n" txd="subway" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="door_col_compnd_03" zone="comNtop" dff="door_col_compnd_03" col="door_col_compnd_03" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="tunl_206" zone="comNtop" dff="tunl_206" col="tunl_206" txd="roadtunnel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="comtop_tshad6" zone="comNtop" dff="comtop_tshad6" col="comtop_tshad6" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
-    <definition id="custom_meshfence" zone="comNtop" dff="custom_meshfence" col="custom_meshfence" txd="fences" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="comlandnew5" zone="comNtop" dff="comlandnew5" col="comlandnew5" txd="comstadium" alphaTransparency="nil" lod="true" lodID="comlandnew5" lodDistance="150"></definition>
-    <definition id="Rd_Ctop_18" zone="comNtop" dff="Rd_Ctop_18" col="Rd_Ctop_18" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_18" lodDistance="200"></definition>
-    <definition id="warehouse1z2" zone="comNtop" dff="warehouse1z2" col="warehouse1z2" txd="compound" alphaTransparency="nil" lod="true" lodID="warehouse1z2" lodDistance="160"></definition>
-    <definition id="Rd_Ctop_27" zone="comNtop" dff="Rd_Ctop_27" col="Rd_Ctop_27" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_27" lodDistance="200"></definition>
-    <definition id="com_shorecpark" zone="comNtop" dff="com_shorecpark" col="com_shorecpark" txd="compound" alphaTransparency="nil" lod="true" lodID="com_shorecpark" lodDistance="160"></definition>
-    <definition id="hosp_land2" zone="comNtop" dff="hosp_land2" col="hosp_land2" txd="comhospital" alphaTransparency="nil" lod="true" lodID="hosp_land2" lodDistance="170"></definition>
-    <definition id="door_col_compnd_04" zone="comNtop" dff="door_col_compnd_04" col="door_col_compnd_04" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="col_comp5" zone="comNtop" dff="col_comp5" col="col_comp5" txd="colcomp_new" alphaTransparency="true" lod="true" lodID="col_comp5" lodDistance="135"></definition>
-    <definition id="comlandnew4" zone="comNtop" dff="comlandnew4" col="comlandnew4" txd="comstadium" alphaTransparency="nil" lod="true" lodID="comlandnew4" lodDistance="180"></definition>
-    <definition id="comtop_tshad5" zone="comNtop" dff="comtop_tshad5" col="comtop_tshad5" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
-    <definition id="csiteinttran" zone="comNtop" dff="csiteinttran" col="csiteinttran" txd="csitecutscene" alphaTransparency="true" lod="nil" lodDistance="0"></definition>
-    <definition id="Rd_Ctop_07" zone="comNtop" dff="Rd_Ctop_07" col="Rd_Ctop_07" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_07" lodDistance="200"></definition>
-    <definition id="uni_grndkb" zone="comNtop" dff="uni_grndkb" col="uni_grndkb" txd="comuni2" alphaTransparency="nil" lod="true" lodID="uni_grndkb" lodDistance="200"></definition>
-    <definition id="newcoasttrees2" zone="comNtop" dff="newcoasttrees2" col="newcoasttrees2" txd="trees2" alphaTransparency="true" lod="true" lodID="newcoasttrees2" lodDistance="160"></definition>
-    <definition id="Rd_Ctop_04" zone="comNtop" dff="Rd_Ctop_04" col="Rd_Ctop_04" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_04" lodDistance="200"></definition>
-    <definition id="buildingground4" zone="comNtop" dff="buildingground4" col="buildingground4" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground4" lodDistance="150"></definition>
-    <definition id="com_landnew23" zone="comNtop" dff="com_landnew23" col="com_landnew23" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew23" lodDistance="160"></definition>
-    <definition id="treepatchcomtop1" zone="comNtop" dff="treepatchcomtop1" col="treepatchcomtop1" txd="trees2" alphaTransparency="nil" lod="true" lodID="treepatchcomtop1" lodDistance="150"></definition>
-    <definition id="rd_warehsearea" zone="comNtop" dff="rd_warehsearea" col="rd_warehsearea" txd="gtaiii" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_10" zone="comNtop" dff="Rd_Ctop_10" col="Rd_Ctop_10" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_10" lodDistance="200"></definition>
-    <definition id="wrckdhse01" zone="comNtop" dff="wrckdhse01" col="wrckdhse01" txd="buildsite" alphaTransparency="true" lod="true" lodID="wrckdhse01" lodDistance="150"></definition>
-    <definition id="com_landnew2" zone="comNtop" dff="com_landnew2" col="com_landnew2" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew2" lodDistance="190"></definition>
-    <definition id="Rd_Ctop_05" zone="comNtop" dff="Rd_Ctop_05" col="Rd_Ctop_05" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_05" lodDistance="200"></definition>
-    <definition id="comparkbits" zone="comNtop" dff="comparkbits" col="comparkbits" txd="comhospital" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
-    <definition id="Rd_Ctop_30" zone="comNtop" dff="Rd_Ctop_30" col="Rd_Ctop_30" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_30" lodDistance="200"></definition>
-    <definition id="com_hospital" zone="comNtop" dff="com_hospital" col="com_hospital" txd="comhospital" alphaTransparency="nil" lod="true" lodID="com_hospital" lodDistance="180"></definition>
-    <definition id="col_comp3" zone="comNtop" dff="col_comp3" col="col_comp3" txd="colcomp_new" alphaTransparency="true" lod="true" lodID="col_comp3" lodDistance="120"></definition>
-    <definition id="Rd_Ctop_20" zone="comNtop" dff="Rd_Ctop_20" col="Rd_Ctop_20" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_20" lodDistance="200"></definition>
-    <definition id="com_landnew23a" zone="comNtop" dff="com_landnew23a" col="com_landnew23a" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew23a" lodDistance="160"></definition>
-    <definition id="subntrnce_n" zone="comNtop" dff="subntrnce_n" col="subntrnce_n" txd="subway_comtop" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="comlights_top02" zone="comNtop" dff="comlights_top02" col="comlights_top02" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights_top02" lodDistance="3000" timeIn="19" timeOut="6"></definition>
-    <definition id="skyscrpunbuilt2" zone="comNtop" dff="skyscrpunbuilt2" col="skyscrpunbuilt2" txd="buildsite" alphaTransparency="true" lod="true" lodID="skyscrpunbuilt2" lodDistance="240"></definition>
-    <definition id="Rd_Ctop_31" zone="comNtop" dff="Rd_Ctop_31" col="Rd_Ctop_31" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_31" lodDistance="200"></definition>
-    <definition id="door1_garage" zone="comNtop" dff="door1_garage" col="door1_garage" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
-    <definition id="com_cland127" zone="comNtop" dff="com_cland127" col="com_cland127" txd="comhospital" alphaTransparency="nil" lod="true" lodID="com_cland127" lodDistance="170"></definition>
-    <definition id="Rd_Ctop_13" zone="comNtop" dff="Rd_Ctop_13" col="Rd_Ctop_13" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_13" lodDistance="200"></definition>
-    <definition id="col_comp6" zone="comNtop" dff="col_comp6" col="col_comp6" txd="colcomp_new" alphaTransparency="true" lod="true" lodID="col_comp6" lodDistance="150"></definition>
-    <definition id="Rd_Ctop_24" zone="comNtop" dff="Rd_Ctop_24" col="Rd_Ctop_24" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_24" lodDistance="200"></definition>
-    <definition id="comtop_tshad4" zone="comNtop" dff="comtop_tshad4" col="comtop_tshad4" txd="treeshadow" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
-    <definition id="Rd_Ctop_33" zone="comNtop" dff="Rd_Ctop_33" col="Rd_Ctop_33" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_33" lodDistance="200"></definition>
-    <definition id="newcoasttrees1" zone="comNtop" dff="newcoasttrees1" col="newcoasttrees1" txd="trees2" alphaTransparency="true" lod="true" lodID="newcoasttrees1" lodDistance="160"></definition>
-    <definition id="comlandnew8" zone="comNtop" dff="comlandnew8" col="comlandnew8" txd="comstadium" alphaTransparency="nil" lod="true" lodID="comlandnew8" lodDistance="150"></definition>
-    <definition id="comlights_top01" zone="comNtop" dff="comlights_top01" col="comlights_top01" txd="comlights" alphaTransparency="nil" lod="true" lodID="comlights_top01" lodDistance="3000" timeIn="19" timeOut="6"></definition>
-    <definition id="warehouse1z3" zone="comNtop" dff="warehouse1z3" col="warehouse1z3" txd="compound" alphaTransparency="nil" lod="true" lodID="warehouse1z3" lodDistance="160"></definition>
-    <definition id="warehouse1z4" zone="comNtop" dff="warehouse1z4" col="warehouse1z4" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
-    <definition id="Rd_Ctop_17" zone="comNtop" dff="Rd_Ctop_17" col="Rd_Ctop_17" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_17" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_12" zone="comNtop" dff="Rd_Ctop_12" col="Rd_Ctop_12" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_12" lodDistance="200"></definition>
-    <definition id="camo_sups" zone="comNtop" dff="camo_sups" col="camo_sups" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="buildingground6" zone="comNtop" dff="buildingground6" col="buildingground6" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground6" lodDistance="150"></definition>
-    <definition id="com_landnew23b" zone="comNtop" dff="com_landnew23b" col="com_landnew23b" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew23b" lodDistance="160"></definition>
-    <definition id="Rd_Ctop_32" zone="comNtop" dff="Rd_Ctop_32" col="Rd_Ctop_32" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_32" lodDistance="200"></definition>
-    <definition id="buildingground5" zone="comNtop" dff="buildingground5" col="buildingground5" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground5" lodDistance="170"></definition>
-    <definition id="Rd_Ctop_28" zone="comNtop" dff="Rd_Ctop_28" col="Rd_Ctop_28" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_28" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_21" zone="comNtop" dff="Rd_Ctop_21" col="Rd_Ctop_21" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_21" lodDistance="200"></definition>
-    <definition id="newunigrnd" zone="comNtop" dff="newunigrnd" col="newunigrnd" txd="comuni2" alphaTransparency="nil" lod="true" lodID="newunigrnd" lodDistance="140"></definition>
-    <definition id="buildingground2" zone="comNtop" dff="buildingground2" col="buildingground2" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground2" lodDistance="150"></definition>
-    <definition id="sandbag" zone="comNtop" dff="sandbag" col="sandbag" txd="compound" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Rd_Ctop_06" zone="comNtop" dff="Rd_Ctop_06" col="Rd_Ctop_06" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_06" lodDistance="200"></definition>
-    <definition id="const_woodfence3" zone="comNtop" dff="const_woodfence3" col="const_woodfence3" txd="buildsite" alphaTransparency="nil" lod="true" lodID="const_woodfence3" lodDistance="150"></definition>
-    <definition id="colcomp4bits01" zone="comNtop" dff="colcomp4bits01" col="colcomp4bits01" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="tunnelsupport1" zone="comNtop" dff="tunnelsupport1" col="tunnelsupport1" txd="buildsite" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="Rd_Ctop_34" zone="comNtop" dff="Rd_Ctop_34" col="Rd_Ctop_34" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_34" lodDistance="200"></definition>
-    <definition id="comtopuni1" zone="comNtop" dff="comtopuni1" col="comtopuni1" txd="comuni2" alphaTransparency="nil" lod="true" lodID="comtopuni1" lodDistance="135"></definition>
-    <definition id="Rd_Ctop_25" zone="comNtop" dff="Rd_Ctop_25" col="Rd_Ctop_25" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_25" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_15" zone="comNtop" dff="Rd_Ctop_15" col="Rd_Ctop_15" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_15" lodDistance="200"></definition>
-    <definition id="Rd_Ctop_14" zone="comNtop" dff="Rd_Ctop_14" col="Rd_Ctop_14" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_14" lodDistance="200"></definition>
-    <definition id="newunitrepatch" zone="comNtop" dff="newunitrepatch" col="newunitrepatch" txd="trees2" alphaTransparency="true" lod="true" lodID="newunitrepatch" lodDistance="160"></definition>
-    <definition id="girders02" zone="comNtop" dff="girders02" col="girders02" txd="buildsite" alphaTransparency="nil" lod="true" lodID="girders02" lodDistance="180"></definition>
-    <definition id="door_col_compnd_05" zone="comNtop" dff="door_col_compnd_05" col="door_col_compnd_05" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="new_carprktrees4" zone="comNtop" dff="new_carprktrees4" col="new_carprktrees4" txd="trees2" alphaTransparency="true" lod="true" lodID="new_carprktrees4" lodDistance="160"></definition>
-    <definition id="Rd_Ctop_09" zone="comNtop" dff="Rd_Ctop_09" col="Rd_Ctop_09" txd="gtaiii" alphaTransparency="nil" lod="true" lodID="Rd_Ctop_09" lodDistance="200"></definition>
-    <definition id="com_landnew24b" zone="comNtop" dff="com_landnew24b" col="com_landnew24b" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew24b" lodDistance="150"></definition>
-    <definition id="com_shorekb" zone="comNtop" dff="com_shorekb" col="com_shorekb" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_shorekb" lodDistance="160"></definition>
-    <definition id="door_col_compnd_01" zone="comNtop" dff="door_col_compnd_01" col="door_col_compnd_01" txd="colcomp4" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="philsbox" zone="comNtop" dff="philsbox" col="philsbox" txd="warehousesc" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="com_landnew24" zone="comNtop" dff="com_landnew24" col="com_landnew24" txd="comjetty" alphaTransparency="nil" lod="true" lodID="com_landnew24" lodDistance="150"></definition>
-    <definition id="blok3_flats03" zone="comNtop" dff="blok3_flats03" col="blok3_flats03" txd="colcomp_new" alphaTransparency="nil" lod="true" lodID="blok3_flats03" lodDistance="135"></definition>
-    <definition id="buildingground1" zone="comNtop" dff="buildingground1" col="buildingground1" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground1" lodDistance="150"></definition>
-    <definition id="comlandnew6" zone="comNtop" dff="comlandnew6" col="comlandnew6" txd="comstadium" alphaTransparency="nil" lod="true" lodID="comlandnew6" lodDistance="180"></definition>
+    <definition id="lodscrpunbuilt2" zone="comntop" col="lodscrpunbuilt2" txd="comlod1" flags="2,21" lodDistance="1200"></definition>
+    <definition id="LOD_comp1" zone="comntop" col="LOD_comp1" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LOD_comp3" zone="comntop" col="LOD_comp3" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LOD_comp5" zone="comntop" col="LOD_comp5" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LOD_comp6" zone="comntop" col="LOD_comp6" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LOD_cland127" zone="comntop" col="LOD_cland127" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LODkdhse01" zone="comntop" col="LODkdhse01" txd="comlod1" flags="2,21" lodDistance="900"></definition>
+    <definition id="LODkdhse020" zone="comntop" col="LODkdhse020" txd="comlod1" flags="2,21" lodDistance="900"></definition>
+    <definition id="LODlandnew4" zone="comntop" col="LODlandnew4" txd="comlod1" flags="" lodDistance="700"></definition>
+    <definition id="LODlandnew5" zone="comntop" col="LODlandnew5" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODlandnew6" zone="comntop" col="LODlandnew6" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODlandnew8" zone="comntop" col="LODlandnew8" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODlandnew7" zone="comntop" col="LODlandnew7" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew1" zone="comntop" col="LOD_landnew1" txd="comlod1" flags="" lodDistance="1200"></definition>
+    <definition id="LOD_landnew2" zone="comntop" col="LOD_landnew2" txd="comlod1" flags="" lodDistance="1200"></definition>
+    <definition id="LOD_landnew3" zone="comntop" col="LOD_landnew3" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew3a" zone="comntop" col="LOD_landnew3a" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew23" zone="comntop" col="LOD_landnew23" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew23a" zone="comntop" col="LOD_landnew23a" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew23b" zone="comntop" col="LOD_landnew23b" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew24" zone="comntop" col="LOD_landnew24" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_landnew24b" zone="comntop" col="LOD_landnew24b" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground1" zone="comntop" col="LODldingground1" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground2" zone="comntop" col="LODldingground2" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground3" zone="comntop" col="LODldingground3" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground4" zone="comntop" col="LODldingground4" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground5" zone="comntop" col="LODldingground5" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODldingground6" zone="comntop" col="LODldingground6" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODcoasttrees1" zone="comntop" col="LODcoasttrees1" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LODcoasttrees2" zone="comntop" col="LODcoasttrees2" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LODcoasttrees3" zone="comntop" col="LODcoasttrees3" txd="comlod1" flags="2" lodDistance="1000"></definition>
+    <definition id="LODst_treepatch" zone="comntop" col="LODst_treepatch" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LOD_carprktrees" zone="comntop" col="LOD_carprktrees" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LOD_carprktrees4" zone="comntop" col="LOD_carprktrees4" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LODk3_flats02" zone="comntop" col="LODk3_flats02" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LODk3_flats03" zone="comntop" col="LODk3_flats03" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LODk3_flats04" zone="comntop" col="LODk3_flats04" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODunigrnd" zone="comntop" col="LODunigrnd" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_land_128" zone="comntop" col="LOD_land_128" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_hospital" zone="comntop" col="LOD_hospital" txd="comlod1" flags="" lodDistance="900"></definition>
+    <definition id="LOD_shorecpark" zone="comntop" col="LOD_shorecpark" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_shorekb" zone="comntop" col="LOD_shorekb" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODp_land2" zone="comntop" col="LODp_land2" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODehouse1z1" zone="comntop" col="LODehouse1z1" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODehouse1z2" zone="comntop" col="LODehouse1z2" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODehouse1z3" zone="comntop" col="LODehouse1z3" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODders01" zone="comntop" col="LODders01" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODders02" zone="comntop" col="LODders02" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODs_buid02" zone="comntop" col="LODs_buid02" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LOD_bridge" zone="comntop" col="LOD_bridge" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODuni_gz" zone="comntop" col="LODuni_gz" txd="comlod1" flags="" lodDistance="600"></definition>
+    <definition id="LODst_woodfence" zone="comntop" col="LODst_woodfence" txd="comlod1" flags="" lodDistance="700"></definition>
+    <definition id="LODst_woodfence3" zone="comntop" col="LODst_woodfence3" txd="comlod1" flags="" lodDistance="700"></definition>
+    <definition id="LODepatchcomtop1" zone="comntop" col="LODepatchcomtop1" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LODtopuni1" zone="comntop" col="LODtopuni1" txd="comlod1" flags="" lodDistance="800"></definition>
+    <definition id="LODe_start_box" zone="comntop" col="LODe_start_box" txd="comlod1" flags="" lodDistance="500"></definition>
+    <definition id="LODesuni1" zone="comntop" col="LODesuni1" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="LODunitrepatch" zone="comntop" col="LODunitrepatch" txd="comlod1" flags="2" lodDistance="600"></definition>
+    <definition id="com_landnew1" zone="comntop" col="com_landnew1" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew2" zone="comntop" col="com_landnew2" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew3" zone="comntop" col="com_landnew3" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew3a" zone="comntop" col="com_landnew3a" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew23b" zone="comntop" col="com_landnew23b" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew24" zone="comntop" col="com_landnew24" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew24b" zone="comntop" col="com_landnew24b" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew23" zone="comntop" col="com_landnew23" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="com_landnew23a" zone="comntop" col="com_landnew23a" txd="comjetty" flags="" lodDistance="190"></definition>
+    <definition id="clnm_stadium" zone="comntop" col="clnm_stadium" txd="comstadium" flags="21" lodDistance="700"></definition>
+    <definition id="comlandnew4" zone="comntop" col="comlandnew4" txd="comstadium" flags="" lodDistance="230"></definition>
+    <definition id="comlandnew5" zone="comntop" col="comlandnew5" txd="comstadium" flags="" lodDistance="230"></definition>
+    <definition id="comlandnew6" zone="comntop" col="comlandnew6" txd="comstadium" flags="" lodDistance="230"></definition>
+    <definition id="comlandnew7" zone="comntop" col="comlandnew7" txd="comstadium" flags="" lodDistance="230"></definition>
+    <definition id="comlandnew8" zone="comntop" col="comlandnew8" txd="comstadium" flags="" lodDistance="230"></definition>
+    <definition id="hosp_land2" zone="comntop" col="hosp_land2" txd="comhospital" flags="" lodDistance="180"></definition>
+    <definition id="newunigrnd" zone="comntop" col="newunigrnd" txd="comuni2" flags="" lodDistance="200"></definition>
+    <definition id="uni_grndkb" zone="comntop" col="uni_grndkb" txd="comuni2" flags="" lodDistance="200"></definition>
+    <definition id="buildingground1" zone="comntop" col="buildingground1" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="buildingground2" zone="comntop" col="buildingground2" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="buildingground3" zone="comntop" col="buildingground3" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="buildingground4" zone="comntop" col="buildingground4" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="buildingground5" zone="comntop" col="buildingground5" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="buildingground6" zone="comntop" col="buildingground6" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="com_cland127" zone="comntop" col="com_cland127" txd="comhospital" flags="" lodDistance="130"></definition>
+    <definition id="com_land_128" zone="comntop" col="com_land_128" txd="comhospital" flags="21" lodDistance="200"></definition>
+    <definition id="wrckdhse020" zone="comntop" col="wrckdhse020" txd="buildsite" flags="2,21" lodDistance="150"></definition>
+    <definition id="cons_buid02" zone="comntop" col="cons_buid02" txd="buildsite" flags="2,21" lodDistance="200"></definition>
+    <definition id="cons_build2base" zone="comntop" col="cons_build2base" txd="buildsite" flags="" lodDistance="180"></definition>
+    <definition id="comn_girders01" zone="comntop" col="comn_girders01" txd="buildsite" flags="" lodDistance="190"></definition>
+    <definition id="comn_girders02" zone="comntop" col="comn_girders02" txd="buildsite" flags="" lodDistance="190"></definition>
+    <definition id="skyscrpunbuilt2" zone="comntop" col="skyscrpunbuilt2" txd="buildsite" flags="2,21" lodDistance="270"></definition>
+    <definition id="tunnelsupport1" zone="comntop" col="tunnelsupport1" txd="buildsite" flags="2,21" lodDistance="180"></definition>
+    <definition id="wrckdhse01" zone="comntop" col="wrckdhse01" txd="buildsite" flags="2,21" lodDistance="150"></definition>
+    <definition id="newuni_gz" zone="comntop" col="newuni_gz" txd="comuni2" flags="21" lodDistance="150"></definition>
+    <definition id="blok3_flats02" zone="comntop" col="blok3_flats02" txd="comuni2" flags="" lodDistance="160"></definition>
+    <definition id="blok3_flats03" zone="comntop" col="blok3_flats03" txd="colcomp_new" flags="" lodDistance="160"></definition>
+    <definition id="blok3_flats04" zone="comntop" col="blok3_flats04" txd="colcomp_new" flags="" lodDistance="160"></definition>
+    <definition id="com_hospital" zone="comntop" col="com_hospital" txd="comhospital" flags="21" lodDistance="190"></definition>
+    <definition id="comtopuni1" zone="comntop" col="comtopuni1" txd="comuni2" flags="21" lodDistance="150"></definition>
+    <definition id="com_land023" zone="comntop" col="com_land023" txd="colcomp4b" flags="" lodDistance="120"></definition>
+    <definition id="col_comp1" zone="comntop" col="col_comp1" txd="colcomp_new" flags="21" lodDistance="100"></definition>
+    <definition id="col_comp3" zone="comntop" col="col_comp3" txd="colcomp_new" flags="21" lodDistance="100"></definition>
+    <definition id="col_comp5" zone="comntop" col="col_comp5" txd="colcomp_new" flags="21" lodDistance="100"></definition>
+    <definition id="col_comp6" zone="comntop" col="col_comp6" txd="colcomp_new" flags="21" lodDistance="100"></definition>
+    <definition id="mak_billboardsrvc" zone="comntop" col="mak_billboardsrvc" txd="billboard" flags="" lodDistance="160"></definition>
+    <definition id="comNtop_Ntop1" zone="comntop" col="comNtop_Ntop1" txd="com_roads" flags="" lodDistance="300"></definition>
+    <definition id="comNtop_Ntop3" zone="comntop" col="comNtop_Ntop3" txd="com_roads" flags="" lodDistance="300"></definition>
+    <definition id="comNtop_Ntop4" zone="comntop" col="comNtop_Ntop4" txd="com_roads" flags="" lodDistance="300"></definition>
+    <definition id="comntop_ntop2_1" zone="comntop" col="comntop_ntop2_1" txd="com_roads" flags="" lodDistance="300"></definition>
+    <definition id="comntop_ntop2_2" zone="comntop" col="comntop_ntop2_2" txd="com_roads" flags="" lodDistance="300"></definition>
+    <definition id="comtop_jety" zone="comntop" col="comtop_jety" txd="comtop_jetty" flags="" lodDistance="200"></definition>
+    <definition id="const_woodfence" zone="comntop" col="const_woodfence" txd="buildsite" flags="21" lodDistance="190"></definition>
+    <definition id="const_woodfence3" zone="comntop" col="const_woodfence3" txd="buildsite" flags="21" lodDistance="220"></definition>
+    <definition id="bar_barrier13" zone="comntop" col="bar_barrier13" txd="fences13" flags="2,21" lodDistance="300"></definition>
+    <definition id="camo_sups" zone="comntop" col="camo_sups" txd="compound" flags="" lodDistance="110"></definition>
+    <definition id="plnt_pipepart01" zone="comntop" col="plnt_pipepart01" txd="pipesc_o_O" flags="21" lodDistance="300"></definition>
+    <definition id="plnt_pipepart02" zone="comntop" col="plnt_pipepart02" txd="pipesc_o_O" flags="21" lodDistance="300"></definition>
+    <definition id="door1_garage" zone="comntop" col="door1_garage" txd="colcomp4" flags="11,21" lodDistance="160"></definition>
+    <definition id="door_col_compnd_01" zone="comntop" col="door_col_compnd_01" txd="colcomp4" flags="11,21" lodDistance="120"></definition>
+    <definition id="door_col_compnd_02" zone="comntop" col="door_col_compnd_02" txd="colcomp4b" flags="11,21" lodDistance="120"></definition>
+    <definition id="door_col_compnd_03" zone="comntop" col="door_col_compnd_03" txd="colcomp4" flags="11,21" lodDistance="120"></definition>
+    <definition id="door_col_compnd_04" zone="comntop" col="door_col_compnd_04" txd="colcomp4" flags="11,21" lodDistance="120"></definition>
+    <definition id="door_col_compnd_05" zone="comntop" col="door_col_compnd_05" txd="colcomp4" flags="11,21" lodDistance="120"></definition>
+    <definition id="foundation" zone="comntop" col="foundation" txd="buildingsite" flags="2,21" lodDistance="110"></definition>
+    <definition id="scaffold_pole" zone="comntop" col="scaffold_pole" txd="buildingsite" flags="" lodDistance="110"></definition>
+    <definition id="slab_block" zone="comntop" col="slab_block" txd="buildinsite" flags="" lodDistance="90"></definition>
+    <definition id="csitecutscene" zone="comntop" col="csitecutscene" txd="csitecutscene" flags="21" lodDistance="100"></definition>
+    <definition id="scaffoldlift" zone="comntop" col="scaffoldlift" txd="buildsite" flags="" lodDistance="100"></definition>
+    <definition id="singlelight" zone="comntop" col="singlelight" txd="lcsageneric" flags="" lodDistance="100"></definition>
+    <definition id="colcomp4bits01" zone="comntop" col="colcomp4bits01" txd="colcomp4" flags="" lodDistance="100"></definition>
+    <definition id="treepatchcomtop1" zone="comntop" col="treepatchcomtop1" txd="trees2" flags="2,21" lodDistance="299"></definition>
+    <definition id="treesuni1" zone="comntop" col="treesuni1" txd="trees2" flags="2,21" lodDistance="299"></definition>
+    <definition id="comlights_top01" zone="comntop" col="comlights_top01" txd="comlights" flags="2,3" lodDistance="3000" timeIn="19" timeOut="6"></definition>
+    <definition id="comlights_top02" zone="comntop" col="comlights_top02" txd="comlights" flags="2,3" lodDistance="3000" timeIn="19" timeOut="6"></definition>
+    <definition id="comlights_top05" zone="comntop" col="comlights_top05" txd="comlights" flags="2,3" lodDistance="3000" timeIn="20" timeOut="6"></definition>
+    <definition id="comlights_top04" zone="comntop" col="comlights_top04" txd="comlights" flags="2,3" lodDistance="3000" timeIn="19" timeOut="6"></definition>
+    <definition id="comlights_top03" zone="comntop" col="comlights_top03" txd="comlights" flags="2,3" lodDistance="3000" timeIn="20" timeOut="6"></definition>
 </zoneDefinitions>
