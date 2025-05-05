@@ -42,9 +42,9 @@
     <definition id="swank_inside" zone="industne" col="swank_inside" txd="sal_inside" flags="21" lodDistance="80"></definition>
     <definition id="vegclubtree02" zone="industne" col="vegclubtree02" txd="pinetrees" flags="2,21" lodDistance="270"></definition>
     <definition id="ind_land067" zone="industne" col="ind_land067" txd="gen_lc" flags="21" lodDistance="120"></definition>
-    <definition id="ind_newbuilds01" zone="industne" col="ind_newbuilds01" txd="italynrth" flags="21" lodDistance="139"></definition>
+    <definition id="ind_newbuilds01" zone="industne" col="ind_newbuilds01" txd="Italynrth" flags="21" lodDistance="139"></definition>
     <definition id="ind_newtenement01" zone="industne" col="ind_newtenement01" txd="italysht" flags="21" lodDistance="140"></definition>
-    <definition id="iten_singbuild02" zone="industne" col="iten_singbuild02" txd="italynrth" flags="2,21" lodDistance="110"></definition>
+    <definition id="iten_singbuild02" zone="industne" col="iten_singbuild02" txd="Italynrth" flags="2,21" lodDistance="110"></definition>
     <definition id="garage_oddjob" zone="industne" col="garage_oddjob" txd="oddgar" flags="21" lodDistance="100"></definition>
     <definition id="toplandit" zone="industne" col="toplandit" txd="italymisc" flags="21" lodDistance="170"></definition>
     <definition id="ind_newbuilds02" zone="industne" col="ind_newbuilds02" txd="Italynrth" flags="21" lodDistance="130"></definition>
@@ -113,7 +113,7 @@
     <definition id="ind_land120" zone="industne" col="ind_land120" txd="gen_lc" flags="" lodDistance="120"></definition>
     <definition id="ind_mainten2b" zone="industne" col="ind_mainten2b" txd="inditaly1" flags="21" lodDistance="110"></definition>
     <definition id="indhibuild1" zone="industne" col="indhibuild1" txd="Italynrth" flags="21" lodDistance="180"></definition>
-    <definition id="iten_block06" zone="industne" col="iten_block06" txd="Italysht" flags="21" lodDistance="130"></definition>
+    <definition id="iten_block06" zone="industne" col="iten_block06" txd="italysht" flags="21" lodDistance="130"></definition>
     <definition id="ind_mainten1" zone="industne" col="ind_mainten1" txd="inditaly1" flags="21" lodDistance="120"></definition>
     <definition id="ind_newbuilds06" zone="industne" col="ind_newbuilds06" txd="inditaly1" flags="21" lodDistance="140"></definition>
     <definition id="ind_newbuilds07" zone="industne" col="ind_newbuilds07" txd="inditaly1" flags="21" lodDistance="120"></definition>

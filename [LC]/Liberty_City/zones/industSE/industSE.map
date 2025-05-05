@@ -184,7 +184,7 @@
     <building  id="police_station_ind" posX="-192.41" posY="1136.08" posZ="13.9107" rotX="0" rotY="-0" rotZ="-0" lodParent="LODice_Station_ind"></building>
     <building  id="rustship_structure0" posX="167.77" posY="862.794" posZ="20.6832" rotX="0" rotY="-0" rotZ="-0" lodParent="LODtship_structure"></building>
     <building  id="crgoshp01" posX="301.83" posY="1087.77" posZ="6.43746" rotX="0" rotY="-0" rotZ="-0" lodParent="LODoshp01"></building>
-    <object  id="sawmill" posX="-176.64" posY="775.46" posZ="22.7188" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmill"></object>
+    <building  id="sawmill" posX="-176.64" posY="775.46" posZ="22.7188" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmill"></building>
     <building  id="pharmas" posX="-61.2" posY="977.67" posZ="21.9197" rotX="0" rotY="-0" rotZ="-0" lodParent="LODrmas"></building>
     <building  id="stepsmidbb" posX="-140.62" posY="1237.92" posZ="18.6295" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674" lodParent="LODpsmidbb"></building>
     <building  id="iten_garage01" posX="-260.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" lodParent="LODn_garage01"></building>

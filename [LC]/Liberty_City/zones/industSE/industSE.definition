@@ -26,6 +26,7 @@
     <definition id="ind_land086" zone="industse" col="ind_land086" txd="LCSAgeneric" flags="" lodDistance="150"></definition>
     <definition id="ind_land113" zone="industse" col="ind_land113" txd="LCSAgeneric" flags="" lodDistance="110"></definition>
     <definition id="ind_land137" zone="industse" col="ind_land137" txd="indpolice" flags="" lodDistance="220"></definition>
+    <definition id="sawmill" zone="industse" col="sawmill" txd="factory" flags="21" lodDistance="240"></definition>
     <definition id="ind_land156" zone="industse" col="ind_land156" txd="sawmillground" flags="" lodDistance="190"></definition>
     <definition id="supasave" zone="industse" col="supasave" txd="indsupasave" flags="7,21" lodDistance="140"></definition>
     <definition id="cranebasea" zone="industse" col="cranebasea" txd="cranes" flags="21" lodDistance="200"></definition>
@@ -55,7 +56,7 @@
     <definition id="busdepot" zone="industse" col="busdepot" txd="busdepot" flags="21" lodDistance="120"></definition>
     <definition id="busdepot_cover" zone="industse" col="busdepot_cover" txd="factory" flags="21" lodDistance="150"></definition>
     <definition id="busdepottar" zone="industse" col="busdepottar" txd="LCSAgeneric" flags="21" lodDistance="130"></definition>
-    <definition id="factorye_roof1" zone="industse" col="factorye_roof1" txd="Factory" flags="21" lodDistance="130"></definition>
+    <definition id="factorye_roof1" zone="industse" col="factorye_roof1" txd="factory" flags="21" lodDistance="130"></definition>
     <definition id="factorym_box" zone="industse" col="factorym_box" txd="factorym" flags="21" lodDistance="110"></definition>
     <definition id="ind_jetnoside02" zone="industse" col="ind_jetnoside02" txd="indpier" flags="7,21" lodDistance="299"></definition>
     <definition id="plnt_pylon01" zone="industse" col="plnt_pylon01" txd="pylon" flags="2,21" lodDistance="299"></definition>
