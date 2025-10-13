@@ -1,9 +1,9 @@
 <meta>
 	<info name="Rectangle Map" author="Blue Eagle" version="5" type="script" />
-	
+
 	<script src="Settings.lua" type="client" />
 	<script src="Client.lua" type="client" />
-	
+
 	<file src="images/radar.png" />
 	<file src="images/arrow.png" />
 
@@ -71,6 +71,6 @@
 	<file src="images/61.png"/>
 	<file src="images/62.png"/>
 	<file src="images/63.png"/>
-	
+
 	<min_mta_version client="1.3.5" server="1.3.0-9.04134" />
 </meta>
