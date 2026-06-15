@@ -78,15 +78,6 @@
     <building  id="lodnbtm_nbtm2s" posX="-1011.65" posY="1282.33" posZ="20.055" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="lodnbtm_nbtm3s" posX="-1288.19" posY="1016.2" posZ="25.065" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="lodnbtm_nbtm4s" posX="-1028.19" posY="1027.32" posZ="25.04" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building  id="LODsrroad3b50" posX="-803.502" posY="1333.27" posZ="19.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
-    <building  id="LODsrroad3b50" posX="-828.502" posY="1283.37" posZ="24.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
-    <building  id="LODsrroad3b50" posX="-853.502" posY="1233.47" posZ="29.9782" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="2"></building>
-    <building  id="LODsrroad3b50" posX="-902.619" posY="1183.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
-    <building  id="LODsrroad3b50" posX="-927.619" posY="1133.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
-    <building  id="LODsrroad3b50" posX="-952.618" posY="1083.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" uniqueID="5"></building>
-    <building  id="LODsrroad3b50" posX="-977.868" posY="1033.67" posZ="29.9782" rotX="0" rotY="-0" rotZ="-0" uniqueID="6"></building>
-    <building  id="LODsrroad3b50" posX="-1002.87" posY="983.773" posZ="24.9781" rotX="0" rotY="-0" rotZ="-0" uniqueID="7"></building>
-    <building  id="LODsrroad3b50" posX="-1027.87" posY="933.873" posZ="19.9781" rotX="0" rotY="-0" rotZ="-0" uniqueID="8"></building>
     <building  id="LODnterbtm_1" posX="-1004.49" posY="956.31" posZ="29.4734" rotX="-0.00013660383618506" rotY="8.5389189466907e-05" rotZ="153.99979990416"></building>
     <building  id="LODnterbtm_2" posX="-959.46" posY="1046.11" posZ="33.7772" rotX="-0.00013660383618506" rotY="8.5389189466907e-05" rotZ="153.99979990416"></building>
     <building  id="townhallbig" posX="-1167.65" posY="1042.6" posZ="87.9396" rotX="0" rotY="-0" rotZ="-0" lodParent="LODnhallbig"></building>
@@ -173,15 +164,15 @@
     <building  id="comNbtm_Nbtm2" posX="-1011.65" posY="1282.34" posZ="20.0525" rotX="0" rotY="-0" rotZ="-0" lodParent="lodnbtm_nbtm2s"></building>
     <building  id="comNbtm_Nbtm3" posX="-1288.19" posY="1016" posZ="25.024" rotX="0" rotY="-0" rotZ="-0" lodParent="lodnbtm_nbtm3s"></building>
     <building  id="comNbtm_Nbtm4" posX="-1028.19" posY="1027.32" posZ="25.04" rotX="0" rotY="-0" rotZ="-0" lodParent="lodnbtm_nbtm4s"></building>
-    <building  id="rd_srroad3b50" posX="-803.502" posY="1333.27" posZ="19.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="LODsrroad3b50"></building>
-    <building  id="rd_srroad3b50" posX="-828.502" posY="1283.37" posZ="24.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="LODsrroad3b50" uniqueID="1"></building>
-    <building  id="rd_srroad3b50" posX="-853.502" posY="1233.47" posZ="29.9782" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="LODsrroad3b50" uniqueID="2"></building>
-    <building  id="rd_srroad3a50" posX="-902.619" posY="1183.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="3"></building>
-    <building  id="rd_srroad3a50" posX="-927.619" posY="1133.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="4"></building>
-    <building  id="rd_srroad3a50" posX="-952.618" posY="1083.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="5"></building>
-    <building  id="rd_srroad3b50" posX="-977.868" posY="1033.67" posZ="29.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="6"></building>
-    <building  id="rd_srroad3b50" posX="-1002.87" posY="983.773" posZ="24.9781" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="7"></building>
-    <building  id="rd_srroad3b50" posX="-1027.87" posY="933.873" posZ="19.9781" rotX="0" rotY="-0" rotZ="-0" lodParent="LODsrroad3b50" uniqueID="8"></building>
+    <building  id="rd_srroad3b50" posX="-803.502" posY="1333.27" posZ="19.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="self"></building>
+    <building  id="rd_srroad3b50" posX="-828.502" posY="1283.37" posZ="24.9781" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="self" uniqueID="1"></building>
+    <building  id="rd_srroad3b50" posX="-853.502" posY="1233.47" posZ="29.9782" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" lodParent="self" uniqueID="2"></building>
+    <building  id="rd_srroad3a50" posX="-902.619" posY="1183.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="3"></building>
+    <building  id="rd_srroad3a50" posX="-927.619" posY="1133.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="4"></building>
+    <building  id="rd_srroad3a50" posX="-952.618" posY="1083.57" posZ="34.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="5"></building>
+    <building  id="rd_srroad3b50" posX="-977.868" posY="1033.67" posZ="29.9782" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="6"></building>
+    <building  id="rd_srroad3b50" posX="-1002.87" posY="983.773" posZ="24.9781" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="7"></building>
+    <building  id="rd_srroad3b50" posX="-1027.87" posY="933.873" posZ="19.9781" rotX="0" rotY="-0" rotZ="-0" lodParent="self" uniqueID="8"></building>
     <building  id="planterbtm_1" posX="-1004.49" posY="956.31" posZ="29.4734" rotX="-0.00013665181435783" rotY="8.5389167689469e-05" rotZ="153.99979990416" lodParent="LODnterbtm_1"></building>
     <building  id="planterbtm_2" posX="-959.46" posY="1046.11" posZ="33.7772" rotX="-0.00013665181435783" rotY="8.5389167689469e-05" rotZ="153.99979990416" lodParent="LODnterbtm_2"></building>
     <building  id="planterbtm_3" posX="-921.953" posY="1121.04" posZ="35.2772" rotX="-0.00013665181435783" rotY="8.5389167689469e-05" rotZ="153.99979990416"></building>
