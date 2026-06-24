@@ -1,5 +1,5 @@
 <meta>
-    <info author="BlueEagle" version="3.0.0" name="Liberty_City" />
+    <info author="BlueEagle" version="4.0.0" name="Liberty_City" />
 
 
     <file type="client" src="eagleZones.txt" />
@@ -11,47 +11,8 @@
     <file type="client" src="water.dat" />
 
 
-    <file type="client" src="zones/landsw/landsw.map" />
-    <file type="client" src="zones/comsw/comsw.map" />
-    <file type="client" src="zones/ghosttown/ghosttown.map" />
-    <file type="client" src="zones/seabed_lc/seabed_lc.map" />
-    <file type="client" src="zones/industne/industne.map" />
-    <file type="client" src="zones/landne/landne.map" />
-    <file type="client" src="zones/int_LC/int_LC.map" />
-    <file type="client" src="zones/trains/trains.map" />
-    <file type="client" src="zones/mod_seabed/mod_seabed.map" />
-    <file type="client" src="zones/industnw/industnw.map" />
-    <file type="client" src="zones/comnbtm/comnbtm.map" />
-    <file type="client" src="zones/industse/industse.map" />
-    <file type="client" src="zones/comntop/comntop.map" />
-    <file type="client" src="zones/comse/comse.map" />
-    <file type="client" src="zones/subway/subway.map" />
-    <file type="client" src="zones/industsw/industsw.map" />
-
-
-    <file type="client" src="zones/landsw/landsw.definition" />
-    <file type="client" src="zones/comsw/comsw.definition" />
-    <file type="client" src="zones/ghosttown/ghosttown.definition" />
-    <file type="client" src="zones/comse/comse.definition" />
-    <file type="client" src="zones/fix_land/fix_land.definition" />
-    <file type="client" src="zones/comnbtm/comnbtm.definition" />
-    <file type="client" src="zones/industsw/industsw.definition" />
-    <file type="client" src="zones/landne/landne.definition" />
-    <file type="client" src="zones/trains/trains.definition" />
-    <file type="client" src="zones/airport/airport.definition" />
-    <file type="client" src="zones/int_LC/int_LC.definition" />
-    <file type="client" src="zones/littleha/littleha.definition" />
-    <file type="client" src="zones/docks/docks.definition" />
-    <file type="client" src="zones/fix_com/fix_com.definition" />
-    <file type="client" src="zones/comntop/comntop.definition" />
-    <file type="client" src="zones/subway/subway.definition" />
-    <file type="client" src="zones/industse/industse.definition" />
-    <file type="client" src="zones/lod_land/lod_land.definition" />
-    <file type="client" src="zones/mod_seabed/mod_seabed.definition" />
-    <file type="client" src="zones/islands/islands.definition" />
-    <file type="client" src="zones/industnw/industnw.definition" />
-    <file type="client" src="zones/industne/industne.definition" />
-    <file type="client" src="zones/mod_generic_objects/mod_generic_objects.definition" />
+    <file type="client" src="zones/*/*.map" />
+    <file type="client" src="zones/*/*.definition" />
 
     <file type="client" src="imgs/dff.img" />
     <file type="client" src="imgs/col.img" />

@@ -1,0 +1,37 @@
+
+<config>
+
+	<map texture="radar.png" textureSize="2048" worldSize="6000" />
+
+	<appearance alpha="240" showStats="false" mapColorScale="1.1">
+		<waterColor r="77.3" g="87.1" b="85.1" a="0" />
+		<mapColor r="202" g="140" b="64" />
+	</appearance>
+
+	<artwork iconFolder="images/" arrow="arrow.png" player="2.png" raceStart="53.png" warp="56.png" />
+
+	<sizes defaultBlip="20" playerBlip="25" playerDot="20" arrow="20" marker="20" markerHover="40" />
+
+	<minimap baseWidth="200" baseHeight="200" margin="20" zoom="5" minZoom="2" maxZoom="10" />
+
+	<bigmap margin="20" zoom="2" minZoom="0.2" maxZoom="5" panClamp="3000" />
+
+	<stats barHeight="10" />
+
+	<colors>
+		<raceLineBig   r="255" g="75"  b="0"   a="240" />
+		<raceLineSmall r="0"   g="100" b="255" a="240" />
+		<border        r="0"   g="0"   b="0"   a="255" />
+		<warp          r="255" g="255" b="0" />
+		<marker        r="255" g="255" b="255" a="240" />
+		<hint          r="150" g="150" b="150" a="255" />
+	</colors>
+
+	<keys toggleBigmap="F11"
+	      zoomIn="mouse_wheel_up,+,num_add"
+	      zoomOut="mouse_wheel_down,-,num_sub"
+	      unlockCursor="lctrl" />
+
+	<behaviour radarRadiusOnFoot="180" radarRadiusMaxSpeed="360" minimapZoomSpeed="2.0" warpAltitudeThreshold="100" />
+
+</config>
