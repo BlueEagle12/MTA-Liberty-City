@@ -126,6 +126,7 @@ local function loadConfig()
 			border        = colorChild(nColors, 'border',        { 0, 0, 0, 255 }),
 			warp          = colorChild(nColors, 'warp',          { 255, 255, 0 }),
 			marker        = colorChild(nColors, 'marker',        { 255, 255, 255, 240 }),
+			player        = colorChild(nColors, 'player',        { 255, 165, 0, 255 }),
 			hint          = colorChild(nColors, 'hint',          { 150, 150, 150, 255 }),
 		},
 
