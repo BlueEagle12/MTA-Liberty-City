@@ -455,12 +455,12 @@
     <object id="trafficlight1" posX="-354.622" posY="1314.08" posZ="17.1" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></object>
     <object id="trafficlight1" posX="-383.176" posY="1298.15" posZ="17.1" rotX="0" rotY="-0" rotZ="-89.99987340327"></object>
     <object id="trafficlight1" posX="-511.506" posY="1292.05" posZ="17.1" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-333.461" posY="1314.53" posZ="18.9896" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-310.15" posY="1326.79" posZ="18.9896" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-308.907" posY="1290.41" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
-    <object id="doublestreetlght1" posX="-392.301" posY="1295.17" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
-    <object id="doublestreetlght1" posX="-444.957" posY="1295.35" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
-    <object id="doublestreetlght1" posX="-494.5" posY="1295.35" posZ="18.9896" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-333.461" posY="1314.53" posZ="18.9896" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-310.15" posY="1326.79" posZ="18.9896" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-308.907" posY="1290.41" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-392.301" posY="1295.17" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-444.957" posY="1295.35" posZ="18.9896" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-494.5" posY="1295.35" posZ="18.9896" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></object>
     <object id="dump1" posX="-355.561" posY="914.832" posZ="14.761" rotX="0" rotY="-0" rotZ="-179.99984795992"></object>
     <object id="BlackBag1" posX="-356.268" posY="915.977" posZ="14.161" rotX="0" rotY="-0" rotZ="-112.99983781225"></object>
     <object id="BlackBag2" posX="-355.533" posY="915.875" posZ="14.261" rotX="0" rotY="-0" rotZ="128.00019802807"></object>
@@ -868,4 +868,5 @@
     <building id="billboard01" posX="-461.423" posY="973.2" posZ="32.1407" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018"></building>
     <object id="CJ_T_TICKET" posX="-578.087" posY="1223.55" posZ="23.878" rotX="89.999786790651" rotY="-180" rotZ="-180"></object>
     <object id="CJ_T_TICKET_PED" posX="-576.887" posY="1223.55" posZ="23.878" rotX="89.999786790651" rotY="-180" rotZ="-180"></object>
+    <building id="LODnabuilds08" posX="-371.729004" posY="1006.580017" posZ="34.443001" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

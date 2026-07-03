@@ -132,4 +132,7 @@
     <building id="usbd115" lodParent="LODd115" posX="-2000" posY="1.52588e-05" posZ="-73.0922" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="usbd116" lodParent="LODd116" posX="-2400" posY="1.52588e-05" posZ="-74.0922" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="usbd117" lodParent="LODd117" posX="-2798.16" posY="1.52588e-05" posZ="-94.9007" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="usbd117" lodParent="LODd117" posX="-2798.159912" posY="0.000015" posZ="-94.900703" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="usbd117" lodParent="LODd117" posX="-2798.159912" posY="0.000015" posZ="-94.900703" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="usbd117" lodParent="LODd117" posX="-2798.159912" posY="0.000015" posZ="-94.900703" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

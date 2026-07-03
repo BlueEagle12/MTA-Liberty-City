@@ -284,7 +284,7 @@
     <object id="lamppost2" posX="-1906.195190" posY="1169.235107" posZ="46.299068" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
     <object id="lamppost2" posX="-1849.381226" posY="1168.349976" posZ="49.000000" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
     <object id="lamppost2" posX="-1777.429565" posY="1168.349976" posZ="50.500000" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
-    <object id="lamppost2" posX="-1723.142822" posY="1168.349976" posZ="51.500000" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
+    <object id="lamppost2" posX="-1723.142822" posY="1168.349976" posZ="51.359921" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
     <object id="trafficlight1" posX="-2012.22" posY="1396" posZ="20.85" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="trafficlight1" posX="-2024" posY="1382.75" posZ="20.85" rotX="0" rotY="-0" rotZ="-89.99987340327"></object>
     <object id="trafficlight1" posX="-1992.67" posY="1378.5" posZ="20.85" rotX="0" rotY="-0" rotZ="-0"></object>
@@ -942,8 +942,8 @@
     <building id="plysve_gragedoor" posX="-2461.66" posY="1950.85" posZ="59.751" rotX="0" rotY="-0" rotZ="-89.999923980324"></building>
     <building id="billbrd_frfll" posX="-2421.97" posY="1089.86" posZ="19.6929" rotX="0" rotY="-0" rotZ="-24.999978883392"></building>
     <building id="billbrd_jacar" posX="-2434.63" posY="1194.97" posZ="25.1682" rotX="0" rotY="-0" rotZ="-89.999923980324"></building>
-    <object id="lamppost2" posX="-1535.937866" posY="1168.349976" posZ="51.500000" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
-    <object id="lamppost2" posX="-1431.830200" posY="1168.349976" posZ="51.500000" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
+    <object id="lamppost2" posX="-1535.937866" posY="1168.349976" posZ="51.432171" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
+    <object id="lamppost2" posX="-1431.830200" posY="1168.349976" posZ="49.718334" rotX="0.000" rotY="-0.000" rotZ="-90.000"></object>
     <object id="lamppost2" posX="-2130.449219" posY="1391.161865" posZ="15.847349" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
     <object id="lamppost2" posX="-2130.449219" posY="1412.400513" posZ="15.847349" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
     <object id="lamppost2" posX="-2174.489258" posY="1391.161865" posZ="15.847349" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>

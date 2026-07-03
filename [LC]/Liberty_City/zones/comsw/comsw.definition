@@ -1,6 +1,4 @@
 <zoneDefinitions>
-    <definition dff="DYN_GLASS" drawDistance="30" gtaFlags="0" id="1455" txd="CJ_BAR" zone="comsw"></definition>
-    <definition dff="otb_glass" drawDistance="50" gtaFlags="4" id="14799" txd="gen_offtrackINT" zone="comsw"></definition>
     <definition col="LC_BP" flags="7,21" id="LC_BP" lodDistance="90" txd="billboard" zone="comsw"></definition>
     <definition col="LOD_gazground" flags="8" id="LOD_gazground" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
     <definition col="LOD_land013" flags="8" id="LOD_land013" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
@@ -50,7 +48,6 @@
     <definition col="LODswcentralbld4" flags="8" id="LODswcentralbld4" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
     <definition col="LODswcentralbld5" flags="8" id="LODswcentralbld5" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
     <definition col="LODswcentralbld6" flags="8" id="LODswcentralbld6" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
-    <definition col="LODswcentralbld7" flags="8" id="LODswcentralbld7" lodDistance="800" txd="comsw_lod" zone="comsw"></definition>
     <definition col="LODt_skyscrp1" flags="8" id="LODt_skyscrp1" lodDistance="2000" txd="comsw_lod" zone="comsw"></definition>
     <definition col="LODway_footbridge" flags="8" id="LODway_footbridge" lodDistance="400" txd="comsw_lod" zone="comsw"></definition>
     <definition col="Plakat_MB" flags="" id="Plakat_MB" lodDistance="80" txd="mobatex" zone="comsw"></definition>

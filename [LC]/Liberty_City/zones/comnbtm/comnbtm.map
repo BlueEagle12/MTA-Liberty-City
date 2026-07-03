@@ -651,95 +651,95 @@
     <object id="lamppost2" posX="-1388.75" posY="1266.19" posZ="35.0315" rotX="0" rotY="-0" rotZ="-71.999960566412"></object>
     <object id="lamppost2" posX="-1343.24" posY="1259.04" posZ="38.087" rotX="0" rotY="-0" rotZ="59.000073986821"></object>
     <object id="lamppost2" posX="-1323.11" posY="1217.88" posZ="41.3149" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="lamppost2" posX="-1344.19" posY="1177.55" posZ="44.1452" rotX="0" rotY="-0" rotZ="-51.999977639092"></object>
+    <object id="lamppost2" posX="-1344.189941" posY="1177.550049" posZ="44.317661" rotX="0.000" rotY="-0.000" rotZ="-52.000"></object>
     <object id="phonebooth1" posX="-1403.52" posY="1100.92" posZ="25.96" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
     <object id="phonebooth1" posX="-1433.1" posY="1307.96" posZ="16.012" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1217.32" posY="1133.79" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1238.85" posY="1166.33" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1216.22" posY="1018.94" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1216.22" posY="1062.42" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1216.22" posY="912.12" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1216.22" posY="976.616" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1238.96" posY="1081.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1238.96" posY="1015.28" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1238.96" posY="939.621" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1238.96" posY="894.432" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-990.3" posY="1114.3" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-1174.36" posY="1092.56" posZ="30.1636" rotX="0" rotY="-0" rotZ="90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-1136.22" posY="1114.15" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-1087.3" posY="1128.78" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1108.82" posY="1161.09" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1087.31" posY="1204.54" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1108.83" posY="1236.85" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1087.31" posY="1268.42" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1108.83" posY="1310.96" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1087.31" posY="1341.55" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1108.83" posY="1373.86" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1463.98" posY="1246.14" posZ="19.5039" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1442.46" posY="1287.94" posZ="20.0226" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1463.98" posY="1336.03" posZ="19.9654" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1442.46" posY="1377.83" posZ="19.965" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1401.55" posY="1387.89" posZ="20.0681" rotX="0" rotY="-0" rotZ="85.999943380117"></object>
-    <object id="doublestreetlght1" posX="-1298.51" posY="1387.63" posZ="20.0132" rotX="0" rotY="-0" rotZ="85.999943380117"></object>
-    <object id="doublestreetlght1" posX="-1035.14" posY="1172.96" posZ="28.25" rotX="0" rotY="-0" rotZ="89.99987340327"></object>
-    <object id="doublestreetlght1" posX="-1003.6" posY="1184.31" posZ="25.2869" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-1151.38" posY="1004.17" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
-    <object id="doublestreetlght1" posX="-1183.01" posY="940.687" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
-    <object id="doublestreetlght1" posX="-1115.12" posY="1076.35" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="984.196" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1346.19" posY="945.536" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="908.54" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="1089.4" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1346.19" posY="1050.74" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="1013.74" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1346.19" posY="1140.94" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1213.98" posY="1238.62" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
-    <object id="doublestreetlght1" posX="-1193.32" posY="1278.71" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
-    <object id="doublestreetlght1" posX="-1172.86" posY="1319.18" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
-    <object id="doublestreetlght1" posX="-1153.08" posY="1358.58" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
-    <object id="doublestreetlght1" posX="-1028.44" posY="1092.7" posZ="30.1636" rotX="0" rotY="-0" rotZ="90.000035460221"></object>
-    <object id="doublestreetlght1" posX="-1109.78" posY="1043.98" posZ="30.2199" rotX="0" rotY="-0" rotZ="153.00004228009"></object>
-    <object id="doublestreetlght1" posX="-1172.93" posY="917.295" posZ="30.2199" rotX="0" rotY="-0" rotZ="153.00004228009"></object>
-    <object id="doublestreetlght1" posX="-1368.87" posY="1217.01" posZ="26.5948" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1212.91" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
-    <object id="doublestreetlght1" posX="-1235.64" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
-    <object id="doublestreetlght1" posX="-1262.73" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
-    <object id="doublestreetlght1" posX="-1292.04" posY="1264.35" posZ="28.6861" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
-    <object id="doublestreetlght1" posX="-1317.37" posY="1264.35" posZ="26.1491" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
-    <object id="doublestreetlght1" posX="-982.413" posY="968.645" posZ="30.7473" rotX="0" rotY="-0" rotZ="172.00000714649"></object>
-    <object id="doublestreetlght1" posX="-987.753" posY="1021.44" posZ="36.3212" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-956.077" posY="1021.44" posZ="36.3212" rotX="0" rotY="-0" rotZ="155.99999605573"></object>
-    <object id="doublestreetlght1" posX="-928.307" posY="1076.13" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
-    <object id="doublestreetlght1" posX="-959.982" posY="1076.13" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-897.859" posY="1137.7" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
-    <object id="doublestreetlght1" posX="-929.535" posY="1137.7" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-863.102" posY="1207" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
-    <object id="doublestreetlght1" posX="-894.778" posY="1207" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-829.963" posY="1272.71" posZ="33.5208" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
-    <object id="doublestreetlght1" posX="-861.639" posY="1272.71" posZ="33.5208" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-790.168" posY="1352.23" posZ="25.5403" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
-    <object id="doublestreetlght1" posX="-821.844" posY="1352.23" posZ="25.5403" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
-    <object id="doublestreetlght1" posX="-917.263" posY="1079.23" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-917.263" posY="1013.39" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-948.812" posY="1014.38" posZ="29.9459" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-948.812" posY="943.785" posZ="29.9459" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-917.263" posY="942.789" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
-    <object id="doublestreetlght1" posX="-1014.23" posY="968.645" posZ="30.7473" rotX="0" rotY="-0" rotZ="-110.50000169838"></object>
-    <object id="doublestreetlght1" posX="-899.018" posY="1076.64" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
-    <object id="doublestreetlght1" posX="-899.018" posY="1116.32" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
-    <object id="doublestreetlght1" posX="-898.948" posY="1149.36" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="1054.38" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1368.93" posY="1152.43" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1465.59" posY="1215.24" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1465.59" posY="1164.93" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1465.59" posY="1118.1" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1465.59" posY="1070.57" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1463.74" posY="1016.3" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1460.9" posY="982.803" posZ="20.8899" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1455.62" posY="937.677" posZ="20.3702" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="doublestreetlght1" posX="-1365.43" posY="1295.47" posZ="22.8049" rotX="0" rotY="-0" rotZ="-8.4999995781046"></object>
-    <object id="doublestreetlght1" posX="-1349.87" posY="1326.69" posZ="21.9582" rotX="0" rotY="-0" rotZ="171.49999419342"></object>
-    <object id="doublestreetlght1" posX="-1355.28" posY="1374.17" posZ="20.4264" rotX="0" rotY="-0" rotZ="-5.0000003486085"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1217.32" posY="1133.79" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1238.85" posY="1166.33" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1216.22" posY="1018.94" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1216.22" posY="1062.42" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1216.22" posY="912.12" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1216.22" posY="976.616" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1238.96" posY="1081.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1238.96" posY="1015.28" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1238.96" posY="939.621" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1238.96" posY="894.432" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-990.3" posY="1114.3" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1174.36" posY="1092.56" posZ="30.1636" rotX="0" rotY="-0" rotZ="90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1136.22" posY="1114.15" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1087.3" posY="1128.78" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1108.82" posY="1161.09" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1087.31" posY="1204.54" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1108.83" posY="1236.85" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1087.31" posY="1268.42" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1108.83" posY="1310.96" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1087.31" posY="1341.55" posZ="30.2526" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1108.83" posY="1373.86" posZ="30.2301" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1463.98" posY="1246.14" posZ="19.5039" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1442.46" posY="1287.94" posZ="20.0226" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1463.98" posY="1336.03" posZ="19.9654" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1442.46" posY="1377.83" posZ="19.965" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1401.55" posY="1387.89" posZ="20.0681" rotX="0" rotY="-0" rotZ="85.999943380117"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1298.51" posY="1387.63" posZ="20.0132" rotX="0" rotY="-0" rotZ="85.999943380117"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1035.14" posY="1172.96" posZ="28.25" rotX="0" rotY="-0" rotZ="89.99987340327"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1003.6" posY="1184.31" posZ="25.2869" rotX="0" rotY="-0" rotZ="-90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1151.38" posY="1004.17" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1183.01" posY="940.687" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1115.12" posY="1076.35" posZ="30.2199" rotX="0" rotY="-0" rotZ="-26.999956935658"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="984.196" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1346.19" posY="945.536" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="908.54" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="1089.4" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1346.19" posY="1050.74" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="1013.74" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1346.19" posY="1140.94" posZ="30.1636" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1213.98" posY="1238.62" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1193.32" posY="1278.71" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1172.86" posY="1319.18" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1153.08" posY="1358.58" posZ="30.1636" rotX="0" rotY="-0" rotZ="-19.000054098128"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1028.44" posY="1092.7" posZ="30.1636" rotX="0" rotY="-0" rotZ="90.000035460221"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1109.78" posY="1043.98" posZ="30.2199" rotX="0" rotY="-0" rotZ="153.00004228009"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1172.93" posY="917.295" posZ="30.2199" rotX="0" rotY="-0" rotZ="153.00004228009"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.87" posY="1217.01" posZ="26.5948" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1212.91" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1235.64" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1262.73" posY="1264.35" posZ="30.1636" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1292.04" posY="1264.35" posZ="28.6861" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1317.37" posY="1264.35" posZ="26.1491" rotX="0" rotY="-0" rotZ="-90.999927596765"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-982.413" posY="968.645" posZ="30.7473" rotX="0" rotY="-0" rotZ="172.00000714649"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-987.753" posY="1021.44" posZ="36.3212" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-956.077" posY="1021.44" posZ="36.3212" rotX="0" rotY="-0" rotZ="155.99999605573"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-928.307" posY="1076.13" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-959.982" posY="1076.13" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-897.859" posY="1137.7" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-929.535" posY="1137.7" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-863.102" posY="1207" posZ="39.9275" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-894.778" posY="1207" posZ="39.9275" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-829.963" posY="1272.71" posZ="33.5208" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-861.639" posY="1272.71" posZ="33.5208" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-790.168" posY="1352.23" posZ="25.5403" rotX="0" rotY="-0" rotZ="165.00002724395"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-821.844" posY="1352.23" posZ="25.5403" rotX="0" rotY="-0" rotZ="-11.999947276437"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-917.263" posY="1079.23" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-917.263" posY="1013.39" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-948.812" posY="1014.38" posZ="29.9459" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-948.812" posY="943.785" posZ="29.9459" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-917.263" posY="942.789" posZ="29.9459" rotX="0" rotY="-0" rotZ="-180"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1014.23" posY="968.645" posZ="30.7473" rotX="0" rotY="-0" rotZ="-110.50000169838"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-899.018" posY="1076.64" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-899.018" posY="1116.32" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-898.948" posY="1149.36" posZ="20.2867" rotX="0" rotY="-0" rotZ="1.7302867046715e-05"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="1054.38" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1368.93" posY="1152.43" posZ="30.1636" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1465.59" posY="1215.24" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1465.59" posY="1164.93" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1465.59" posY="1118.1" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1465.59" posY="1070.57" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1463.74" posY="1016.3" posZ="19.9691" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1460.9" posY="982.803" posZ="20.8899" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1455.62" posY="937.677" posZ="20.3702" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1365.43" posY="1295.47" posZ="22.8049" rotX="0" rotY="-0" rotZ="-8.4999995781046"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1349.87" posY="1326.69" posZ="21.9582" rotX="0" rotY="-0" rotZ="171.49999419342"></object>
+    <object id="doublestreetlght1" overrideFlags="double_sided" posX="-1355.28" posY="1374.17" posZ="20.4264" rotX="0" rotY="-0" rotZ="-5.0000003486085"></object>
     <building id="com_land095" lodParent="Self" posX="-778.502" posY="1383.17" posZ="15.1251" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="Objekt_repair50" posX="-1198.21" posY="913.475" posZ="15.125" rotX="0" rotY="-0" rotZ="-179.99984796107"></building>
     <building id="Objekt_repair50" posX="-1228.21" posY="913.475" posZ="15.125" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972"></building>
@@ -766,6 +766,4 @@
     <object id="Gen_doorEXT03" posX="-1110.244" posY="1035.08" posZ="25.03" rotX="0" rotY="-0" rotZ="-115.99990201899"></object>
     <object id="Gen_doorEXT16" posX="-957.703" posY="1386.122" posZ="20.033" rotX="0" rotY="-0" rotZ="135.00019004938"></object>
     <object id="Gen_doorEXT16" posX="-956.642" posY="1385.062" posZ="20.033" rotX="0" rotY="-0" rotZ="135.00019004938"></object>
-    <object id="door3_garage" posX="-1370.305908" posY="1575.093628" posZ="30.105610" rotX="0.000" rotY="0.000" rotZ="0.000"></object>
-    <object id="door3_garage" posX="-1365.875366" posY="1575.093628" posZ="30.105610" rotX="0.000" rotY="0.000" rotZ="0.000"></object>
 </map>

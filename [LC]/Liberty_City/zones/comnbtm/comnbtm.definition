@@ -119,6 +119,7 @@
     <definition col="door_bombshop" flags="11,21" id="door_bombshop" lodDistance="170" txd="tenblocknrcp" zone="comnbtm"></definition>
     <definition col="door_jmsgrage" flags="21" id="door_jmsgrage" lodDistance="180" txd="comhilo3b" zone="comnbtm"></definition>
     <definition col="door_sfehousegrge" flags="" id="door_sfehousegrge" lodDistance="120" txd="comhilo3b" zone="comnbtm"></definition>
+    <override flags="disable_backface_culling" id="doublestreetlght1" />
     <definition col="firestation" flags="" id="firestation" lodDistance="150" txd="tenblock6aa" zone="comnbtm"></definition>
     <definition col="flatiron1" flags="21" id="flatiron1" lodDistance="150" txd="comshopinc" zone="comnbtm"></definition>
     <definition col="flatiron1b" flags="2,21" id="flatiron1b" lodDistance="150" txd="flatiron1b" zone="comnbtm"></definition>

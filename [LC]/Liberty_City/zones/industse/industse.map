@@ -400,7 +400,7 @@
     <building id="westpostsign" posX="-251.86" posY="838.934" posZ="18" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="hghwysgn02" posX="-255.53" posY="835.771" posZ="18.3863" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
     <building id="rdsign17" posX="-256.29" posY="836.091" posZ="22.0741" rotX="89.927738227359" rotY="-180" rotZ="-180"></building>
-    <building id="rdsign15" posX="-260.62" posY="741.19" posZ="20.7867" rotX="89.999837944856" rotY="90" rotZ="-180"></building>
+    <building id="rdsign15" posX="-260.619995" posY="741.190002" posZ="20.786699" rotX="90.000" rotY="0.000" rotZ="270.000"></building>
     <building id="hghwysgn02" posX="-263.76" posY="751.04" posZ="18.2345" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="hghwysgn02" posX="-271.52" posY="733.33" posZ="18.2345" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
     <building id="hghwysgn02" posX="-249.72" posY="743.72" posZ="18.2345" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
