@@ -19,16 +19,16 @@
     <building id="LOD_mainten2b" posX="-205.29" posY="1631.17" posZ="21.9598" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODtoryf_walls1" posX="-259.4" posY="1754.12" posZ="6.48045" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODn_baker01" posX="-245.99" posY="1561.35" posZ="14.548" rotX="89.574606292842" rotY="-179.99314752401" rotZ="90.156234677149"></building>
-    <building id="LOD_newtenement04" posX="-119.23" posY="1570.37" posZ="37.4761" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LOD_newtenement02" posX="-119.24" posY="1612.51" posZ="38.2725" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LOD_newtenement04" posX="-119.23" posY="1570.37" posZ="37.4761" rotX="0" rotY="-0" rotZ="-0" uniqueID="105"></building>
+    <building id="LOD_newtenement02" posX="-119.24" posY="1612.51" posZ="38.2725" rotX="0" rotY="-0" rotZ="-0" uniqueID="95"></building>
     <building id="LOD_newtenement02" posX="-119.24" posY="1532.51" posZ="38.7162" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LOD_newtenement02" posX="-119.26" posY="1321.5" posZ="38.5298" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
-    <building id="LOD_newtenement01" posX="-19.25" posY="1472" posZ="56.3186" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LOD_newtenement01" posX="-19.25" posY="1472" posZ="56.3186" rotX="0" rotY="-0" rotZ="-0" uniqueID="86"></building>
     <building id="LOD_newtenement01" posX="-69.26" posY="1322.24" posZ="46.5615" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LOD_newtenement01" posX="-19.21" posY="1532.25" posZ="56.4386" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="LOD_newtenement01" posX="-69.23" posY="1612.24" posZ="45.7399" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
     <building id="LOD_newtenement01" posX="-69.23" posY="1532.24" posZ="46.2881" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
-    <building id="LOD_newtenement03" posX="-19.19" posY="1429.79" posZ="54.0033" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LOD_newtenement03" posX="-19.19" posY="1429.79" posZ="54.0033" rotX="0" rotY="-0" rotZ="-0" uniqueID="97"></building>
     <building id="LOD_newtenement03" posX="-19.07" posY="1500.31" posZ="54.9838" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LOD_newtenement03" posX="-69.15" posY="1569.86" posZ="44.1677" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="LOD_newtenement03" posX="-68.89" posY="1429.73" posZ="44.5091" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -38,10 +38,10 @@
     <building id="LOD_newtenement04" posX="-189.15" posY="1360.51" posZ="31.9686" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
     <building id="LOD_newtenement04" posX="-240.02" posY="1551.17" posZ="27.6526" rotX="0" rotY="-0" rotZ="-90.000035460221" uniqueID="5"></building>
     <building id="LOD_newtenement04" posX="-240.11" posY="1631.17" posZ="22.7259" rotX="0" rotY="-0" rotZ="-90.000035460221" uniqueID="6"></building>
-    <building id="LODn_block01" posX="43.44" posY="1431.18" posZ="53.7457" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODn_block01" posX="43.44" posY="1431.18" posZ="53.7457" rotX="0" rotY="-0" rotZ="-0" uniqueID="106"></building>
     <building id="LODn_block01" posX="43.45" posY="1381.18" posZ="54.0047" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LODn_block01" posX="43.45" posY="1471.18" posZ="53.7709" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
-    <building id="LODn_hoteltop" posX="43.45" posY="1441.18" posZ="54.1921" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODn_hoteltop" posX="43.45" posY="1441.18" posZ="54.1921" rotX="0" rotY="-0" rotZ="-0" uniqueID="108"></building>
     <building id="LODn_hoteltop" posX="43.44" posY="1401.18" posZ="54.1668" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LODn_hoteltop" posX="43.44" posY="1391.18" posZ="54.1668" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="LODn_hoteltop" posX="43.46" posY="1481.18" posZ="54.1344" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -71,7 +71,7 @@
     <building id="LOD_land058" posX="172.28" posY="1587.53" posZ="3.51156" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_firetower" posX="-258.8" posY="1704.55" posZ="7.48455" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODe_platform" posX="-259.2" posY="1730.98" posZ="6.55374" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODn_block06" posX="-276.54" posY="1651.18" posZ="9.15455" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building id="LODn_block06" posX="-276.54" posY="1651.18" posZ="9.15455" rotX="0" rotY="-0" rotZ="-180" uniqueID="107"></building>
     <building id="LODn_alleygun" posX="-259.27" posY="1401.17" posZ="18.318" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODbakland" posX="-92.35" posY="1485.94" posZ="32.7328" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODn_block07" posX="-209.19" posY="1489.55" posZ="15.888" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -83,7 +83,7 @@
     <building id="LODbigbuild" posX="-260.98" posY="1459.44" posZ="39.8353" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_newrizzos" posX="-134.54" posY="1490.64" posZ="35.8076" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_newtenement06" posX="-119.33" posY="1471.98" posZ="38.2237" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODage_oddjob" posX="-0.39" posY="1484.71" posZ="52.8188" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODage_oddjob" posX="-0.39" posY="1484.71" posZ="52.8188" rotX="0" rotY="-0" rotZ="-0" uniqueID="38"></building>
     <building id="LOD_land063i" posX="-19.99" posY="1557.02" posZ="43.3938" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODn_club01" posX="-35.14" posY="1341.07" posZ="48.497" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_land089a" posX="-15.75" posY="1743.7" posZ="23.8994" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -94,7 +94,7 @@
     <building id="LOD_land100" posX="-69.23" posY="1389.45" posZ="36.4464" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_newtenement02" posX="-189.24" posY="1321.17" posZ="33.4917" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
     <building id="LOD_land033" posX="133.46" posY="1753.52" posZ="3.49552" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lod_fix_ne_01" posX="-259.987" posY="1490.857" posZ="18.5" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="lod_fix_ne_01" posX="-259.987" posY="1490.857" posZ="18.5" rotX="0" rotY="-0" rotZ="-0" uniqueID="100"></building>
     <building id="LOD_land069" posX="-259.03" posY="1623.23" posZ="10.9698" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_land063" posX="-19.99" posY="1557.02" posZ="42.4574" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_tendragblk2" lodParent="LOD_tendragblk2" posX="-119.08" posY="1253.83" posZ="38.0755" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -117,16 +117,16 @@
     <building id="ind_mainten2b" lodParent="LOD_mainten2b" posX="-205.29" posY="1631.17" posZ="23.732" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
     <building id="factoryf_walls1" lodParent="LODtoryf_walls1" posX="-259.4" posY="1754.12" posZ="6.48045" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="iten_baker01" lodParent="LODn_baker01" posX="-245.99" posY="1561.35" posZ="14.548" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="objekt_repair03" lodParent="LOD_newtenement04" posX="-119.23" posY="1570.37" posZ="37.4761" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="ind_newtenement02" lodParent="LOD_newtenement02" posX="-119.24" posY="1612.51" posZ="38.2725" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="objekt_repair03" lodParent="LOD_newtenement04" posX="-119.23" posY="1570.37" posZ="37.4761" rotX="0" rotY="-0" rotZ="-0" uniqueID="105"></building>
+    <building id="ind_newtenement02" lodParent="LOD_newtenement02" posX="-119.24" posY="1612.51" posZ="38.2725" rotX="0" rotY="-0" rotZ="-0" uniqueID="95"></building>
     <building id="ind_newtenement02" lodParent="LOD_newtenement02" posX="-119.24" posY="1532.51" posZ="38.7162" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="ind_newtenement02" lodParent="LOD_newtenement02" posX="-119.26" posY="1321.5" posZ="38.5298" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
-    <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-19.25" posY="1472" posZ="56.3186" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-19.25" posY="1472" posZ="56.3186" rotX="0" rotY="-0" rotZ="-0" uniqueID="86"></building>
     <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-69.26" posY="1322.33" posZ="46.4096" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-19.21" posY="1532.25" posZ="56.4386" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-69.23" posY="1612.24" posZ="45.7399" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
     <building id="ind_newtenement01" lodParent="LOD_newtenement01" posX="-69.23" posY="1532.24" posZ="46.2881" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
-    <building id="ind_newtenement03" lodParent="LOD_newtenement03" posX="-19.07" posY="1429.95" posZ="53.8242" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ind_newtenement03" lodParent="LOD_newtenement03" posX="-19.07" posY="1429.95" posZ="53.8242" rotX="0" rotY="-0" rotZ="-0" uniqueID="97"></building>
     <building id="ind_newtenement03" lodParent="LOD_newtenement03" posX="-19.06" posY="1499.97" posZ="54.3303" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="ind_newtenement03" lodParent="LOD_newtenement03" posX="-69.09" posY="1569.98" posZ="43.8691" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="ind_newtenement03" lodParent="LOD_newtenement03" posX="-69.09" posY="1429.96" posZ="43.9188" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -136,10 +136,10 @@
     <building id="objekt_repair03" lodParent="LOD_newtenement04" posX="-189.21" posY="1360.37" posZ="32.147" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
     <building id="objekt_repair03" lodParent="LOD_newtenement04" posX="-240.02" posY="1551.17" posZ="27.6526" rotX="0" rotY="-0" rotZ="-89.99987340327" uniqueID="5"></building>
     <building id="objekt_repair03" lodParent="LOD_newtenement04" posX="-240.02" posY="1631.17" posZ="22.7259" rotX="0" rotY="-0" rotZ="-89.99987340327" uniqueID="6"></building>
-    <building id="iten_block01" lodParent="LODn_block01" posX="43.44" posY="1431.18" posZ="53.7709" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="iten_block01" lodParent="LODn_block01" posX="43.44" posY="1431.18" posZ="53.7709" rotX="0" rotY="-0" rotZ="-0" uniqueID="106"></building>
     <building id="iten_block01" lodParent="LODn_block01" posX="43.45" posY="1381.18" posZ="54.0047" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="iten_block01" lodParent="LODn_block01" posX="43.45" posY="1471.18" posZ="53.7709" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
-    <building id="iten_hoteltop" lodParent="LODn_hoteltop" posX="43.45" posY="1441.18" posZ="54.1334" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="iten_hoteltop" lodParent="LODn_hoteltop" posX="43.45" posY="1441.18" posZ="54.1334" rotX="0" rotY="-0" rotZ="-0" uniqueID="108"></building>
     <building id="iten_hoteltop" lodParent="LODn_hoteltop" posX="43.44" posY="1401.18" posZ="54.1334" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="iten_hoteltop" lodParent="LODn_hoteltop" posX="43.44" posY="1391.18" posZ="54.1334" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="iten_hoteltop" lodParent="LODn_hoteltop" posX="43.46" posY="1481.18" posZ="54.1334" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -169,7 +169,7 @@
     <building id="ind_land058" lodParent="LOD_land058" posX="172.28" posY="1587.53" posZ="3.51156" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ser_firetower" lodParent="LOD_firetower" posX="-258.8" posY="1704.55" posZ="8.01607" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="fire_platform" lodParent="LODe_platform" posX="-259.2" posY="1730.98" posZ="6.55374" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="iten_block06" lodParent="LODn_block06" posX="-276.54" posY="1651.18" posZ="9.15455" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180"></building>
+    <building id="iten_block06" lodParent="LODn_block06" posX="-276.54" posY="1651.18" posZ="9.15455" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="107"></building>
     <building id="iten_alleygun" lodParent="LODn_alleygun" posX="-259.27" posY="1401.17" posZ="18.318" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="indbakland" lodParent="LODbakland" posX="-92.35" posY="1485.94" posZ="32.7328" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="iten_block07" lodParent="LODn_block07" posX="-209.19" posY="1489.55" posZ="15.888" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -181,7 +181,7 @@
     <building id="indbigbuild" lodParent="LODbigbuild" posX="-260.98" posY="1459.44" posZ="40.8626" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_newrizzos" lodParent="LOD_newrizzos" posX="-134.54" posY="1490.64" posZ="35.8076" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_newtenement06" lodParent="LOD_newtenement06" posX="-119.33" posY="1471.98" posZ="38.2237" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="garage_oddjob" lodParent="LODage_oddjob" posX="-0.39" posY="1483.99" posZ="52.8188" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="garage_oddjob" lodParent="LODage_oddjob" posX="-0.39" posY="1483.99" posZ="52.8188" rotX="0" rotY="-0" rotZ="-0" uniqueID="38"></building>
     <building id="ind_land063i" lodParent="LOD_land063i" posX="-19.99" posY="1557.02" posZ="43.3938" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="iten_club01" lodParent="LODn_club01" posX="-19.596" posY="1337.1" posZ="50.547" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_land089a" lodParent="LOD_land089a" posX="-15.75" posY="1743.7" posZ="23.8994" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
@@ -192,7 +192,7 @@
     <building id="Marco_New" lodParent="LOD_land100" posX="-69.2316" posY="1376.6" posZ="37.4313" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="objekt_repair19" lodParent="LOD_newtenement02" posX="-189.23" posY="1321.5" posZ="33.5253" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></building>
     <building id="objekt_repair12" lodParent="LOD_land033" posX="133.45" posY="1753.52" posZ="3.49552" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="fix_ne_01" lodParent="lod_fix_ne_01" posX="-259.987" posY="1490.857" posZ="18.5" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="fix_ne_01" lodParent="lod_fix_ne_01" posX="-259.987" posY="1490.857" posZ="18.5" rotX="0" rotY="-0" rotZ="-0" uniqueID="100"></building>
     <building id="ind_land120" lodParent="LOD_land069" posX="-258.026" posY="1631.72" posZ="13.604" rotX="0" rotY="-0" rotZ="90.0002280593"></building>
     <building id="rd_road2c50" posX="-69.23" posY="1451.18" posZ="28.7829" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
     <building id="iten_alleysteps" posX="-20.48" posY="1340.58" posZ="49.46" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>

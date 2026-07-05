@@ -54,7 +54,7 @@
     <definition col="doc_floodlite" flags="7,15,21" id="doc_floodlite" lodDistance="150" txd="docklightLC" zone="industnw"></definition>
     <definition col="door_fucked" flags="" id="door_fucked" lodDistance="100" txd="wood" zone="industnw"></definition>
     <definition col="f_escape_side1" flags="2" id="f_escape_side1" lodDistance="150" txd="fire_esc" zone="industnw"></definition>
-    <definition col="glassfx55" flags="2,10,21" id="glassfx55" lodDistance="150" txd="nipple" zone="industnw"></definition>
+    <definition col="glassfx55" flags="2,10,21,is_damagable" id="glassfx55" is_damagable="true" lodDistance="150" txd="nipple" zone="industnw"></definition>
     <definition col="ind_customroad008" flags="" id="ind_customroad008" lodDistance="240" txd="gen_lc" zone="industnw"></definition>
     <definition col="ind_customroad009" flags="" id="ind_customroad009" lodDistance="240" txd="gen_lc" zone="industnw"></definition>
     <definition col="ind_customroad010" flags="" id="ind_customroad010" lodDistance="240" txd="gen_lc" zone="industnw"></definition>

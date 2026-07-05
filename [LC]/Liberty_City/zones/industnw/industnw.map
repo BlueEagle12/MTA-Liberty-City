@@ -25,7 +25,7 @@
     <building id="LODhibuild9" posX="-326.93" posY="1455.38" posZ="21.9836" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODercenter" posX="-398.198" posY="1510.28" posZ="28.1929" rotX="0" rotY="-0" rotZ="-117.00000090072"></building>
     <building id="LOD_land101" posX="-476.698" posY="1598.39" posZ="3.75377" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODehouse1z" posX="-398.055" posY="1738.06" posZ="10.6537" rotX="0" rotY="-0" rotZ="90.000035460221"></building>
+    <building id="LODehouse1z" posX="-398.055" posY="1738.06" posZ="10.6537" rotX="0" rotY="-0" rotZ="90.000035460221" uniqueID="94"></building>
     <building id="LOD_land150" posX="-524.278" posY="1944.24" posZ="-8.21429" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_inland667" posX="-542.665" posY="2002.41" posZ="-6.32405" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODNcoast6" posX="-439.588" posY="1997.5" posZ="-3.82403" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -41,7 +41,7 @@
     <building id="LODbntrnce_b" posX="-341.87" posY="1326.17" posZ="9.50721" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODilsteps" posX="-298.62" posY="1667.15" posZ="14.3798" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="bmxparkLOD" posX="-486.221" posY="1396.14" posZ="13.2457" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODtowerflat" posX="-350.971" posY="1670.46" posZ="26.3105" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODtowerflat" posX="-350.971" posY="1670.46" posZ="26.3105" rotX="0" rotY="-0" rotZ="-0" uniqueID="92"></building>
     <building id="LODtowerflat" posX="-400.159" posY="1675.1" posZ="26.3105" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="LODtowerflat" posX="-476.12" posY="1619.29" posZ="26.3105" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="LODtowerflat" posX="-477.067" posY="1560.14" posZ="26.3105" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -71,7 +71,7 @@
     <building id="indhibuild9" lodParent="LODhibuild9" posX="-326.93" posY="1455.38" posZ="21.9836" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="towercenter" lodParent="LODercenter" posX="-398.321" posY="1510.32" posZ="28.1929" rotX="-6.9025100178875e-05" rotY="0.00028750799108941" rotZ="-117.00019218844"></building>
     <building id="ind_land101" lodParent="LOD_land101" posX="-476.698" posY="1598.39" posZ="3.75377" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="warehouse1z" lodParent="LODehouse1z" posX="-398.38" posY="1738.58" posZ="10.6537" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
+    <building id="warehouse1z" lodParent="LODehouse1z" posX="-398.38" posY="1738.58" posZ="10.6537" rotX="0" rotY="-0" rotZ="90.000197517502" uniqueID="94"></building>
     <building id="ind_land150" lodParent="LOD_land150" posX="-524.278" posY="1944.24" posZ="-8.21429" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_inland667" lodParent="LOD_inland667" posX="-542.665" posY="2002.41" posZ="-6.32405" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="indncoast6" lodParent="LODNcoast6" posX="-439.588" posY="1997.5" posZ="-3.82403" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -87,7 +87,7 @@
     <building id="isubntrnce_b" lodParent="LODbntrnce_b" posX="-341.87" posY="1326.17" posZ="9.50721" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nrailsteps" lodParent="LODilsteps" posX="-298.62" posY="1667.15" posZ="14.3798" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="bmxpark" lodParent="bmxparkLOD" posX="-486.221" posY="1396.14" posZ="13.2457" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="towerflat_block" lodParent="LODtowerflat" posX="-351.16" posY="1670.43" posZ="26.311" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="towerflat_block" lodParent="LODtowerflat" posX="-351.16" posY="1670.43" posZ="26.311" rotX="0" rotY="-0" rotZ="-0" uniqueID="92"></building>
     <building id="towerflat_block" lodParent="LODtowerflat" posX="-400.283" posY="1675.03" posZ="26.311" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="towerflat_block" lodParent="LODtowerflat" posX="-476.193" posY="1619.32" posZ="26.34" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="towerflat_block" lodParent="LODtowerflat" posX="-477.077" posY="1560.2" posZ="26.311" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>

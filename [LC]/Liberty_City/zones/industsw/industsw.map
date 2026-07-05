@@ -1,6 +1,6 @@
 <map>
     <info name="MTA:SA Eagle Edit" author="MTA:SA Eagle Edit" version="1.0"></info>
-    <building id="LODnabuilds08" posX="-371.729" posY="1006.58" posZ="34.443" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODnabuilds08" posX="-371.729" posY="1006.58" posZ="34.443" rotX="0" rotY="-0" rotZ="-0" uniqueID="34"></building>
     <building id="LODnabuilds05" posX="-391.711" posY="1144.5" posZ="34.02" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODnaquadhouse" posX="-481.73" posY="1136.18" posZ="22.608" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODnabuildnew1" posX="-391.729" posY="1266.21" posZ="23.5" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -41,17 +41,17 @@
     <building id="LODrpassind" posX="-536.298" posY="1238.96" posZ="18.2528" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODilstepswest0" posX="-577.04" posY="1193.96" posZ="19.3769" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODhfctory" posX="-371" posY="678" posZ="13.1759" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
-    <building id="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0" uniqueID="36"></building>
     <building id="LODridgcabls01" posX="-824.638" posY="875.763" posZ="67.0719" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
     <building id="LODbilbridge1" posX="-345" posY="816.667" posZ="13.8699" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODbridgeroad" posX="-492.531" posY="866.173" posZ="30.5095" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODbridgeroadb" posX="-374.185" posY="866.173" posZ="17.9863" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODridgerda" posX="-647.235" posY="880.025" posZ="38.7341" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODridgerda" posX="-647.235" posY="880.025" posZ="38.7341" rotX="0" rotY="-0" rotZ="-0" uniqueID="55"></building>
     <building id="LODridgerda" posX="-820.977" posY="859.89" posZ="38.7344" rotX="0" rotY="-0" rotZ="-180" uniqueID="1"></building>
-    <building id="LODridgerdb" posX="-647.235" posY="860.025" posZ="38.7341" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODridgerdb" posX="-647.235" posY="860.025" posZ="38.7341" rotX="0" rotY="-0" rotZ="-0" uniqueID="87"></building>
     <building id="LODridgerdb" posX="-820.977" posY="879.89" posZ="38.7344" rotX="0" rotY="-0" rotZ="-180" uniqueID="1"></building>
     <building id="chinabuilds07" lodParent="LODnabuilds07" posX="-339.52" posY="1080.94" posZ="25.83" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="chinabuilds08" lodParent="LODnabuilds08" posX="-371.729" posY="1006.58" posZ="34.443" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="chinabuilds08" lodParent="LODnabuilds08" posX="-371.729" posY="1006.58" posZ="34.443" rotX="0" rotY="-0" rotZ="-0" uniqueID="34"></building>
     <building id="chinabuilds05" lodParent="LODnabuilds05" posX="-391.711" posY="1144.5" posZ="34.02" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="chinaquadhouse" lodParent="LODnaquadhouse" posX="-481.73" posY="1136.18" posZ="22.608" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="chinabuildnew1" lodParent="LODnabuildnew1" posX="-391.729" posY="1266.21" posZ="23.5" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -92,9 +92,9 @@
     <building id="overpassind" lodParent="LODrpassind" posX="-536.298" posY="1238.96" posZ="18.2528" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nrailstepswest" lodParent="LODilstepswest0" posX="-577.04" posY="1193.96" posZ="19.309" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="fishfctory" lodParent="LODhfctory" posX="-371" posY="678" posZ="13.1759" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
-    <building id="nbbridgcabls01" lodParent="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbbridgcabls01" lodParent="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0" uniqueID="36"></building>
     <building id="nbbridgcabls01" lodParent="LODridgcabls01" posX="-824.638" posY="875.763" posZ="67.0719" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
-    <building id="nbbridgcabls01_nt" lodParent="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbbridgcabls01_nt" lodParent="LODridgcabls01" posX="-643.574" posY="863.184" posZ="67.0716" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="nbbridgcabls01_nt" lodParent="LODridgcabls01" posX="-824.638" posY="875.763" posZ="67.0719" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
     <building id="indbilbridge1" lodParent="LODbilbridge1" posX="-345" posY="816.667" posZ="13.8699" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_brgrd1way" lodParent="LODbridgeroad" posX="-349.17" posY="851.169" posZ="15.1675" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -107,9 +107,9 @@
     <building id="ind_customroad004" lodParent="LODbridgeroadb" posX="-543.398" posY="880.283" posZ="34.5564" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_customroad003" lodParent="LODbridgeroadb" posX="-543.485" posY="858.187" posZ="34.5484" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ind_customroad060" lodParent="LODbridgeroadb" posX="-499.179" posY="852.862" posZ="30.1686" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="nbbridgerda" lodParent="LODridgerda" posX="-647.238" posY="880.025" posZ="38.7338" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbbridgerda" lodParent="LODridgerda" posX="-647.238" posY="880.025" posZ="38.7338" rotX="0" rotY="-0" rotZ="-0" uniqueID="55"></building>
     <building id="nbbridgerda" lodParent="LODridgerda" posX="-820.977" posY="859.89" posZ="38.7342" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
-    <building id="nbbridgerdb" lodParent="LODridgerdb" posX="-647.235" posY="860.025" posZ="38.7339" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbbridgerdb" lodParent="LODridgerdb" posX="-647.235" posY="860.025" posZ="38.7339" rotX="0" rotY="-0" rotZ="-0" uniqueID="87"></building>
     <building id="nbbridgerdb" lodParent="LODridgerdb" posX="-820.977" posY="879.89" posZ="38.7342" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
     <building id="bridge_support" posX="-549.15" posY="870.05" posZ="27.4885" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="bridge_endbit01" posX="-370.296" posY="881.325" posZ="16.6532" rotX="0" rotY="-0" rotZ="-0"></building>

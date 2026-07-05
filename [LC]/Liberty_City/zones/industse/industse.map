@@ -38,7 +38,7 @@
     <building id="LOD_shedbig4" posX="103.13" posY="947.866" posZ="21.0376" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODnebasea" posX="218.82" posY="1131.21" posZ="77.0843" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODnebaseb" posX="177.03" posY="1040.96" posZ="76.9305" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODkcranescale" posX="87.47" posY="913.583" posZ="34.3112" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODkcranescale" posX="87.47" posY="913.583" posZ="34.3112" rotX="0" rotY="-0" rotZ="-0" uniqueID="96"></building>
     <building id="LODkcranescale" posX="201.62" posY="913.583" posZ="34.3112" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="lodnetopa" posX="217.94" posY="1130.37" posZ="114.703" rotX="0" rotY="-0" rotZ="-12.999976861867"></building>
     <building id="lodnetopb" posX="176.15" posY="1040.12" posZ="114.703" rotX="0" rotY="-0" rotZ="-29.000108275521"></building>
@@ -48,7 +48,7 @@
     <building id="LODehouse1z" posX="-169.96" posY="849.951" posZ="17.5335" rotX="0" rotY="-0" rotZ="134.99989429057" uniqueID="4"></building>
     <building id="LODehouse1z" posX="-110.41" posY="857.795" posZ="17.5184" rotX="0" rotY="-0" rotZ="-135.00008786395" uniqueID="5"></building>
     <building id="LODehouse1z" posX="-181.02" posY="674.91" posZ="14.5474" rotX="0" rotY="-0" rotZ="-0" uniqueID="6"></building>
-    <building id="LOD_shedwee1" posX="108.49" posY="1126.69" posZ="15.4359" rotX="0" rotY="-0" rotZ="-180"></building>
+    <building id="LOD_shedwee1" posX="108.49" posY="1126.69" posZ="15.4359" rotX="0" rotY="-0" rotZ="-180" uniqueID="37"></building>
     <building id="LOD_shedwee1" posX="106.99" posY="1165.16" posZ="15.4359" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
     <building id="LOD_shedwee1" posX="129.68" posY="1165.16" posZ="15.4359" rotX="0" rotY="-0" rotZ="-180" uniqueID="2"></building>
     <building id="LOD_shedwee1" posX="197.75" posY="1165.16" posZ="15.4359" rotX="0" rotY="-0" rotZ="-180" uniqueID="3"></building>
@@ -88,7 +88,7 @@
     <building id="LODmill" posX="-176.64" posY="775.46" posZ="22.7188" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODrmas" posX="-60.77" posY="977.799" posZ="21.9243" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODpsmidbb" posX="-134.51" posY="1236.02" posZ="14.4728" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODn_garage01" posX="-260.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972"></building>
+    <building id="LODn_garage01" posX="-260.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="35"></building>
     <building id="LODn_garage01" posX="-256.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="1"></building>
     <building id="LODn_garage01" posX="-252.65" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="2"></building>
     <building id="LODn_garage01" posX="-248.68" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="3"></building>
@@ -138,7 +138,7 @@
     <building id="doc_shedbig4" lodParent="LOD_shedbig4" posX="103.13" posY="947.866" posZ="21.0376" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="cranebasea" lodParent="LODnebasea" posX="218" posY="1131.21" posZ="77.0843" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="cranebaseb" lodParent="LODnebaseb" posX="177.03" posY="1040.96" posZ="76.9305" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="dockcranescale" lodParent="LODkcranescale" posX="87.48" posY="913.576" posZ="34.2945" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="dockcranescale" lodParent="LODkcranescale" posX="87.48" posY="913.576" posZ="34.2945" rotX="0" rotY="-0" rotZ="-0" uniqueID="96"></building>
     <building id="dockcranescale" lodParent="LODkcranescale" posX="201.64" posY="913.576" posZ="34.2945" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
     <building id="cranetopa" lodParent="lodnetopa" posX="217.94" posY="1130.37" posZ="114.703" rotX="0" rotY="-0" rotZ="-12.999976861867"></building>
     <building id="cranetopb" lodParent="lodnetopb" posX="176.15" posY="1040.12" posZ="114.703" rotX="0" rotY="-0" rotZ="-29.000008518182"></building>
@@ -148,7 +148,7 @@
     <building id="Objekt_repair26" lodParent="LODehouse1z" posX="-169.96" posY="849.951" posZ="17.5335" rotX="-0.00010750769349778" rotY="4.4530820255568e-05" rotZ="134.99974457018" uniqueID="4"></building>
     <building id="Objekt_repair26" lodParent="LODehouse1z" posX="-110.41" posY="857.795" posZ="17.5184" rotX="-0.00010750827058087" rotY="0.00025954750032908" rotZ="-135.00008786395" uniqueID="5"></building>
     <building id="Objekt_repair26" lodParent="LODehouse1z" posX="-180.72" posY="675.58" posZ="14.2608" rotX="0" rotY="-0" rotZ="-0" uniqueID="6"></building>
-    <building id="doc_shedwee1" lodParent="LOD_shedwee1" posX="108.49" posY="1126.69" posZ="15.4359" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="doc_shedwee1" lodParent="LOD_shedwee1" posX="108.49" posY="1126.69" posZ="15.4359" rotX="0" rotY="-0" rotZ="-0" uniqueID="37"></building>
     <building id="doc_shedwee1" lodParent="LOD_shedwee1" posX="106.99" posY="1165.16" posZ="15.4359" rotX="-0.00015203893460077" rotY="0.00015203893460077" rotZ="180" uniqueID="1"></building>
     <building id="doc_shedwee1" lodParent="LOD_shedwee1" posX="129.68" posY="1165.16" posZ="15.4359" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
     <building id="doc_shedwee1" lodParent="LOD_shedwee1" posX="197.15" posY="1165.16" posZ="15.4359" rotX="0" rotY="-0" rotZ="-0" uniqueID="3"></building>
@@ -188,7 +188,7 @@
     <building id="sawmill" lodParent="LODmill" posX="-176.64" posY="775.46" posZ="22.7188" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="pharmas" lodParent="LODrmas" posX="-61.2" posY="977.67" posZ="21.9197" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="stepsmidbb" lodParent="LODpsmidbb" posX="-140.62" posY="1237.92" posZ="18.6295" rotX="2.1501616362298e-10" rotY="-0.00030407865378871" rotZ="89.999873403674"></building>
-    <building id="iten_garage01" lodParent="LODn_garage01" posX="-260.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972"></building>
+    <building id="iten_garage01" lodParent="LODn_garage01" posX="-260.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="35"></building>
     <building id="iten_garage01" lodParent="LODn_garage01" posX="-256.6" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="1"></building>
     <building id="iten_garage01" lodParent="LODn_garage01" posX="-252.65" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="2"></building>
     <building id="iten_garage01" lodParent="LODn_garage01" posX="-248.68" posY="1206.86" posZ="13.891" rotX="-0.00015203987878931" rotY="0.00015204028224341" rotZ="-179.99984795972" uniqueID="3"></building>

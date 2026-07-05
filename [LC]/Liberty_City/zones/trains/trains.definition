@@ -2,7 +2,7 @@
     <definition col="LODltrax_lo4b" flags="2,7,21" id="LODltrax_lo4b" lodDistance="700" txd="railway" zone="trains"></definition>
     <definition col="Nnewtrackaaa" flags="2,7,21" id="Nnewtrackaaa" lodDistance="160" txd="railway" zone="trains"></definition>
     <definition col="Nrailtrax_2b" flags="2,7,21" id="Nrailtrax_2b" lodDistance="160" txd="railway" zone="trains"></definition>
-    <definition col="Nrailtrax_bentl" flags="2,7,21" id="Nrailtrax_bentl" lodDistance="160" txd="railway" zone="trains"></definition>
+    <definition col="Nrailtrax_bentl" disable_backface_culling="true" dont_receive_shadows="true" draw_last="true" flags="disable_backface_culling,draw_last,dont_receive_shadows" id="Nrailtrax_bentl" lodDistance="160" txd="railway" zone="trains"></definition>
     <definition col="Nrailtrax_bentr" flags="2,7,21" id="Nrailtrax_bentr" lodDistance="160" txd="railway" zone="trains"></definition>
     <definition col="Nrailtrax_bentrb" flags="2,7,21" id="Nrailtrax_bentrb" lodDistance="160" txd="railway" zone="trains"></definition>
     <definition col="Nrailtrax_ske2b" flags="2,7,21" id="Nrailtrax_ske2b" lodDistance="160" txd="railway" zone="trains"></definition>
