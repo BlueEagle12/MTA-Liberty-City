@@ -1,5 +1,5 @@
 <tracks>
-    <settings radar="/home/codyl/Github/MTA-Liberty-City/[LC]/Liberty_City_Radar/images/radar.png" worldSize="6000.00" centerX="0.00" centerY="0.00"/>
+    <settings radar="tracks/radar.png" worldSize="6000.00" centerX="0.00" centerY="0.00"/>
     <track id="TURISMO" name="Turismo" laps="1" radius="65.00">
         <start x="-299.21" y="1030.89" z="14.66"/>
         <find x="-421.60" y="1121.59" z="14.66"/>
